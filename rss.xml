@@ -7,8 +7,8 @@
 <title>Тоже мне радио</title>
 <description>Обновления сайта.</description>
 <link>http://www.tmradio.net/</link>
-<pubDate>Wed, 29 Dec 2010 12:39:31 -0000</pubDate>
-<lastBuildDate>Wed, 29 Dec 2010 12:39:31 -0000</lastBuildDate>
+<pubDate>Wed, 29 Dec 2010 12:44:59 -0000</pubDate>
+<lastBuildDate>Wed, 29 Dec 2010 12:44:59 -0000</lastBuildDate>
 <item>
 	<title>Эфир от 24.12.2010</title>
 	<link>http://www.tmradio.net/sosonews-04.html</link>
@@ -18,15 +18,10 @@
 &lt;li&gt;&lt;a href="http://lenta.ru/news/2010/12/21/pistola/"&gt;Госдума приравняла травматическое оружие к огнестрельному&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://news2.ru/story/285352/"&gt;Медведев велел жестко пресекать все митинги и шествия.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.gazeta.ru/politics/2010/12/23_a_3476049.shtml"&gt;ЦРУ создает специальное подразделение по борьбе с Wikileaks.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Слушать выпуск:&lt;/p&gt;
-&lt;div id="player"&gt;&lt;object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="37" id="swf"&gt;&lt;param name="movie" value="niftyplayer.swf?file=http%3A//files.tmradio.net/news-04.mp3"&gt;&lt;param name="quality" value="high"/&gt;&lt;param name="bgcolor" value="#FFFFFF"/&gt;&lt;embed src="niftyplayer.swf?file=http%3A//files.tmradio.net/news-04.mp3" quality="high" bgcolor="#FFFFFF" width="165" height="37" name="swf" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/go/getflashplayer"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href="http://files.tmradio.net/news-04.mp3"&gt;Скачать выпуск&lt;/a&gt;
-&lt;div id="disqus_thread"&gt;&lt;/div&gt;&lt;script type="text/javascript"&gt;if (window.location.href.indexOf("http://localhost:") == 0) var disqus_developer = 1;var disqus_identifier = "sosonews-04.html"; (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = 'http://tmradio.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })();&lt;/script&gt;&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="http://disqus.com/?ref_noscript=tmradio"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;a href="http://disqus.com" class="dsq-brlink"&gt;blog comments powered by &lt;span class="logo-disqus"&gt;Disqus&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/ul&gt;</description>
 	<pubDate>Fri, 24 Dec 2010 09:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-04.html</guid>
-	<enclosure url="http://files.tmradio.net/news-04.mp3" type="audio/mpeg"/>
+	<enclosure url="http://files.tmradio.net/news-04.mp3" type="audio/mpeg" length="28092452"/>
 	<category>news</category>
 	<category>podcast</category>
 </item>
@@ -47,15 +42,10 @@
 &lt;li&gt;&lt;a href="http://www.dp.ru/a/2010/11/02/Mihail_Prohorov_predlozhil"&gt;Прохоров предложил разрешить работать по 60 часов в неделю&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://properm.ru/news/region/21049/?p=1"&gt;Вопрос Путину о заброшенном шахтёрском посёлке&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.nr2.ru/perm/313356.html"&gt;Число школ приведут в соответствие с числом учащихся&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Слушать выпуск:&lt;/p&gt;
-&lt;div id="player"&gt;&lt;object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="37" id="swf"&gt;&lt;param name="movie" value="niftyplayer.swf?file=http%3A//files.tmradio.net/news-03.mp3"&gt;&lt;param name="quality" value="high"/&gt;&lt;param name="bgcolor" value="#FFFFFF"/&gt;&lt;embed src="niftyplayer.swf?file=http%3A//files.tmradio.net/news-03.mp3" quality="high" bgcolor="#FFFFFF" width="165" height="37" name="swf" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/go/getflashplayer"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href="http://files.tmradio.net/news-03.mp3"&gt;Скачать выпуск&lt;/a&gt;
-&lt;div id="disqus_thread"&gt;&lt;/div&gt;&lt;script type="text/javascript"&gt;if (window.location.href.indexOf("http://localhost:") == 0) var disqus_developer = 1;var disqus_identifier = "sosonews-03.html"; (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = 'http://tmradio.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })();&lt;/script&gt;&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="http://disqus.com/?ref_noscript=tmradio"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;a href="http://disqus.com" class="dsq-brlink"&gt;blog comments powered by &lt;span class="logo-disqus"&gt;Disqus&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/ul&gt;</description>
 	<pubDate>Thu, 16 Dec 2010 09:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-03.html</guid>
-	<enclosure url="http://files.tmradio.net/news-03.mp3" type="audio/mpeg"/>
+	<enclosure url="http://files.tmradio.net/news-03.mp3" type="audio/mpeg" length="38192982"/>
 	<category>news</category>
 	<category>podcast</category>
 </item>
@@ -75,16 +65,10 @@
 &lt;li&gt;&lt;a href="http://www.amazon.co.uk/gp/product/B004EEOLIU?ie=UTF8&amp;force-full-site=1"&gt;На amazon.co.uk продаётся архив WikiLeaks для Kindle (уже опубликованные ранее материалы)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.rosbalt.ru/2010/12/07/798116.html"&gt;Саммит ОБСЕ в Астане провалился&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://txt.newsru.com/russia/05dec2010/glonasss.html"&gt;Три спутника ГЛОНАСС упали в океан&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Слушать выпуск:&lt;/p&gt;
-&lt;div id="player"&gt;&lt;object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="37" id="swf"&gt;&lt;param name="movie" value="niftyplayer.swf?file=http%3A//files.tmradio.net/news-02.mp3"&gt;&lt;param name="quality" value="high"/&gt;&lt;param name="bgcolor" value="#FFFFFF"/&gt;&lt;embed src="niftyplayer.swf?file=http%3A//files.tmradio.net/news-02.mp3" quality="high" bgcolor="#FFFFFF" width="165" height="37" name="swf" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/go/getflashplayer"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href="http://files.tmradio.net/news-02.mp3"&gt;Скачать выпуск&lt;/a&gt;
-&lt;div id="disqus_thread"&gt;&lt;/div&gt;&lt;script type="text/javascript"&gt;if (window.location.href.indexOf("http://localhost:") == 0) var disqus_developer = 1;var disqus_identifier = "sosonews-02.html"; (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = 'http://tmradio.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })();&lt;/script&gt;&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="http://disqus.com/?ref_noscript=tmradio"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;a href="http://disqus.com" class="dsq-brlink"&gt;blog comments powered by &lt;span class="logo-disqus"&gt;Disqus&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/ul&gt;</description>
 	<pubDate>Thu, 09 Dec 2010 09:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-02.html</guid>
-	<enclosure url="http://files.tmradio.net/news-02.mp3" type="audio/mpeg"/>
+	<enclosure url="http://files.tmradio.net/news-02.mp3" type="audio/mpeg" length="58422620"/>
 	<category>news</category>
 	<category>podcast</category>
 </item>
@@ -97,15 +81,10 @@
 &lt;li&gt;&lt;a href="http://vz.ru/news/2010/12/1/451644.html"&gt;Испания поддержала отмену виз между Россией и ЕС&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://infox.ru/authority/mans/2010/12/01/Sobyanin_pyeryesyeli.phtml"&gt;Собянин планирует переселить московских пенсионеров в Ярославскую область&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.trud.ru/article/25-10-2010/252871_kak_lukashenko_sozdal_svoe_skolkovo.html"&gt;Как Лукашенко создавал своё Сколково&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Слушать выпуск:&lt;/p&gt;
-&lt;div id="player"&gt;&lt;object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="37" id="swf"&gt;&lt;param name="movie" value="niftyplayer.swf?file=http%3A//files.tmradio.net/news-01.mp3"&gt;&lt;param name="quality" value="high"/&gt;&lt;param name="bgcolor" value="#FFFFFF"/&gt;&lt;embed src="niftyplayer.swf?file=http%3A//files.tmradio.net/news-01.mp3" quality="high" bgcolor="#FFFFFF" width="165" height="37" name="swf" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/go/getflashplayer"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href="http://files.tmradio.net/news-01.mp3"&gt;Скачать выпуск&lt;/a&gt;
-&lt;div id="disqus_thread"&gt;&lt;/div&gt;&lt;script type="text/javascript"&gt;if (window.location.href.indexOf("http://localhost:") == 0) var disqus_developer = 1;var disqus_identifier = "sosonews-01.html"; (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = 'http://tmradio.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })();&lt;/script&gt;&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="http://disqus.com/?ref_noscript=tmradio"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;a href="http://disqus.com" class="dsq-brlink"&gt;blog comments powered by &lt;span class="logo-disqus"&gt;Disqus&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/ul&gt;</description>
 	<pubDate>Thu, 02 Dec 2010 09:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-01.html</guid>
-	<enclosure url="http://files.tmradio.net/news-01.mp3" type="audio/mpeg"/>
+	<enclosure url="http://files.tmradio.net/news-01.mp3" type="audio/mpeg" length="56453333"/>
 	<category>news</category>
 	<category>podcast</category>
 </item>
