@@ -6,8 +6,8 @@
 <generator>Poole</generator>
 <title>Тоже мне радио: news</title>
 <link>http://www.tmradio.net/news.html</link>
-<pubDate>Wed, 29 Dec 2010 12:33:34 -0000</pubDate>
-<lastBuildDate>Wed, 29 Dec 2010 12:33:34 -0000</lastBuildDate>
+<pubDate>Wed, 29 Dec 2010 12:35:33 -0000</pubDate>
+<lastBuildDate>Wed, 29 Dec 2010 12:35:33 -0000</lastBuildDate>
 <item>
 	<title>Эфир от 24.12.2010</title>
 	<link>http://www.tmradio.net/sosonews-04.html</link>
@@ -74,10 +74,16 @@
 &lt;li&gt;&lt;a href="http://www.amazon.co.uk/gp/product/B004EEOLIU?ie=UTF8&amp;force-full-site=1"&gt;На amazon.co.uk продаётся архив WikiLeaks для Kindle (уже опубликованные ранее материалы)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.rosbalt.ru/2010/12/07/798116.html"&gt;Саммит ОБСЕ в Астане провалился&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://txt.newsru.com/russia/05dec2010/glonasss.html"&gt;Три спутника ГЛОНАСС упали в океан&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+
+&lt;p&gt;Слушать выпуск:&lt;/p&gt;
+&lt;div id="player"&gt;&lt;object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="37" id="swf"&gt;&lt;param name="movie" value="niftyplayer.swf?file=http%3A//files.tmradio.net/news-02.mp3"&gt;&lt;param name="quality" value="high"/&gt;&lt;param name="bgcolor" value="#FFFFFF"/&gt;&lt;embed src="niftyplayer.swf?file=http%3A//files.tmradio.net/news-02.mp3" quality="high" bgcolor="#FFFFFF" width="165" height="37" name="swf" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/go/getflashplayer"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://files.tmradio.net/news-02.mp3"&gt;Скачать выпуск&lt;/a&gt;
+&lt;div id="disqus_thread"&gt;&lt;/div&gt;&lt;script type="text/javascript"&gt;if (window.location.href.indexOf("http://localhost:") == 0) var disqus_developer = 1;var disqus_identifier = "sosonews-02.html"; (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = 'http://tmradio.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })();&lt;/script&gt;&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="http://disqus.com/?ref_noscript=tmradio"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;a href="http://disqus.com" class="dsq-brlink"&gt;blog comments powered by &lt;span class="logo-disqus"&gt;Disqus&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 09 Dec 2010 09:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-02.html</guid>
-	<enclosure url="http://files.tmradio.net/news-02.md" type="None"/>
+	<enclosure url="http://files.tmradio.net/news-02.mp3" type="audio/mpeg"/>
 	<category>news</category>
 	<category>podcast</category>
 </item>
