@@ -1,14 +1,15 @@
 <?xml version="1.0"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
+<atom:link href="http://www.tmradio.net/rss.xml" rel="self" type="application/rss+xml"/>
 <language>ru-RU</language>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>Poole</generator>
 <title>Тоже мне радио</title>
 <description>Обновления сайта.</description>
 <link>http://www.tmradio.net/</link>
-<pubDate>Wed, 29 Dec 2010 12:44:59 -0000</pubDate>
-<lastBuildDate>Wed, 29 Dec 2010 12:44:59 -0000</lastBuildDate>
+<pubDate>Wed, 29 Dec 2010 12:47:42 -0000</pubDate>
+<lastBuildDate>Wed, 29 Dec 2010 12:47:42 -0000</lastBuildDate>
 <item>
 	<title>Эфир от 24.12.2010</title>
 	<link>http://www.tmradio.net/sosonews-04.html</link>
