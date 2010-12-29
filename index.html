@@ -1,87 +1,32 @@
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- vim: set ts=2 sts=2 sw=2 et: -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru">
   <head>
+    <base href="/"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>Тоже мне радио</title>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <link rel="stylesheet" type="text/css" media="screen" href="screen.css"/>
+    <link rel="stylesheet" type="text/css" href="/screen.css" media="screen, projection"/>
+    <link rel="stylesheet" type="text/css" href="/handheld.css" media="handheld"/>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/png"/>
+    <style type="text/css">form .text { background: white url(data:image/gif;base64,R0lGODlhAQAFAKIAAPHx8e7u7vv7+/b29v///wAAAAAAAAAAACH5BAAAAAAALAAAAAABAAUAAAMEGDBCCQA7) repeat-x scroll center top; }</style>
   </head>
   <body>
     <div id="wrapper">
       <h1>Тоже мне радио</h1>
-      <p><em>Тоже мне радио</em> — это <a href="http://ru.wikipedia.org/wiki/Интернет-радио">сетевая радиостанция</a>, которая круглые сутки вещает <a href="#music">свободную музыку</a>, <a href="http://echo.msk.ru/news/">новости</a> и <a href="http://ru.wikipedia.org/wiki/Подкастинг">подкасты</a>, иногда прерываясь на прямые эфиры.</p>
+      <div id="content"><p><em>Тоже мне радио</em> — это небольшая некоммерческая <a href="http://ru.wikipedia.org/wiki/Интернет-радио">сетевая радиостанция</a>,
+которая круглые сутки вещает <a href="/music.html">свободную музыку</a>, <a href="http://echo.msk.ru/news/">новости</a> и
+<a href="http://ru.wikipedia.org/wiki/Подкастинг">подкасты</a>, иногда прерываясь на <a href="/live.html">прямые эфиры</a>.</p>
+<p>Слушать можно прямо здесь:</p>
+<div id="player"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="37" id="swf"><param name="movie" value="niftyplayer.swf?file=http://stream.tmradio.net:8180/live.mp3"><param name="quality" value="high"/><param name="bgcolor" value="#FFFFFF"/><embed src="/niftyplayer.swf?file=http://stream.tmradio.net:8180/live.mp3" quality="high" bgcolor="#FFFFFF" width="165" height="37" name="swf" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object></div>
 
-      <h2><a name="listen" href="#listen">Как слушать</a></h2>
-      <p>Можно добавить <a href="http://stream.tmradio.net:8180/live.mp3">специальную ссылку</a> в ваш настольный проигрыватель или слушать прямо здесь:</p>
-		  <div id="player"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="37" id="swf"><param name="movie" value="niftyplayer.swf?file=http://stream.tmradio.net:8180/live.mp3"><param name="quality" value="high"/><param name="bgcolor" value="#FFFFFF"/><embed src="niftyplayer.swf?file=http://stream.tmradio.net:8180/live.mp3" quality="high" bgcolor="#FFFFFF" width="165" height="37" name="swf" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object></div>
-
-      <h2><a name="music" href="#music">Какая звучит музыка</a></h2>
-      <p>Мы играем только <a href="http://ru.wikipedia.org/wiki/Свободная_музыка">свободную музыку</a> и <a href="http://www.lastfm.ru/user/tmradiobot">отмечаем</a> её в Last.fm.  Можно голосовать за песни, которые нравятся, или против тех, что не нравятся, влияя на эфир.  Для этого нужен jabber-клиент (<a href="http://talk.google.com/">Google Talk</a>, <a href="http://online.yandex.ru/">Я.Онлайн</a>), в который нужно добавить нашего робота <em>robot@mirkforce.net</em> и писать ему команды «rocks» и «sucks» по мере прослушивания.</p>
-
-      <h2><a name="live" href="#live">Прямые эфиры</a></h2>
-      <p>Иногда привычный роботизированный эфир прерывается прямыми включениями.  Чтобы узнавать о них заранее нужно зарегистрироваться на сайте <a href="http://smster.ru/">smster.ru</a> и добавить в друзья <a href="http://smster.ru/dug">пользователя dug</a>, после чего вам будут приходить SMS оповещения за несколько часов и за несколько минут до эфира.</p>
-      <p>Во время эфиров работает <a href="http://ru.wikipedia.org/wiki/IRC">IRC-чат</a> на канале #tmradio сервера irc.zeronode.net, можно <a href="http://widget.mibbit.com/?settings=a7caefd291afb73c4d533f392cc6bb2b&amp;server=irc.zeronode.net&amp;channel=%23tmradio">зайти браузером</a>.  (Если вы подключаетесь Мирандой, обязательно выберите кодировку UTF-8, иначе вас никто не поймёт.)</p>
-      <p>В эфир часто можно звонить через <a href="http://www.skype.com/">Skype</a> (пользователь <a href="skype:tmradio?userinfo">tmradio</a>), готовьте вопросы и комментарии.</p>
-      <p>Записи прямых эфиров доступны в виде подкастов «<a href="http://offtopic.rpod.ru/">Оффтопик</a>» и «<a href="news.html">Так себе новости</a>».  Оффтопики выходят не по расписанию, новости записываются в прямом эфире по четвергам в 21:00.</p>
-
-      <h2><a href="#schedule" name="schedule">Сетка вещания</a></h2>
-      <h3>Ежедневно:</h2>
-      <table><tbody>
-        <tr>
-          <td>00:00-07:00</td>
-          <td>спокойная ночная музыка</td>
-        </tr>
-        <tr>
-          <td>07:00-09:00</td>
-          <td>поп-музыка (будильник)</td>
-        </tr>
-        <tr>
-          <td>19:00-21:00</td>
-          <td><a href="http://ru.wikipedia.org/wiki/Индастриал">электронный индастриал</a></td>
-        </tr>
-      </tbody></table>
-      <h3>По четвергам:</h3>
-      <table><tbody>
-        <tr>
-          <td>09:00, 18:00</td>
-          <td>последние выпуски подкастов от <a href="http://dugwin.net/">Дуга</a></td>
-        </tr>
-        <tr>
-          <td>21:00</td>
-          <td><a href="news.html">так себе новости</a></td>
-        </tr>
-      </tbody></table>
-
-      <h2><a name="contact" href="#contact">Контактная информация</a></h2>
-      <ul>
-        <li><a href="mailto:dugwin@gmail.com">dugwin@gmail.com</a> (программный директор)</li>
-        <li><a href="mailto:justin.forest@gmail.com">justin.forest@gmail.com</a> (технический директор)</li>
-        <li><a href="http://twitter.com/tmradio">@tmradio</a> (робот)</li>
-      </ul>
-      <p>Присылайте ссылки на интересные группы и подкасты.</p>
-
-      <h2><a name="links" href="#links">Ссылки на музыку</a></h2>
-      <p>Почти всю музыку, что звучит в нашем эфире, можно скачать:</p>
-      <ul>
-        <li>CutOff:Sky, «<a href="http://www.freemusichub.net/album/39">Promo</a>»</li>
-        <li>Crystal Matrix, «<a href="http://rutracker.org/forum/viewtopic.php?t=3203258">Far Away From Earth</a>»</li>
-        <li>Dark Souls Day, «<a href="http://www.clearbits.net/torrents/1511-dark-souls-day---x-lives">X-Lives</a>»</li>
-        <li>Floor Seven, «<a href="http://www.floorseven.ru/">Rendered Dreams</a>»</li>
-        <li>Heifervescent, «<a href="http://www.jamendo.com/en/album/39947">Pondlife Fiasco</a>»</li>
-        <li>KOSMOPOP2, «<a href="http://www.freemusichub.net/album/26">256 цветов музыки</a>»</li>
-        <li>Mezzamo, «<a href="http://www.jamendo.com/ru/album/58888">Aloneluna</a>»</li>
-        <li>WN4WZ, «<a href="http://wn4wz.org.ua/leftovers_en.html">K.Y.I.V.</a>»</li>
-        <li>Земфира, «<a href="http://www.zemfira.ru/">Live2</a>»</li>
-        <li>Несчастный Случай, «<a href="http://ns.ru/creativity/tonnel/">Тоннель в конце света</a>»</li>
-      </ul>
-
-      <ul id="nav">
-        <li><a href="index.html#listen">Как слушать?</a></li>
-        <li><a href="index.html#music">Какая звучит музыка?</a></li>
-        <li><a href="index.html#live">Прямые эфиры</a></li>
-        <li><a href="index.html#schedule">Сетка вещания</a></li>
-        <li><a href="news.html">Так себе новости</a></li>
-        <li><a href="index.html#contact">Контактная информация</a></li>
-        <li><a href="index.html#links">Ссылки на музыку</a></li>
-      </ul>
+<p>Если вы предпочитаете использовать специализированный настольный проигрыватель,
+добавьте в него эту ссылку:</p>
+<p><a href="http://stream.tmradio.net:8180/live.mp3.m3u">http://stream.tmradio.net:8180/live.mp3.m3u</a></p>
+<h2>Статистика слушателей за неделю</h2>
+<p><a target="_blank" href="http://stream.tmradio.net/"><img
+src="http://stream.tmradio.net/listeners-week.png" alt="график"/></a></p>
+<p>График обновляется раз в час.</p></div>
     </div>
+    <ul id="nav"><li><a href="/index.html">Тоже мне радио</a></li><li><a href="/live.html">Прямой эфир</a></li><li><a href="/music.html">Музыка</a></li><li><a href="/schedule.html">Сетка вещания</a></li><li><a href="/news.html">Так себе новости</a></li><li><a href="/feedback.html">Обратная связь</a></li></ul>
   </body>
 </html>
