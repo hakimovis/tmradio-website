@@ -8,8 +8,8 @@
 <title>Тоже мне радио: news</title>
 <description>Страницы сайта Тоже мне радио с пометкой «news».</description>
 <link>http://www.tmradio.net/news.html</link>
-<pubDate>Thu, 30 Dec 2010 21:21:17 -0000</pubDate>
-<lastBuildDate>Thu, 30 Dec 2010 21:21:17 -0000</lastBuildDate>
+<pubDate>Thu, 30 Dec 2010 21:34:50 -0000</pubDate>
+<lastBuildDate>Thu, 30 Dec 2010 21:34:50 -0000</lastBuildDate>
 <item>
 	<title>Эфир от 30.12.2010</title>
 	<link>http://www.tmradio.net/sosonews-05.html</link>
@@ -22,7 +22,9 @@
 &lt;li&gt;&lt;a href="http://news2.ru/story/287264/"&gt;На станции «Охотный ряд» в Москве появился ПУНКТ ДОСМОТРА ПАССАЖИРОВ&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.interfax.ru/news.asp?id=171325"&gt;МЕДВЕДЕВ подписал закон о безопасности&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://vz.ru/columns/2010/12/27/457872.html"&gt;ДМИТРИЙ СОКОЛОВ: «Манежная площадь — это не симптомы распада государства, а наоборот — первые признаки его обретения»&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="статистика" src="sosonews-05.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 30 Dec 2010 09:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-05.html</guid>
 	<enclosure url="http://files.tmradio.net/sosonews-05.mp3" type="audio/mpeg" length="27759130"/>
