@@ -48,7 +48,7 @@ def print_menu(pages):
     pages = [p for p in pages if p.get('mpos')]
 
     output = u'<ul id="nav">'
-    for page in sorted(pages, key=lambda a: a.mpos):
+    for page in sorted(pages, key=lambda a: int(a.mpos)):
         output += u'<li><a href="%(link)s">%(title)s</a></li>' % {
             'link': page.url,
             'title': page.get('title', 'wtf :('),

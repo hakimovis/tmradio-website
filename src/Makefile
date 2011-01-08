@@ -4,7 +4,7 @@ build:
 	poole.py --build
 
 update: build
-	-git add -A
+	-git add ..
 	-git commit -am "Web site udpdate."
 	-git push
 
