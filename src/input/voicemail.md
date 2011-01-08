@@ -30,6 +30,7 @@ mpos: 6
 вместо названия композиции.
 
 Сообщения добавляются в плейлист «voicemail», имеющий максимальный приоритет. 
-Дорожки из этого плейлиста не отправляются в last.fm.
+Дорожки из этого плейлиста не отправляются в [last.fm][last].
 
 [script]: http://code.google.com/p/ardj/source/browse/tools/voicemail.py
+[last]: http://www.lastfm.ru/user/tmradiobot
