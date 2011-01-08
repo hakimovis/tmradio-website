@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- vim: set ts=2 sts=2 sw=2 et: -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru">
+  <head>
+    <base href="/"/>
+    <meta http-equiv="Content-Type" content="text/html; charset={{ __encoding__ }}"/>
+    <title>{{ page.get('title', 'Dead Channel') }}</title>
+    <link rel="stylesheet" type="text/css" href="/screen.css" media="screen, projection"/>
+    <link rel="stylesheet" type="text/css" href="/handheld.css" media="handheld"/>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/png"/>
+    <style type="text/css">form .text { background: white url(data:image/gif;base64,R0lGODlhAQAFAKIAAPHx8e7u7vv7+/b29v///wAAAAAAAAAAACH5BAAAAAAALAAAAAABAAUAAAMEGDBCCQA7) repeat-x scroll center top; }</style>
+  </head>
+  <body>
+    <div id="wrapper">
+      <h1>{{ page.get('title') }}</h1>
+      <div id="content">{{ __content__ }}{{ print_player(page) }}</div>
+    </div>
+    {{ print_menu(pages) }}
+  </body>
+</html>
