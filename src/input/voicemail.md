@@ -17,7 +17,7 @@ mpos: 6
 можно всё, что потенциально может заинтересовать других слушателей. 
 Злоупотреблять доверием не стоит.
 
-<a href="http::/files.tmradio.net/voicemail/rss.xml" class="rss external">RSS-лента последних сообщений</a> (подкаст)
+<a href="http://files.tmradio.net/voicemail/rss.xml" class="rss external">RSS-лента последних сообщений</a> (подкаст)
 
 [AMR]: http://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec
 [email]: mailto:voicemail@tmradio.net
