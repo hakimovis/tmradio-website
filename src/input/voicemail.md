@@ -4,7 +4,7 @@ mpos: 6
 Любой желающий может прислать голосовое сообщение в эфир.  Для этого нужно
 записать его и прислать файл по электронной почте на адрес
 [voice@tmradio.net][email].  Сообщение будет проиграно 10 раз с интервалом в 30
-минут, после чего уйдёт в [архив][archive].
+минут, после чего уйдёт в [архив][archive] ([RSS][podcast]).
 
 На данный момент обрабатываются файлы с расширениями amr, mp3 и ogg;
 [напишите][feedback], если вам удобно отправлять файлы в другом формате.
@@ -13,11 +13,10 @@ mpos: 6
 можно всё, что потенциально может заинтересовать других слушателей. 
 Злоупотреблять доверием не стоит.
 
-<a href="http://files.tmradio.net/voicemail/rss.xml" class="rss external">RSS-лента последних сообщений</a> (подкаст)
-
 [archive]: http://files.tmradio.net/voicemail/
 [email]: mailto:voicemail@tmradio.net
 [feedback]: /feedback.html
+[podcast]: http://files.tmradio.net/voicemail/rss.xml
 
 
 ## Рекомендации
