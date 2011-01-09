@@ -10,7 +10,7 @@ a:
   color: #008;
   text-decoration: underline;
 
-  .rss:
+  &.rss:
     background: url(images/rss.png) no-repeat top left;
     padding-left: 18px;
 
