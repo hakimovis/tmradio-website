@@ -1,14 +1,18 @@
 body:
-	background-color: white
-	color: black
-	font: 12pt Ubuntu, sans-serif;
-	line-height: 18pt;
-	margin: 0;
-	padding: 10px;
+  background-color: white
+  color: black
+  font: 12pt Ubuntu, sans-serif;
+  line-height: 18pt;
+  margin: 0;
+  padding: 10px;
 
 a:
-	color: #008;
-	text-decoration: underline;
+  color: #008;
+  text-decoration: underline;
+
+  .rss:
+    background: url(images/rss.png) no-repeat top left;
+    padding-left: 18px;
 
 #wrapper:
   width: 600px;
