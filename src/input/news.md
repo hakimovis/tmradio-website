@@ -1,7 +1,6 @@
 title: Так себе новости
-mpos: 5
 ---
-Так себе новости — парный подкаст, в котором [дуг][] и [хекс][] обсуждают
+Так себе новости — парный подкаст, в котором [Дуг][] и [Хекс][] обсуждают
 новости прошедшей недели.  Выпуски длятся примерно 60 минут.
 
 Подкаст записывается каждый четверг в 21:00 в [прямом эфире][live],
@@ -16,8 +15,8 @@ mpos: 5
 
 [sosonews+subscribe@googlegroups.com](mailto:sosonews+subscribe@googlegroups.com)
 
-[дуг]: http://dugwin.net/
-[хекс]: http://umonkey.net/
+[Дуг]: http://dugwin.net/
+[Хекс]: http://umonkey.net/
 [live]: /live.html
 [podcast]: /news.xml
 
