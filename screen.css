@@ -18,10 +18,11 @@ a.rss {
 }
 
 #player {
-  border: 1px solid #eeeeee;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
   padding: 2px;
-  width: 165px;
-  height: 37px;
+  width: 30px;
+  height: 30px;
 }
 
 #player.right {
@@ -42,6 +43,14 @@ a.rss {
   margin: 0;
   padding: 0;
   line-height: 2em;
+}
+
+#content ul {
+  padding-left: 2em;
+}
+
+#content li {
+  margin: .5em 0;
 }
 
 table {

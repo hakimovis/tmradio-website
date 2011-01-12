@@ -15,10 +15,11 @@ a:
     padding-left: 18px;
 
 #player:
-  border: 1px solid #eee;
+  border: 1px solid #ccc;
+  border-radius: 4px;
   padding: 2px;
-  width: 165px;
-  height: 37px;
+  width: 30px;
+  height: 30px;
 
   &.right:
 	margin-left: 1em;
@@ -36,6 +37,13 @@ a:
   margin: 0;
   padding: 0;
   line-height: 2em;
+
+#content:
+	ul:
+		padding-left: 2em;
+
+	li:
+		margin: .5em 0;
 
 table:
   border-collapse: collapse;
