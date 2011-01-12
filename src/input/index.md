@@ -6,14 +6,9 @@ mpos: 1
 [новости][news] и [подкасты][pc], иногда прерываясь на [прямые
 эфиры](/live.html).
 
-Слушать можно прямо здесь:
+Слушать можно [в любимом проигрывателе](/player.html) или прямо здесь:
 
 <div id="player"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="37" id="swf"><param name="movie" value="niftyplayer.swf?file=http://stream.tmradio.net:8180/live.mp3"><param name="quality" value="high"/><param name="bgcolor" value="#FFFFFF"/><embed src="niftyplayer.swf?file=http://stream.tmradio.net:8180/live.mp3" quality="high" bgcolor="#FFFFFF" width="165" height="37" name="swf" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object></div>
-
-Если вы предпочитаете использовать специализированный настольный проигрыватель,
-добавьте в него эту ссылку:
-
-[http://stream.tmradio.net:8180/live.mp3.m3u][listen]
 
 ## Статистика слушателей за неделю
 
