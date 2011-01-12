@@ -14,7 +14,7 @@ title: Открытость
 Если вы хотите помочь сделать радиостанцию лучше:
 
 - Присылайте известную вам хорошую свободную музыку.
-- [Сообщайте](/voicemail.html) о том, что происходит вокруг вас, чтобы
+- [Сообщайте][voicemail] о том, что происходит вокруг вас, чтобы
   разнообразить эфир.
 - Нарисуйте нам логотип (можно для [новостей](/news.html)).
 - Нарисуйте нам нормальный сайт!
@@ -27,3 +27,4 @@ title: Открытость
 [lstat]: http://files.tmradio.net/listeners/listeners.csv
 [soft]: http://ardj.googlecode.com/
 [sstat]: http://files.tmradio.net/listeners/totals.csv
+[voicemail]: /voicemail.html
