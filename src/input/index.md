@@ -25,6 +25,7 @@ mpos: 1
 [listen]: http://stream.tmradio.net:8180/live.mp3.m3u
 [log]: http://files.tmradio.net/listeners.csv
 [news]: http://echo.msk.ru/news/
+[open]: /open.html
 [pc]: http://ru.wikipedia.org/wiki/Подкастинг
 [radio]: http://ru.wikipedia.org/wiki/Интернет-радио
 [tsn]: /news.html
