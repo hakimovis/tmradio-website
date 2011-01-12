@@ -2,7 +2,8 @@ title: Открытость
 ---
 Тоже мне радио — открытая радиостанция.  Это означает, что:
 
-- Исходный код используемого нами ПО [распространяется свободно][soft].
+- Исходный код используемого нами ПО [распространяется свободно][soft], включая
+  [исходный код этого сайта][site].
 - Вся музыка, которая звучит у нас, может быть легально загружена с сайтов
   исполнителей.
 - Слушатели могут формировать эфир [оценивая][jabber] звучащую музыку и
@@ -25,6 +26,7 @@ title: Открытость
 [feedback]: /feedback.html
 [jabber]: /jabber.html
 [lstat]: http://files.tmradio.net/listeners/listeners.csv
+[site]: https://github.com/umonkey/tmradio
 [soft]: http://ardj.googlecode.com/
 [sstat]: http://files.tmradio.net/listeners/totals.csv
 [voicemail]: /voicemail.html
