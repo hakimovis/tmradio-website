@@ -17,6 +17,11 @@ a.rss {
   padding-left: 18px;
 }
 
+#player {
+  margin: 1px solid #cccccc;
+  padding: 1px;
+}
+
 #wrapper {
   width: 600px;
   margin: 0 auto;
