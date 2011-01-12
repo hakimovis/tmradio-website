@@ -1,5 +1,5 @@
 title: Сетка вещания
-mpos: 4
+mpos: 3
 ---
 <h3>Ежедневно:</h2>
 <table><tbody>
