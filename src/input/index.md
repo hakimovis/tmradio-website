@@ -20,8 +20,7 @@ mpos: 1
 src="http://stream.tmradio.net/listeners-week.png" alt="график"/></a>
 
 График обновляется раз в час (всплески по четвергам связаны с [так себе
-новостями][tsn]).  Для музыкантов у нас есть [журнал прослушиваний][log], в
-котором отмечено, какую песню сколько человек и когда прослушало.
+новостями][tsn]).
 
 [listen]: http://stream.tmradio.net:8180/live.mp3.m3u
 [log]: http://files.tmradio.net/listeners.csv
