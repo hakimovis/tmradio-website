@@ -1,17 +1,5 @@
 title: Обратная связь
 ---
-Присылайте жалобы и предложения по адресам:
-
-- [dugwin@gmail.com](mailto:dugwin@gmail.com) (программный директор)
-- [hex@umonkey.net](mailto:hex@umonkey.net) (технический директор)
-
-Следить за нами можно здесь:
-
-- [@tmradio](http://twitter.com/tmradio) (робот)
-
-## Отправить сообщение
-
-На случай если почтового клиента под рукой нет:
 
 <form id="feedback" method="post" action="https://dead-channel-news.appspot.com/feedback">
 <input type="hidden" name="back" value="http://www.tmradio.net/"/>
@@ -26,3 +14,11 @@ title: Обратная связь
 </div>
 <input type="submit" value="Отправить"/>
 </form>
+
+
+## Связаться по электронной почте
+
+Присылайте жалобы и предложения по адресам:
+
+- [dugwin@gmail.com](mailto:dugwin@gmail.com) (программный директор)
+- [hex@umonkey.net](mailto:hex@umonkey.net) (технический директор)
