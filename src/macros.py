@@ -170,7 +170,7 @@ def write_rss(pages, title, description, label=None):
         xml += u'\t<guid>%s</guid>\n' % link
         if p.has_key('file'):
             mime_type = mimetypes.guess_type(urlparse.urlparse(p.file).path)[0]
-            xml += u'\t<enclosure url="%s" type="%s" length="%s"/>\n' % (p.file, mime_type, p.get('filesize', 1))
+            xml += u'\t<enclosure url="%s?rss" type="%s" length="%s"/>\n' % (p.file, mime_type, p.get('filesize', 1))
         for l in get_post_labels(p):
             xml += u'\t<category>%s</category>\n' % l
         xml += u'</item>\n'
