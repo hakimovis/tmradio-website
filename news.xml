@@ -8,8 +8,8 @@
 <title>Тоже мне радио: news</title>
 <description>Страницы сайта Тоже мне радио с пометкой «news».</description>
 <link>http://www.tmradio.net/news.html</link>
-<pubDate>Thu, 13 Jan 2011 12:48:47 -0000</pubDate>
-<lastBuildDate>Thu, 13 Jan 2011 12:48:47 -0000</lastBuildDate>
+<pubDate>Thu, 13 Jan 2011 21:50:35 -0000</pubDate>
+<lastBuildDate>Thu, 13 Jan 2011 21:50:35 -0000</lastBuildDate>
 <item>
 	<title>Эфир от 06.01.2011</title>
 	<link>http://www.tmradio.net/sosonews-06.html</link>
@@ -29,6 +29,28 @@
 	<pubDate>Thu, 06 Jan 2011 09:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-06.html</guid>
 	<enclosure url="http://files.tmradio.net/sosonews-06.mp3" type="audio/mpeg" length="50361437"/>
+	<category>news</category>
+	<category>podcast</category>
+</item>
+<item>
+	<title>Эфир от 13.01.2011</title>
+	<link>http://www.tmradio.net/sosonews-07.html</link>
+	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://lenta.ru/news/2011/01/10/mmm/"&gt;МАВРОДИ начал акцию МММ-2011&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.echo.msk.ru/programs/personalno/739285-echo/"&gt;ХАЗИН об устройстве экономики&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.echo.msk.ru/guests/12844/"&gt;ХАЗИН на Эхе Москвы&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.gazeta.ru/news/lenta/2011/01/06/n_1645962.shtml"&gt;Китай готов купить государственный долг Испании&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lm-alexeeva.livejournal.com/16511.html"&gt;АЛЕКСЕЕВА собирает компромат на власти&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kp.ru/print/article/25620.4/787410"&gt;САРЫЧЕВ: транспортный налог надо повысить до 30.000р, заставить население отказываться от личного транспорта&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lenta.ru/news/2011/01/06/taxestime/"&gt;Американцы потратили за год 6,1 миллиарда часов на налоговые декларации&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://txt.newsru.com/world/09jan2011/ariz.html"&gt;В Тусоне подстрелена конгрессвумен Габриэль ГИФФОРДС&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-07.png" /&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 06 Jan 2011 09:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/sosonews-07.html</guid>
+	<enclosure url="http://files.tmradio.net/sosonews-07.mp3" type="audio/mpeg" length="65997248"/>
 	<category>news</category>
 	<category>podcast</category>
 </item>
