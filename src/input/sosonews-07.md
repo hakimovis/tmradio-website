@@ -17,4 +17,6 @@ labels: news, podcast
 <li><a href="http://txt.newsru.com/world/09jan2011/ariz.html">В Тусоне подстрелена конгрессвумен Габриэль ГИФФОРДС</a></li>
 </ul>
 
+[Лог чата](http://files.tmradio.net/sosonews-07.log)
+
 ![статистика](http://files.tmradio.net/sosonews-07.png)
