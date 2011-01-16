@@ -12,9 +12,38 @@ a {
   text-decoration: underline;
 }
 
+a.local {
+  color: inherit;
+  text-decoration: none;
+}
+
+a.local:hover {
+  text-decoration: underline;
+}
+
 a.rss {
   background: url(images/rss.png) no-repeat top left;
   padding-left: 18px;
+}
+
+em {
+  font-style: normal;
+  background-color: #ffff80;
+}
+
+h2 {
+  margin: 1.5em 0 .5em;
+}
+
+.icon a {
+  background-position: center left;
+  background-repeat: no-repeat;
+  margin-left: 0 !important;
+  padding-left: 18px;
+}
+
+.icon-rss a {
+  background-image: url(images/rss.png);
 }
 
 #player {
@@ -46,7 +75,12 @@ a.rss {
 }
 
 #nav li.group {
-  margin-top: .5em;
+  margin-top: 1em;
+  border-top: solid 1px #dddddd;
+}
+
+#nav li a {
+  margin-left: 18px;
 }
 
 #content ul {
