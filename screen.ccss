@@ -80,6 +80,12 @@ h2:
   li:
     margin: .5em 0;
 
+#footer:
+  margin: 2em 0 0 0;
+  border-top: solid 1px #ccc;
+  padding-top: .5em;
+  font-size: 90%;
+
 table:
   border-collapse: collapse;
   width: 100%;

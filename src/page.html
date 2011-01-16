@@ -17,7 +17,11 @@
   <body>
     <div id="wrapper">
       <h1>{{ page.get('title') }}</h1>
-      <div id="content">{{ __content__ }}{{ print_player(page) }}</div>
+      <div id="content">
+        {{ __content__ }}
+        {{ print_player(page) }}
+        <div id="footer">&copy; 2009-2010 Тоже мне радио &middot; <a target="_blank" href="https://github.com/umonkey/tmradio">исходный код сайта</a></div>
+      </div>
     </div>
     {{ print_menu(pages, page) }}
   </body>
