@@ -1,8 +1,8 @@
 title: Эфир от 30.12.2010
-date: 2010-12-30
+date: 2010-12-30 21:00
 file: http://files.tmradio.net/sosonews-05.mp3
 filesize: 27759130
-labels: news
+labels: news, podcast, Ходорковский, Домодедово, МЧС, Медведев, Соколов, Манежная площадь
 ---
 Основные новости:
 

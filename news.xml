@@ -8,8 +8,8 @@
 <title>Тоже мне радио: news</title>
 <description>Страницы сайта Тоже мне радио с пометкой «news».</description>
 <link>http://www.tmradio.net/news.html</link>
-<pubDate>Sun, 16 Jan 2011 11:20:10 -0000</pubDate>
-<lastBuildDate>Sun, 16 Jan 2011 11:20:10 -0000</lastBuildDate>
+<pubDate>Sun, 16 Jan 2011 11:25:47 -0000</pubDate>
+<lastBuildDate>Sun, 16 Jan 2011 11:25:47 -0000</lastBuildDate>
 <item>
 	<title>Эфир от 13.01.2011</title>
 	<link>http://www.tmradio.net/sosonews-07.html</link>
@@ -27,11 +27,20 @@
 
 &lt;p&gt;&lt;a href="http://files.tmradio.net/sosonews-07.log"&gt;Лог чата&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-07.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Wed, 12 Jan 2011 21:00:00 -0000</pubDate>
+	<pubDate>Thu, 13 Jan 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-07.html</guid>
 	<enclosure url="http://files.tmradio.net/sosonews-07.mp3?from=rss" type="audio/mpeg" length="42230837"/>
 	<category>news</category>
 	<category>podcast</category>
+	<category>Алексеева</category>
+	<category>Гиффордс</category>
+	<category>Китай</category>
+	<category>МММ</category>
+	<category>Мавроди</category>
+	<category>Сарычев</category>
+	<category>Тусон</category>
+	<category>Хазин</category>
+	<category>налоги</category>
 </item>
 <item>
 	<title>Эфир от 06.01.2011</title>
@@ -49,11 +58,14 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-06.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Wed, 05 Jan 2011 21:00:00 -0000</pubDate>
+	<pubDate>Thu, 06 Jan 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-06.html</guid>
 	<enclosure url="http://files.tmradio.net/sosonews-06.mp3?from=rss" type="audio/mpeg" length="50361437"/>
 	<category>news</category>
 	<category>podcast</category>
+	<category>Онищенко</category>
+	<category>ТУ-154</category>
+	<category>гибель животных</category>
 </item>
 <item>
 	<title>Эфир от 30.12.2010</title>
@@ -70,11 +82,17 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img alt="статистика" src="sosonews-05.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Wed, 29 Dec 2010 21:00:00 -0000</pubDate>
+	<pubDate>Thu, 30 Dec 2010 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-05.html</guid>
 	<enclosure url="http://files.tmradio.net/sosonews-05.mp3?from=rss" type="audio/mpeg" length="27759130"/>
 	<category>news</category>
 	<category>podcast</category>
+	<category>Домодедово</category>
+	<category>МЧС</category>
+	<category>Манежная площадь</category>
+	<category>Медведев</category>
+	<category>Соколов</category>
+	<category>Ходорковский</category>
 </item>
 <item>
 	<title>Эфир от 23.12.2010</title>
@@ -89,8 +107,14 @@
 	<pubDate>Thu, 23 Dec 2010 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-04.html</guid>
 	<enclosure url="http://files.tmradio.net/sosonews-04.mp3?from=rss" type="audio/mpeg" length="28092452"/>
+	<category>WikiLeaks</category>
 	<category>news</category>
 	<category>podcast</category>
+	<category>Манежная площадь</category>
+	<category>Медведев</category>
+	<category>ЦРУ</category>
+	<category>протесты</category>
+	<category>травматическое оружие</category>
 </item>
 <item>
 	<title>Эфир от 16.12.2010</title>
@@ -110,11 +134,22 @@
 &lt;li&gt;&lt;a href="http://properm.ru/news/region/21049/?p=1"&gt;Вопрос Путину о заброшенном шахтёрском посёлке&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.nr2.ru/perm/313356.html"&gt;Число школ приведут в соответствие с числом учащихся&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-	<pubDate>Wed, 15 Dec 2010 21:00:00 -0000</pubDate>
+	<pubDate>Thu, 16 Dec 2010 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-03.html</guid>
 	<enclosure url="http://files.tmradio.net/sosonews-03.mp3?from=rss" type="audio/mpeg" length="38192982"/>
 	<category>news</category>
 	<category>podcast</category>
+	<category>podcast Путин</category>
+	<category>Варламов</category>
+	<category>Иванов</category>
+	<category>Лекарев</category>
+	<category>Манежная площадь</category>
+	<category>Нургалиев</category>
+	<category>Прохоров</category>
+	<category>Ходорковский</category>
+	<category>золото</category>
+	<category>космос</category>
+	<category>образование</category>
 </item>
 <item>
 	<title>Эфир от 09.12.2010</title>
@@ -133,11 +168,20 @@
 &lt;li&gt;&lt;a href="http://www.rosbalt.ru/2010/12/07/798116.html"&gt;Саммит ОБСЕ в Астане провалился&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://txt.newsru.com/russia/05dec2010/glonasss.html"&gt;Три спутника ГЛОНАСС упали в океан&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-	<pubDate>Wed, 08 Dec 2010 21:00:00 -0000</pubDate>
+	<pubDate>Thu, 09 Dec 2010 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-02.html</guid>
 	<enclosure url="http://files.tmradio.net/sosonews-02.mp3?from=rss" type="audio/mpeg" length="58422620"/>
+	<category>PayPal</category>
+	<category>WikiLeaks</category>
 	<category>news</category>
 	<category>podcast</category>
+	<category>ГЛОНАСС</category>
+	<category>Делягин</category>
+	<category>Манежная площадь</category>
+	<category>ОБСЕ</category>
+	<category>Путин</category>
+	<category>Сердюков</category>
+	<category>Торшин</category>
 </item>
 <item>
 	<title>Эфир от 02.12.2010</title>
@@ -149,11 +193,18 @@
 &lt;li&gt;&lt;a href="http://infox.ru/authority/mans/2010/12/01/Sobyanin_pyeryesyeli.phtml"&gt;Собянин планирует переселить московских пенсионеров в Ярославскую область&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.trud.ru/article/25-10-2010/252871_kak_lukashenko_sozdal_svoe_skolkovo.html"&gt;Как Лукашенко создавал своё Сколково&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-	<pubDate>Wed, 01 Dec 2010 21:00:00 -0000</pubDate>
+	<pubDate>Thu, 02 Dec 2010 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-01.html</guid>
 	<enclosure url="http://files.tmradio.net/sosonews-01.mp3?from=rss" type="audio/mpeg" length="56453333"/>
 	<category>news</category>
 	<category>podcast</category>
+	<category>Кинг</category>
+	<category>Лукашенко</category>
+	<category>Путин</category>
+	<category>Сколково</category>
+	<category>Собянин</category>
+	<category>визовый режим</category>
+	<category>пенсионеры</category>
 </item>
 </channel>
 </rss>

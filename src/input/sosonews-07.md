@@ -1,8 +1,8 @@
 title: Эфир от 13.01.2011
-date: 2011-01-13
+date: 2011-01-13 21:00
 file: http://files.tmradio.net/sosonews-07.mp3
 filesize: 42230837
-labels: news, podcast
+labels: news, podcast, Мавроди, МММ, Хазин, Алексеева, Китай, Сарычев, налоги, Гиффордс, Тусон
 ---
 Основные новости:
 

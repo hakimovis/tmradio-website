@@ -1,8 +1,8 @@
 title: Эфир от 06.01.2011
-date: 2011-01-06
+date: 2011-01-06 21:00
 file: http://files.tmradio.net/sosonews-06.mp3
 filesize: 50361437
-labels: news
+labels: news, podcast, Онищенко, гибель животных, ТУ-154
 ---
 Основные новости:
 
