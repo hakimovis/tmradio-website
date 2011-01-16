@@ -44,6 +44,17 @@ def get_label_stats(posts):
     return labels
 
 
+def parse_date_time(text):
+    """Преобразует дату-время из текста в структуру.
+
+    Поддерживаемый формат: ГГГГ-ММ-ДД ЧЧ:ММ:СС, недостающие сегменты с конца
+    заполняюся нулями.
+    """
+    default = '0000:01:01 00:00:00'
+    text = text + default[len(text):]
+    return time.mktime(time.strptime(text, '%Y-%m-%d %H:%M:%S'))
+
+
 def print_menu(pages):
     pages = [p for p in pages if p.get('mpos')]
 
@@ -165,7 +176,7 @@ def write_rss(pages, title, description, label=None):
         link = u"%s/%s" % (BASE_URL, p.url)
         xml += u'\t<link>%s</link>\n' % link
         xml += u'\t<description>%s</description>\n' % escape(p.html)
-        date = time.mktime(time.strptime("%s 12" % p.date, "%Y-%m-%d %H"))
+        date = parse_date_time(p.date)
         xml += u'\t<pubDate>%s</pubDate>\n' % email.utils.formatdate(date)
         xml += u'\t<guid>%s</guid>\n' % link
         if p.has_key('file'):
