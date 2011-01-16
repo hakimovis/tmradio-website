@@ -60,9 +60,10 @@ def print_menu(pages):
 
     output = u'<ul id="nav">'
     for page in sorted(pages, key=lambda a: int(a.mpos)):
-        output += u'<li><a href="%(link)s">%(title)s</a></li>' % {
+        output += u'<li class="%(class)s"><a href="%(link)s">%(title)s</a></li>' % {
             'link': page.url,
             'title': page.get('mtitle', page.get('title', 'wtf :(')),
+            'class': page.get('mclass', ''),
         }
     output += u'</ul>'
     return output

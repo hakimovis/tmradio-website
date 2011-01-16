@@ -38,6 +38,9 @@ a:
   padding: 0;
   line-height: 2em;
 
+  li.group:
+	margin-top: .5em;
+
 #content:
 	ul:
 		padding-left: 2em;

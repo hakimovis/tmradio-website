@@ -45,6 +45,10 @@ a.rss {
   line-height: 2em;
 }
 
+#nav li.group {
+  margin-top: .5em;
+}
+
 #content ul {
   padding-left: 2em;
 }
