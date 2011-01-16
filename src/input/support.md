@@ -19,7 +19,6 @@ title: Чем и как поддержать «Тоже мне радио»
 
 - WebMoney: R208807661379
 - Яндекс.Деньги: 41001569034026
-- SMS: [см. инструкцию](http://smskopilka.ru/?info&id=52600)
 - [BitCoin](http://www.bitcoin.org/ru): 115tGQgTwh7wo3qhrb45wUxkLk27vTDufn
 
 *Кроме денег* мы с радостью примем в дар следующее:
