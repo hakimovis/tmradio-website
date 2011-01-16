@@ -79,6 +79,12 @@ h2 {
   border-top: solid 1px #dddddd;
 }
 
+#nav li.active a {
+  color: inherit;
+  text-decoration: none;
+  cursor: default;
+}
+
 #nav li a {
   margin-left: 18px;
 }

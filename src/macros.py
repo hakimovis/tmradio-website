@@ -55,15 +55,18 @@ def parse_date_time(text):
     return time.mktime(time.strptime(text, '%Y-%m-%d %H:%M:%S'))
 
 
-def print_menu(pages):
+def print_menu(pages, page):
     pages = [p for p in pages if p.get('mpos')]
 
     output = u'<ul id="nav">'
-    for page in sorted(pages, key=lambda a: int(a.mpos)):
+    for p in sorted(pages, key=lambda a: int(a.mpos)):
+        cls = p.get('mclass', '')
+        if p.url == page.url:
+            cls += u' active'
         output += u'<li class="%(class)s"><a href="%(link)s">%(title)s</a></li>' % {
-            'link': page.url,
-            'title': page.get('mtitle', page.get('title', 'wtf :(')),
-            'class': page.get('mclass', ''),
+            'link': p.url,
+            'title': p.get('mtitle', p.get('title', 'wtf :(')),
+            'class': cls,
         }
     output += u'</ul>'
     return output
