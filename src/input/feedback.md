@@ -1,6 +1,8 @@
 title: Обратная связь
 ---
 
+_Вы также можете [прислать голосовое сообщение прямо в эфир](/voicemail.html)._
+
 <form id="feedback" method="post" action="https://dead-channel-news.appspot.com/feedback">
 <input type="hidden" name="back" value="http://www.tmradio.net/"/>
 <input type="hidden" name="site" value="tmradio.net"/>
