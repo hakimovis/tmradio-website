@@ -19,3 +19,10 @@
 4. Для обновления сайта с отправкой изменений наружу нужно выполнить команду
    "make update".  Она регенерирует страницы, фиксирует (коммитит) все
    изменения и отправляет из в GitHub.
+
+Обычно сеанс работы выглядит примерно так:
+
+$ cd ~/src/sites/tmradio.net/src
+$ cp input/sosonews-07.md input/sosonews-08.md
+$ vim input/sosonews-08.md
+$ make update
