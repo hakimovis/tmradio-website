@@ -13,7 +13,7 @@ _Если вы хотите связаться с администрацией, 
 [напишите][feedback], если вам удобно отправлять файлы в другом формате.
 
 [archive]: http://files.tmradio.net/voicemail/
-[email]: mailto:voicemail@tmradio.net
+[email]: mailto:voice@tmradio.net
 [feedback]: /feedback.html
 [podcast]: http://files.tmradio.net/voicemail/rss.xml
 
