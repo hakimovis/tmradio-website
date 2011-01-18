@@ -9,6 +9,6 @@ title: Программа для прослушивания радио
 - [Скачать ZIP-архив][zip]
 - [Сайт программы][web]
 
-[deb]: http://umonkey-tools.googlecode.com/files/tmradio-client-gtk-0.6.deb
-[zip]: http://umonkey-tools.googlecode.com/files/tmradio-client-gtk-0.6.zip
+[deb]: http://umonkey-tools.googlecode.com/files/tmradio-client-gtk-0.7.deb
+[zip]: http://umonkey-tools.googlecode.com/files/tmradio-client-gtk-0.7.zip
 [web]: http://code.google.com/p/umonkey-tools/wiki/tmradio
