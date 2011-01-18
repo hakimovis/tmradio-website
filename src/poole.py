@@ -49,6 +49,8 @@ except ImportError:
           "http://www.freewisdom.org/projects/python-markdown/Installation")
     sys.exit(1)
 
+OUTPUT_DIR = '..' # TODO: move to options()
+
 # =============================================================================
 # init site
 # =============================================================================
@@ -415,7 +417,7 @@ def build(project, opts):
     # -------------------------------------------------------------------------
 
     dir_in = opj(project, "input")
-    dir_out = opj(project, "output")
+    dir_out = opj(project, OUTPUT_DIR)
     page_html = opj(project, "page.html")
 
     # check required files and folders
@@ -426,7 +428,15 @@ def build(project, opts):
             sys.exit(1)
 
     # prepare output directory
+    project_path = os.path.realpath(project)
     for fod in glob.glob(opj(dir_out, "*")):
+        # don't remove the sources
+        real_fod = os.path.realpath(fod)
+        if real_fod == project_path or real_fod.startswith(project_path + os.path.sep):
+            continue
+        # don't remove version control
+        if os.path.basename(fod) in ('.git', '.hg', '.svn'):
+            continue
         if os.path.isdir(fod):
             shutil.rmtree(fod)
         else:
@@ -551,7 +561,7 @@ def build(project, opts):
 def serve(project, port):
     """Temporary serve a site project."""
 
-    root = opj(project, "output")
+    root = '../' # opj(project, "output")
     if not os.listdir(project):
         print("error  : output dir is empty (build project first!), abort")
         sys.exit(1)

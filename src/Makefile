@@ -1,7 +1,7 @@
 all: build
 
 build:
-	./poole.py --build
+	python poole.py --build
 
 update: build
 	-git add ..
