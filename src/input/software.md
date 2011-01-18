@@ -1,7 +1,7 @@
 title: Программа для прослушивания радио
 ---
 Для пользователей ОС Linux есть специальная программа, которая позволяет слушать
-радио, оценивать музыку и общаться в чате.  Краткий обзор функций:
+радио, оценивать музыку и общаться в чате.  Краткий обзор функций:
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="http://www.youtube.com/embed/m7eX-T0Pnjs?rel=0" frameborder="0"></iframe>
 
