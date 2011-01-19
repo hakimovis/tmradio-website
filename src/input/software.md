@@ -8,7 +8,9 @@ title: Программа для прослушивания радио
 - [Скачать пакет для Debian систем][deb]
 - [Скачать ZIP-архив][zip]
 - [Сайт программы][web]
+- [История изменений][log]
 
 [deb]: http://umonkey-tools.googlecode.com/files/tmradio-client-gtk-0.8.deb
 [zip]: http://umonkey-tools.googlecode.com/files/tmradio-client-gtk-0.8.zip
 [web]: http://code.google.com/p/umonkey-tools/wiki/tmradio
+[log]: http://umonkey-tools.googlecode.com/hg/misc/tmradio-client/CHANGES
