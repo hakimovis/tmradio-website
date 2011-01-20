@@ -8,7 +8,6 @@ labels: news, podcast, в контакте, тунис, революция, Ве
 
 <ul>
 <li>про тунис</li>
-<li><a href="http://lenta.ru/news/2011/01/10/mmm/">МАВРОДИ начал акцию МММ-2011</a></li>
 <li><a href="http://echo.msk.ru/programs/albac/741697-echo/">Немцов</a> после задержания на Эхе</li>
 <li><a href="http://echo.msk.ru/programs/personalno/742044-echo/">Лимонов</a> после задержания на Эхе</li>
 <li><a href="http://txt.newsru.com/russia/19jan2011/sud.html">Впервые в России пользователя "Вконтакте" могут посадить за решетку за "пиратство"</a></li>
