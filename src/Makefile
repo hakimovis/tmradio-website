@@ -3,11 +3,13 @@ all: build
 build:
 	python poole.py --build
 
-update: build
-	-git pull origin gh-pages
+update: fetch build
 	-git add ..
 	-git commit -am "Web site udpdate."
 	-git push
+
+fetch:
+	-git pull origin gh-pages
 
 serve:
 	poole.py --serve
