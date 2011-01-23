@@ -5,8 +5,8 @@ title: Программа для прослушивания радио
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="http://www.youtube.com/embed/m7eX-T0Pnjs?rel=0" frameborder="0"></iframe>
 
-- [Скачать пакет для Debian систем][deb]
-- [Скачать ZIP-архив][zip]
+Текущая версия: 0.9, скачать: [zip][], [deb][].
+
 - [Сайт программы][web]
 - [История изменений][log]
 
