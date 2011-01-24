@@ -28,6 +28,13 @@ em:
 h2:
   margin: 1.5em 0 .5em;
 
+  a:
+    color: inherit;
+    text-decoration: none;
+
+    &:hover:
+      text-decoration: underline;
+
 .icon a:
   background-position: center left;
   background-repeat: no-repeat;
