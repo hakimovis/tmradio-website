@@ -17,7 +17,7 @@ mpos: 2
   </tr>
   <tr>
     <td>18:00-19:00</td>
-    <td>[Час достойной музыки][hitlist] (top 10).</td>
+    <td><a href="/programs/hitlist.html">Час достойной музыки</a> (top 10).</td>
   </tr>
   <tr>
     <td>19:00-21:00</td>
@@ -52,5 +52,3 @@ mpos: 2
     <td>Последний выпуск <a href="/news.html">так себе новостей</a>.</td>
   </tr>
 </tbody></table>
-
-[hitlist]: /programs/hitlist.html
