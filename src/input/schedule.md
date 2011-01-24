@@ -13,7 +13,7 @@ mpos: 2
   </tr>
   <tr>
     <td>11:00-12:00</td>
-    <td>Час отстойной музыки (bottom 10).</td>
+    <td><a href="/programs/shitlist.html">Час отстойной музыки</a> (bottom 10).</td>
   </tr>
   <tr>
     <td>18:00-19:00</td>
