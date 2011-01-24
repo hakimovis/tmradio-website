@@ -1,14 +1,15 @@
 # vim: set tw=0 fileencoding=utf-8:
 
 from xml.sax.saxutils import escape
-import mimetypes
-import urlparse
 import clevercss
+import datetime
 import email.utils
 import glob
+import mimetypes
 import os.path
 import time
 import urllib
+import urlparse
 
 BASE_URL = 'http://www.tmradio.net'
 
@@ -39,7 +40,8 @@ def get_label_stats(posts):
                 labels[label] += 1
     # Удаляем метки, для которых нет страниц.
     for label in labels.keys():
-        if not os.path.exists('./input' + os.path.splitext(get_label_url(label))[0] + '.md'):
+        fn = './input' + os.path.splitext(get_label_url(label))[0] + '.md'
+        if not os.path.exists(fn):
             del labels[label]
     return labels
 
@@ -50,7 +52,7 @@ def parse_date_time(text):
     Поддерживаемый формат: ГГГГ-ММ-ДД ЧЧ:ММ:СС, недостающие сегменты с конца
     заполняюся нулями.
     """
-    default = '0000:01:01 00:00:00'
+    default = '0000-01-01 00:00:00'
     text = text + default[len(text):]
     return time.mktime(time.strptime(text, '%Y-%m-%d %H:%M:%S'))
 
@@ -85,7 +87,7 @@ def pagelist(pages, limit=5, label=None, show_dates=True):
     for page in pages:
         output += u'<li><a href="%s">%s</a>' % (page.get('url'), page.get('title'))
         if limit is None and show_dates:
-            date = datetime.strptime(page.date, '%Y-%m-%d').strftime('%d.%m.%Y')
+            date = datetime.datetime.strptime(page.date, '%Y-%m-%d %H:%M').strftime('%d.%m.%Y')
             output += u' <span class="date">%s</span>' % date
         output += u'</li>'
     if output:

@@ -18,12 +18,13 @@ mclass: group icon icon-rss
 </form>
 
 
-## <a href="/subscription.html#rss" name="rss">RSS-ленты (подкасты)</a>
+## <a href="/subscription.html#rss" name="rss">RSS-ленты и подкасты</a>
 
 - [Так себе новости](/news.xml)
 - [Все прямые эфиры](http://files.tmradio.net/live-dump/live.xml) (включая пре-
   и после-шоу)
 - [Голосовая почта](http://files.tmradio.net/voicemail/rss.xml)
+- [Блог радиостанции](/blog.xml)
 
 Для подписки можно использовать специальные программы
 ([gPodder](http://www.gpodder.org/) для Linux,
