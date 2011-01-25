@@ -8,8 +8,34 @@
 <title>Тоже мне радио</title>
 <description>Обновления сайта.</description>
 <link>http://www.tmradio.net/</link>
-<pubDate>Tue, 25 Jan 2011 12:58:46 -0000</pubDate>
-<lastBuildDate>Tue, 25 Jan 2011 12:58:46 -0000</lastBuildDate>
+<pubDate>Tue, 25 Jan 2011 21:20:33 -0000</pubDate>
+<lastBuildDate>Tue, 25 Jan 2011 21:20:33 -0000</lastBuildDate>
+<item>
+	<title>Добавление новой музыки из Last.fm</title>
+	<link>http://www.tmradio.net/blog/20110126-lastfm.html</link>
+	<description>&lt;p&gt;Раньше новая музыка добавлялась в ротацию в основном вручную: добрые люди
+присылали ссылки, техподдержка их проверяла, скачивала музыку и добавляла в
+ротацию.  В качестве дополнительных источников используется несколько подкастов,
+однако из них приходит в основном довольно сомнительная музыка и очень редко.&lt;/p&gt;
+&lt;p&gt;Сегодня в список автоматических источников добавлены &lt;a href="http://www.lastfm.ru/home/freemp3s"&gt;рекомендации Last.fm&lt;/a&gt;
+для пользователя &lt;a href="http://www.lastfm.ru/user/tmradiobot"&gt;tmradiobot&lt;/a&gt;, который отмечает всё, что звучит в эфире.  В
+рекомендации попадает свободная музыка, похожая на то, что уже звучит на радио,
+но которая в библиотеке радиостанции отсутствует.  Теперь библиотека будет
+постоянно пополняться новой музыкой, которую админам останется, при
+необходимости, раскидать по нужным &lt;a href="/schedule.html"&gt;программам&lt;/a&gt;, а избавиться от
+&lt;a href="/programs/shitlist.html"&gt;всякого хлама&lt;/a&gt; помогут уже слушатели.&lt;/p&gt;
+&lt;p&gt;Рекомендации Last.fm решают сразу две проблемы: нам не надо искать сайты
+исполнителей, чтобы что-нибудь скачать, а исполнителям не надо думать, кому бы
+ещё впарить свою музыку: кому надо сами её найдут.  Заодно администрация ТМР
+теперь может смело отправиться в полугодичный отпуск на Луну, не боясь, что эфир
+протухнет.&lt;/p&gt;
+&lt;p&gt;Всем этим занимается наш новый робот, получивший имя &lt;a href="http://code.google.com/p/ardj/source/browse/src/robots/podcaster"&gt;podcaster&lt;/a&gt;, который
+является, по сути, примитивным подкаст-аггрегатором, написанным на Питоне.&lt;/p&gt;</description>
+	<pubDate>Tue, 25 Jan 2011 20:50:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/blog/20110126-lastfm.html</guid>
+	<category>blog</category>
+	<category>tech</category>
+</item>
 <item>
 	<title>О медленных дисках и заикающемся звуке</title>
 	<link>http://www.tmradio.net/blog/20110125-jerks.html</link>
