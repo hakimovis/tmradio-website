@@ -8,7 +8,7 @@ title: Музыка на «Тоже мне радио»
 
 ## <a href="/music.html#sources" name="sources">Основные источники музыки</a>
 
-- [Last.fm](http://www.lastfm.ru/music/+free-music-downloads) (включая
+- [Last.fm](/blog/20110126-lastfm.html)
   [персональный подкаст](http://www.lastfm.ru/home/freemp3s))
 - [Jamendo](http://www.jamendo.com/)
 
