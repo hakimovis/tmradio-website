@@ -2,13 +2,14 @@ title: Музыка на «Тоже мне радио»
 ---
 Мы играем только свободную музыку, т.е. ту, которая может быть официально
 бесплатно загружена с сайта исполнителя или других сайтов с легальной музыкой. 
-Ссылки на такую музыку нам [присылают](/feedback.html) добрые люди или мы
-находим её сами.
+Ссылки на такую музыку нам [присылают](/feedback.html) добрые люди, находят
+[роботы](/robots.html) или мы сами.
 
 
-## Основные источники музыки
+## <a href="/music.html#sources" name="sources">Основные источники музыки</a>
 
-- [Last.fm](http://www.lastfm.ru/music/+free-music-downloads)
+- [Last.fm](http://www.lastfm.ru/music/+free-music-downloads) (включая
+  [персональный подкаст](http://www.lastfm.ru/home/freemp3s))
 - [Jamendo](http://www.jamendo.com/)
 
 

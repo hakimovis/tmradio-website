@@ -124,13 +124,14 @@ table {
   width: 100%;
 }
 
-table td {
+table td,
+table th {
   border: solid 1px #cccccc;
   padding: 2px 6px;
 }
 
-table td:first-child {
-  width: 120px;
+table.sched td {
+  text-align: center;
 }
 
 form div {
