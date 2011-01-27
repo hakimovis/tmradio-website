@@ -8,8 +8,8 @@
 <title>Тоже мне радио: news</title>
 <description>Страницы сайта Тоже мне радио с пометкой «news».</description>
 <link>http://www.tmradio.net/news.html</link>
-<pubDate>Thu, 27 Jan 2011 21:35:55 -0000</pubDate>
-<lastBuildDate>Thu, 27 Jan 2011 21:35:55 -0000</lastBuildDate>
+<pubDate>Thu, 27 Jan 2011 22:09:35 -0000</pubDate>
+<lastBuildDate>Thu, 27 Jan 2011 22:09:35 -0000</lastBuildDate>
 <item>
 	<title>Эфир от 27.01.2011</title>
 	<link>http://www.tmradio.net/sosonews-09.html</link>
@@ -31,7 +31,7 @@
 &lt;p&gt;&lt;img alt="статистика" src="/sosonews-09.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 27 Jan 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-09.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-09.mp3?from=rss" type="audio/mpeg" length="16384"/>
+	<enclosure url="http://files.tmradio.net/sosonews-09.mp3?from=rss" type="audio/mpeg" length="42900030"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>Давос</category>
