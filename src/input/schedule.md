@@ -54,7 +54,7 @@ mpos: 2
     </tr>
     <tr>
       <th>Чт</th>
-      <td colspan="2"/>
+      <td/>
       <td rowspan="2"><a href="/news.html">ТСН</a>, повтор</td>
       <td colspan="6"/>
       <td/>
