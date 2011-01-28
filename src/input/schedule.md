@@ -54,7 +54,7 @@ mpos: 2
     </tr>
     <tr>
       <th>Чт</th>
-      <td><a href="http://afterwednesday.rpod.ru/">Четверг</a>, <a href="http://offtopic.rpod.ru/">Оффтопик</a></td>
+      <td colspan="2"/>
       <td rowspan="2"><a href="/news.html">ТСН</a>, повтор</td>
       <td colspan="6"/>
       <td/>
