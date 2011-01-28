@@ -33,7 +33,7 @@ mpos: 2
     <tr>
       <th>Пн</th>
       <td rowspan="7" colspan="2">pop</td>
-      <td colspan="2"/>
+      <td rowspan="3" colspan="2"><a href="/blog/20110128-music.html"/>недооцененная музыка</a></td>
       <td rowspan="7"><a href="/programs/shitlist.html">отстой</a></td>
       <td colspan="6"/>
       <td rowspan="7"><a href="/programs/hitlist.html">достой</a></td>
@@ -44,13 +44,11 @@ mpos: 2
     </tr>
     <tr>
       <th>Вт</th>
-      <td colspan="2"/>
       <td colspan="6"/>
       <td colspan="2"/>
     </tr>
     <tr>
       <th>Ср</th>
-      <td colspan="2"/>
       <td colspan="6"/>
       <td colspan="2"/>
     </tr>
@@ -71,13 +69,12 @@ mpos: 2
     </tr>
     <tr>
       <th>Сб</th>
-      <td colspan="2"/>
+      <td rowspan="2" colspan="2"><a href="/blog/20110128-music.html"/>недооцененная музыка</a></td>
       <td colspan="6"/>
       <td colspan="2"/>
     </tr>
     <tr>
       <th>Вс</th>
-      <td colspan="2"/>
       <td colspan="6"/>
       <td colspan="2"/>
     </tr>
