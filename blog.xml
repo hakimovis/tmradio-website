@@ -8,12 +8,12 @@
 <title>Тоже мне радио: blog</title>
 <description>Страницы сайта Тоже мне радио с пометкой «blog».</description>
 <link>http://www.tmradio.net/blog.html</link>
-<pubDate>Mon, 31 Jan 2011 22:31:06 -0000</pubDate>
-<lastBuildDate>Mon, 31 Jan 2011 22:31:06 -0000</lastBuildDate>
+<pubDate>Mon, 31 Jan 2011 23:14:27 -0000</pubDate>
+<lastBuildDate>Mon, 31 Jan 2011 23:14:27 -0000</lastBuildDate>
 <item>
 	<title>Вышел tmradio-client v0.11</title>
 	<link>http://www.tmradio.net/blog/20110201-client.html</link>
-	<description>&lt;p&gt;Вышла новая версия клиентской программы для Linux.  Изменения:&lt;/p&gt;
+	<description>&lt;p&gt;Вышла новая версия &lt;a href="/software.html"&gt;клиентской программы&lt;/a&gt; для Linux.  Изменения:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;При появлении нового сообщения их список автоматически прокручивается в конец.&lt;/li&gt;
 &lt;/ul&gt;
