@@ -61,43 +61,66 @@ h2:
     margin-left: 1em;
 
 #wrapper:
-  width: 600px;
+  width: 800px;
   margin: 0 auto;
-  position: relavite;
+  position: relative;
 
-#nav:
-  position: fixed;
-  top: 30px;
-  left: 10px;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  line-height: 2em;
+#header:
+  position: absolute;
+  top: 10px;
+  width: 100%;
 
-  li.group:
-    margin-top: 1em;
-    border-top: solid 1px #ddd;
+  h2:
+    display: inline;
+    background-color: #ccc;
+    padding: 2px 4px;
 
-  li.active a:
-    color: inherit;
-    text-decoration: none;
-    cursor: default;
+  ul:
+    margin: 0;
+    padding: 0;
+    display: inline;
+    list-style-type: none;
 
-  li a:
-    margin-left: 18px;
+    li:
+      display: inline;
+      text-transform: lowercase;
+      margin-left: 1em;
+
+  #buttons:
+    float: right;
 
 #content:
+  position: absolute;
+  top: 40px;
+  width: 100%;
+
   ul:
     padding-left: 2em;
 
   li:
     margin: .5em 0;
 
+  h2:
+    font-weight: normal;
+
 #footer:
-  margin: 2em 0 0 0;
+  margin: 5em 0 0 0;
   border-top: solid 1px #ccc;
   padding-top: .5em;
   font-size: 90%;
+
+#columns:
+  ul:
+    width: 33%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    color: gray;
+
+#copy:
+  clear: both;
+  padding: 2em 0;
 
 table:
   border-collapse: collapse;

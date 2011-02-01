@@ -10,12 +10,21 @@ title: Программа для прослушивания радио
 можете пожертвовать немного своего времени, было бы здорово; можем в ответ
 пожертвовать немного денег.
 
-# Обзор версии для Linux
+## Информация об обновлениях
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="http://www.youtube.com/embed/m7eX-T0Pnjs?rel=0" frameborder="0"></iframe>
+{{ pagelist(pages, limit=None, label='software', show_dates=True) }}
 
-Текущая версия: 0.11, скачать: [zip][], [deb][].
 
+## <a name="linux" href="software.html#linux">Версия для Linux</a>
+
+Программа написана на питоне с использованием GTK+, звук проигрывается через
+Gstreamer.
+
+Текущая версия: 0.11 ([zip][], [deb][]).
+
+Дополнительные ссылки:
+
+- [Скринкаст](http://youtu.be/m7eX-T0Pnjs) с демонстрацией возможностей
 - [Сайт программы][web]
 - [История изменений][log]
 
