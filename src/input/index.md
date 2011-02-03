@@ -7,6 +7,10 @@ mpos: 1
 специальные программы.  Работает в автономном режиме, управляется в основном
 [роботами][robots].
 
+Специальные программы:
+
+- [Так себе новости](/news.html)
+
 ## Статистика слушателей за неделю
 
 <a target="_blank" href="http://stream.tmradio.net/"><img src="http://stream.tmradio.net/listeners-week.png" alt="график"/></a>
