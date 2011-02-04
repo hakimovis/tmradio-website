@@ -23,6 +23,6 @@ mpos: 1
 [log]: http://files.tmradio.net/listeners.csv
 [news]: http://echo.msk.ru/news/
 [open]: /open.html
-[pc]: http://ru.wikipedia.org/wiki/Подкастинг
+[pc]: /podcast.html
 [music]: /music.html
 [robots]: /robots.html
