@@ -16,7 +16,7 @@ RSS-лента с такими подкастами — [присылайте с
 
 ## <a href="/mcast.html#sources" name="sources">Источники</a>
 
-На данный момент автоматически обрабатываются следующие ленты:
+На данный момент [роботами](/robots.html) обрабатываются следующие ленты:
 
 - [dugwin.net: про кино](http://www.dugwin.net/podcast/prokino)
 - [umonkey.net: микроподкасты](http://umonkey.net/mcast.html)
