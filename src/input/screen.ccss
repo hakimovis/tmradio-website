@@ -60,6 +60,10 @@ h2:
   &.right:
     margin-left: 1em;
 
+  &.left:
+    float: left;
+    margin-right: 1em;
+
 #wrapper:
   width: 800px;
   margin: 0 auto;
