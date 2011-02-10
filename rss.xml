@@ -8,8 +8,52 @@
 <title>Тоже мне радио</title>
 <description>Обновления сайта.</description>
 <link>http://www.tmradio.net/</link>
-<pubDate>Thu, 10 Feb 2011 16:32:56 -0000</pubDate>
-<lastBuildDate>Thu, 10 Feb 2011 16:32:56 -0000</lastBuildDate>
+<pubDate>Thu, 10 Feb 2011 22:03:12 -0000</pubDate>
+<lastBuildDate>Thu, 10 Feb 2011 22:03:12 -0000</lastBuildDate>
+<item>
+	<title>Эфир ТСН от 10.02.2011</title>
+	<link>http://www.tmradio.net/sosonews-11.html</link>
+	<description>&lt;p&gt;Основные темы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.rian.ru/video/20110208/331956341.html"&gt;Медведев отменил переход на зимнее время&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://news2.ru/story/293038/"&gt;В США в 41 штате в школах не будут обучать детей рукописному письму&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.svobodanews.ru/info/about_us/328.html"&gt;Радио Свободная Европа/Радио Свобода - это частная некоммерческая информационная служба, финансируемая Конгрессом США&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://svpressa.ru/society/article/38421/"&gt;Гондурас построит своё Сколково&lt;a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.gazeta.ru/news/lastnews/2011/02/10/n_1699394.shtml"&gt;Медведев устроил на Киевском вокзале настоящий разнос&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.newsgeorgia.ru/society/20110207/213720332-print.html"&gt;МВД Грузии выпустило бесплатный шутер «Полиция» на движке Unreal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rian.ru/world/20110209/332306246.html"&gt;Украина изучит возможность отмены летнего времени&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rosbalt.ru/2011/02/09/817723.html"&gt;Медведев: Курильские острова — неотъемлемая часть РФ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://news.km.ru/fursenko-reshil-zakryt-eshche-5-tysyach-shkol"&gt;Фурсенко предлагает закрыть 5000 школ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://perevodika.ru/articles/17553.html"&gt;Вирджиния задумалась о своей валюте&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.dp.ru/a/2010/11/28/Rossijskie_biznesmeni_nach"&gt;Российские бизнесмены начали менять рубли на свою собственную валюту&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://interfax.ru/news.asp?id=176573"&gt;Из-за карантина по гриппу закрыты более 7500 российских школ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://privivka.com.ua/gripp_oslognen.htm"&gt;Осложнения и последствия гриппа&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.echo.msk.ru/programs/interception/745502-echo/"&gt;Эхо Москвы: «Перехват»: Венедиктов об общественном совете при ГУВД&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lenta.ru/news/2011/01/22/fired/"&gt;Медведев назначил нового главного гаишника Москвы&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.bfm.ru/news/2011/02/09/v-rossii-teper-mozhno-zaregistrirovat-avto-cherez-internet.html#text"&gt;Автомобиль в России теперь можно зарегистрировать через Интернет&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.cnews.ru/news/top/index.shtml?2011/01/26/424834"&gt;Аналоговые телевизоры в России запретят уже в 2011 г.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-11.png" /&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 10 Feb 2011 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/sosonews-11.html</guid>
+	<enclosure url="http://files.tmradio.net/sosonews-11.mp3?from=rss" type="audio/mpeg" length="1"/>
+	<category>news</category>
+	<category>podcast</category>
+	<category>ГИБДД</category>
+	<category>ГУВД</category>
+	<category>Гондурас</category>
+	<category>Грипп</category>
+	<category>Грузия</category>
+	<category>Курилы</category>
+	<category>Медведев</category>
+	<category>США</category>
+	<category>Сколково</category>
+	<category>Фурсенко</category>
+	<category>время</category>
+	<category>образование</category>
+	<category>телевидение</category>
+</item>
 <item>
 	<title>Эфир от 03.02.2011</title>
 	<link>http://www.tmradio.net/sosonews-10.html</link>
@@ -266,33 +310,6 @@
 	<category>Онищенко</category>
 	<category>ТУ-154</category>
 	<category>гибель животных</category>
-</item>
-<item>
-	<title>Эфир от 30.12.2010</title>
-	<link>http://www.tmradio.net/sosonews-05.html</link>
-	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://echo.msk.ru/news/738203-echo.html"&gt;ХОДОРКОВСКИЙ приговорён к 13½ годам в рамках второго дела&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rg.ru/2010/12/26/chp-site.html"&gt;Ледяной дождь остановил работу московского аэропорта ДОМОДЕДОВО&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.vesti.ru/doc.html?id=417848&amp;amp;cid=9"&gt;Самолет МЧС России доставил в Колумбию гуманитарную помощь&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rian.ru/society/20101228/314602965.html"&gt;МЕДВЕДЕВ ужесточил контроль за патронами для травматики&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://news2.ru/story/287264/"&gt;На станции «Охотный ряд» в Москве появился ПУНКТ ДОСМОТРА ПАССАЖИРОВ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.interfax.ru/news.asp?id=171325"&gt;МЕДВЕДЕВ подписал закон о безопасности&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://vz.ru/columns/2010/12/27/457872.html"&gt;ДМИТРИЙ СОКОЛОВ: «Манежная площадь — это не симптомы распада государства, а наоборот — первые признаки его обретения»&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="статистика" src="sosonews-05.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 30 Dec 2010 18:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/sosonews-05.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-05.mp3?from=rss" type="audio/mpeg" length="27759130"/>
-	<category>news</category>
-	<category>podcast</category>
-	<category>Домодедово</category>
-	<category>МЧС</category>
-	<category>Манежная площадь</category>
-	<category>Медведев</category>
-	<category>Соколов</category>
-	<category>Ходорковский</category>
 </item>
 </channel>
 </rss>
