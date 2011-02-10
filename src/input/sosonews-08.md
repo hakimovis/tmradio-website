@@ -1,4 +1,4 @@
-title: Эфир от 20.01.2011
+title: Эфир ТСН от 20.01.2011
 date: 2011-01-20 21:00
 file: http://files.tmradio.net/sosonews-08.mp3
 filesize: 42230837

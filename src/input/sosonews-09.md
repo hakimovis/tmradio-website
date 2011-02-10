@@ -1,4 +1,4 @@
-title: Эфир от 27.01.2011
+title: Эфир ТСН от 27.01.2011
 date: 2011-01-27 21:00
 file: http://files.tmradio.net/sosonews-09.mp3
 filesize: 42900030

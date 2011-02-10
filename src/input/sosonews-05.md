@@ -1,4 +1,4 @@
-title: Эфир от 30.12.2010
+title: Эфир ТСН от 30.12.2010
 date: 2010-12-30 21:00
 file: http://files.tmradio.net/sosonews-05.mp3
 filesize: 27759130

@@ -1,4 +1,4 @@
-title: Эфир от 03.02.2011
+title: Эфир ТСН от 03.02.2011
 date: 2011-02-03 21:00
 file: http://files.tmradio.net/sosonews-10.mp3
 filesize: 40467527

@@ -1,4 +1,4 @@
-title: Эфир от 09.12.2010
+title: Эфир ТСН от 09.12.2010
 date: 2010-12-09 21:00
 file: http://files.tmradio.net/sosonews-02.mp3
 filesize: 58422620
