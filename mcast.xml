@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="http://www.tmradio.net/mcast.xml" rel="self" type="application/rss+xml"/>
+<language>ru-RU</language>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>Poole</generator>
+<title>Тоже мне радио: mcast</title>
+<description>Страницы сайта Тоже мне радио с пометкой «mcast».</description>
+<link>http://www.tmradio.net/mcast.html</link>
+<pubDate>Fri, 11 Feb 2011 05:54:43 -0000</pubDate>
+<lastBuildDate>Fri, 11 Feb 2011 05:54:43 -0000</lastBuildDate>
+<item>
+	<title>О бедном гусаре замолвите слово</title>
+	<link>http://www.tmradio.net/mcast/20110211-obgzs.html</link>
+	<description>&lt;p&gt;Обзор фильма «О бедном гусаре замолвите слово» от слушателя &lt;a href="http://twitter.com/hakimovis"&gt;@hakimovis&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Fri, 11 Feb 2011 00:54:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/20110211-obgzs.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/hakimovis-obgzs.mp3?from=rss" type="audio/mpeg" length="1258221"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+</item>
+</channel>
+</rss>

@@ -8,8 +8,19 @@
 <title>Тоже мне радио: podcast</title>
 <description>Страницы сайта Тоже мне радио с пометкой «podcast».</description>
 <link>http://www.tmradio.net/podcast.html</link>
-<pubDate>Thu, 10 Feb 2011 22:21:34 -0000</pubDate>
-<lastBuildDate>Thu, 10 Feb 2011 22:21:34 -0000</lastBuildDate>
+<pubDate>Fri, 11 Feb 2011 05:54:43 -0000</pubDate>
+<lastBuildDate>Fri, 11 Feb 2011 05:54:43 -0000</lastBuildDate>
+<item>
+	<title>О бедном гусаре замолвите слово</title>
+	<link>http://www.tmradio.net/mcast/20110211-obgzs.html</link>
+	<description>&lt;p&gt;Обзор фильма «О бедном гусаре замолвите слово» от слушателя &lt;a href="http://twitter.com/hakimovis"&gt;@hakimovis&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Fri, 11 Feb 2011 00:54:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/20110211-obgzs.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/hakimovis-obgzs.mp3?from=rss" type="audio/mpeg" length="1258221"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+</item>
 <item>
 	<title>Эфир ТСН от 10.02.2011</title>
 	<link>http://www.tmradio.net/sosonews-11.html</link>
@@ -309,38 +320,6 @@
 	<category>золото</category>
 	<category>космос</category>
 	<category>образование</category>
-</item>
-<item>
-	<title>Эфир ТСН от 09.12.2010</title>
-	<link>http://www.tmradio.net/sosonews-02.html</link>
-	<description>&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.kp.ru/daily/24602.5/773909/"&gt;ТОРШИН: «Россиянам разрешат иметь боевое оружие через 5-7 лет»&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.newsru.com/russia/06dec2010/fight.html"&gt;Болельщик московского «Спартака» убит в драке с дагестанцами, ещё один ранен&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://vadimb.livejournal.com/925028.html"&gt;Массовое избиение русских кавказцами на рок-фестивале в Норильске, милиция и прокуратура бездействуют&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://gazeta.ru/politics/2010/12/06_a_3456957.shtml"&gt;Путин: «Вот ветряки, которые очень распространены во многих европейских странах – казалось бы, совсем экологически чистый вид энергии, а между тем это и не так. Они птиц убивают. Там такая вибрация – червяки на поверхность вылезают, я уже не говорю там про всяких кротов»&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://nr2.ru/moskow/311602.html"&gt;Делягин: «Россия до Чемпионата мира по футболу 2018 года просто не доживет. По крайней мере, в своем нынешнем виде.»&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.thepaypalblog.com/2010/12/paypal-statement-regarding-wikileaks/"&gt;PayPal заблокировал аккаунт WikiLeaks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://echo.msk.ru/news/731073-echo.phtml"&gt;Сердюков «после второй бутылки водки» признался, что Россия поставляла оружие Армении (WikiLeaks)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://khodorkovsky.ru/documents/2010/12/07/13822/"&gt;«Ожидание справедливости», акция в поддержку Ходорковского и Лебедева&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://top.rbc.ru/society/09/12/2010/512117.shtml"&gt;Ассанж оставил напоследок «козырь в рукаве»&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.amazon.co.uk/gp/product/B004EEOLIU?ie=UTF8&amp;force-full-site=1"&gt;На amazon.co.uk продаётся архив WikiLeaks для Kindle (уже опубликованные ранее материалы)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rosbalt.ru/2010/12/07/798116.html"&gt;Саммит ОБСЕ в Астане провалился&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://txt.newsru.com/russia/05dec2010/glonasss.html"&gt;Три спутника ГЛОНАСС упали в океан&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-	<pubDate>Thu, 09 Dec 2010 18:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/sosonews-02.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-02.mp3?from=rss" type="audio/mpeg" length="58422620"/>
-	<category>PayPal</category>
-	<category>WikiLeaks</category>
-	<category>news</category>
-	<category>podcast</category>
-	<category>ГЛОНАСС</category>
-	<category>Делягин</category>
-	<category>Манежная площадь</category>
-	<category>ОБСЕ</category>
-	<category>Путин</category>
-	<category>Сердюков</category>
-	<category>Торшин</category>
 </item>
 </channel>
 </rss>
