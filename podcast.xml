@@ -8,8 +8,8 @@
 <title>Тоже мне радио: podcast</title>
 <description>Страницы сайта Тоже мне радио с пометкой «podcast».</description>
 <link>http://www.tmradio.net/podcast.html</link>
-<pubDate>Fri, 11 Feb 2011 05:54:43 -0000</pubDate>
-<lastBuildDate>Fri, 11 Feb 2011 05:54:43 -0000</lastBuildDate>
+<pubDate>Fri, 11 Feb 2011 06:16:16 -0000</pubDate>
+<lastBuildDate>Fri, 11 Feb 2011 06:16:16 -0000</lastBuildDate>
 <item>
 	<title>О бедном гусаре замолвите слово</title>
 	<link>http://www.tmradio.net/mcast/20110211-obgzs.html</link>
@@ -64,6 +64,17 @@
 	<category>время</category>
 	<category>образование</category>
 	<category>телевидение</category>
+</item>
+<item>
+	<title>The Big C</title>
+	<link>http://www.tmradio.net/mcast/20110209-tbc.html</link>
+	<description>&lt;p&gt;Обзор фильма «The Big C» от слушателя &lt;a href="http://twitter.com/nikonor"&gt;@nikonor&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Wed, 09 Feb 2011 10:50:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/20110209-tbc.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/nikonor-tbc.mp3?from=rss" type="audio/mpeg" length="770466"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
 </item>
 <item>
 	<title>Эфир ТСН от 03.02.2011</title>
@@ -285,41 +296,6 @@
 	<category>ЦРУ</category>
 	<category>протесты</category>
 	<category>травматическое оружие</category>
-</item>
-<item>
-	<title>Эфир ТСН от 16.12.2010</title>
-	<link>http://www.tmradio.net/sosonews-03.html</link>
-	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://txt.newsru.com/russia/16dec2010/line9.html"&gt;Премьер Путин провел девятую "прямую линию" с народом&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://txt.newsru.com/russia/15dec2010/court.html"&gt;Оглашение приговора Ходорковскому и Лебедеву перенесено на 27 декабря&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://news2.ru/story/284470/"&gt;Нургалиев: фанатов подстрекали левые радикалы&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://zyalt.livejournal.com/330396.html"&gt;Фоторепортаж Варламова с Манежной площади&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rus-obr.ru/ru-club/6589"&gt;Анатомия терроризма.  Доклад Станислава Лекарева.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.vesti.ru/videos?vid=310712"&gt;Путин сыграл на рояле и спел на благотворительном вечере&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://sport.rbc.ru/football/article/14/12/2010/315225.shtml"&gt;Сергей Иванов: билеты на футбол нужно продавать по паспорту&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.newsru.co.il/world/12dec2010/bottke_604_print.html"&gt;Все запасы золота на Земле имеют инопланетное происхождение&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.utro.ru/articles/2010/12/14/943726.shtml"&gt;Вояджер-1 достиг пределов Солнечной системы&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.dp.ru/a/2010/11/02/Mihail_Prohorov_predlozhil"&gt;Прохоров предложил разрешить работать по 60 часов в неделю&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://properm.ru/news/region/21049/?p=1"&gt;Вопрос Путину о заброшенном шахтёрском посёлке&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.nr2.ru/perm/313356.html"&gt;Число школ приведут в соответствие с числом учащихся&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-	<pubDate>Thu, 16 Dec 2010 18:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/sosonews-03.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-03.mp3?from=rss" type="audio/mpeg" length="38192982"/>
-	<category>news</category>
-	<category>podcast</category>
-	<category>podcast Путин</category>
-	<category>Варламов</category>
-	<category>Иванов</category>
-	<category>Лекарев</category>
-	<category>Манежная площадь</category>
-	<category>Нургалиев</category>
-	<category>Прохоров</category>
-	<category>Ходорковский</category>
-	<category>золото</category>
-	<category>космос</category>
-	<category>образование</category>
 </item>
 </channel>
 </rss>

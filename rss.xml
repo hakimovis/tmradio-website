@@ -8,8 +8,8 @@
 <title>Тоже мне радио</title>
 <description>Обновления сайта.</description>
 <link>http://www.tmradio.net/</link>
-<pubDate>Fri, 11 Feb 2011 05:54:43 -0000</pubDate>
-<lastBuildDate>Fri, 11 Feb 2011 05:54:43 -0000</lastBuildDate>
+<pubDate>Fri, 11 Feb 2011 06:16:16 -0000</pubDate>
+<lastBuildDate>Fri, 11 Feb 2011 06:16:16 -0000</lastBuildDate>
 <item>
 	<title>О бедном гусаре замолвите слово</title>
 	<link>http://www.tmradio.net/mcast/20110211-obgzs.html</link>
@@ -64,6 +64,17 @@
 	<category>время</category>
 	<category>образование</category>
 	<category>телевидение</category>
+</item>
+<item>
+	<title>The Big C</title>
+	<link>http://www.tmradio.net/mcast/20110209-tbc.html</link>
+	<description>&lt;p&gt;Обзор фильма «The Big C» от слушателя &lt;a href="http://twitter.com/nikonor"&gt;@nikonor&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Wed, 09 Feb 2011 10:50:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/20110209-tbc.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/nikonor-tbc.mp3?from=rss" type="audio/mpeg" length="770466"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
 </item>
 <item>
 	<title>Эфир ТСН от 03.02.2011</title>
@@ -264,38 +275,6 @@
 	<category>пиратство</category>
 	<category>революция</category>
 	<category>тунис</category>
-</item>
-<item>
-	<title>Эфир ТСН от 13.01.2011</title>
-	<link>http://www.tmradio.net/sosonews-07.html</link>
-	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://lenta.ru/news/2011/01/10/mmm/"&gt;МАВРОДИ начал акцию МММ-2011&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.echo.msk.ru/programs/personalno/739285-echo/"&gt;ХАЗИН об устройстве экономики&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.echo.msk.ru/guests/12844/"&gt;ХАЗИН на Эхе Москвы&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.gazeta.ru/news/lenta/2011/01/06/n_1645962.shtml"&gt;Китай готов купить государственный долг Испании&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://lm-alexeeva.livejournal.com/16511.html"&gt;АЛЕКСЕЕВА собирает компромат на власти&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.kp.ru/print/article/25620.4/787410"&gt;САРЫЧЕВ: транспортный налог надо повысить до 30.000р, заставить население отказываться от личного транспорта&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://lenta.ru/news/2011/01/06/taxestime/"&gt;Американцы потратили за год 6,1 миллиарда часов на налоговые декларации&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://txt.newsru.com/world/09jan2011/ariz.html"&gt;В Тусоне подстрелена конгрессвумен Габриэль ГИФФОРДС&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href="http://files.tmradio.net/sosonews-07.log"&gt;Лог чата&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-07.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 13 Jan 2011 18:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/sosonews-07.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-07.mp3?from=rss" type="audio/mpeg" length="42230837"/>
-	<category>news</category>
-	<category>podcast</category>
-	<category>Алексеева</category>
-	<category>Гиффордс</category>
-	<category>Китай</category>
-	<category>МММ</category>
-	<category>Мавроди</category>
-	<category>Сарычев</category>
-	<category>Тусон</category>
-	<category>Хазин</category>
-	<category>налоги</category>
 </item>
 </channel>
 </rss>
