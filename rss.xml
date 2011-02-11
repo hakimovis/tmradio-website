@@ -8,15 +8,15 @@
 <title>Тоже мне радио</title>
 <description>Обновления сайта.</description>
 <link>http://www.tmradio.net/</link>
-<pubDate>Fri, 11 Feb 2011 06:16:16 -0000</pubDate>
-<lastBuildDate>Fri, 11 Feb 2011 06:16:16 -0000</lastBuildDate>
+<pubDate>Fri, 11 Feb 2011 09:39:04 -0000</pubDate>
+<lastBuildDate>Fri, 11 Feb 2011 09:39:04 -0000</lastBuildDate>
 <item>
 	<title>О бедном гусаре замолвите слово</title>
 	<link>http://www.tmradio.net/mcast/20110211-obgzs.html</link>
 	<description>&lt;p&gt;Обзор фильма «О бедном гусаре замолвите слово» от слушателя &lt;a href="http://twitter.com/hakimovis"&gt;@hakimovis&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Fri, 11 Feb 2011 00:54:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/mcast/20110211-obgzs.html</guid>
-	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/hakimovis-obgzs.mp3?from=rss" type="audio/mpeg" length="1258221"/>
+	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/hakimovis-obgzs.mp3" type="audio/mpeg" length="1258221"/>
 	<category>mcast</category>
 	<category>movie-reviews</category>
 	<category>podcast</category>
@@ -48,7 +48,7 @@
 &lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-11.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 10 Feb 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-11.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-11.mp3?from=rss" type="audio/mpeg" length="70703182"/>
+	<enclosure url="http://files.tmradio.net/sosonews-11.mp3" type="audio/mpeg" length="70703182"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>ГИБДД</category>
@@ -71,7 +71,7 @@
 	<description>&lt;p&gt;Обзор фильма «The Big C» от слушателя &lt;a href="http://twitter.com/nikonor"&gt;@nikonor&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Wed, 09 Feb 2011 10:50:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/mcast/20110209-tbc.html</guid>
-	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/nikonor-tbc.mp3?from=rss" type="audio/mpeg" length="770466"/>
+	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/nikonor-tbc.mp3" type="audio/mpeg" length="770466"/>
 	<category>mcast</category>
 	<category>movie-reviews</category>
 	<category>podcast</category>
@@ -101,7 +101,7 @@
 &lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-10.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 03 Feb 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-10.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-10.mp3?from=rss" type="audio/mpeg" length="40467527"/>
+	<enclosure url="http://files.tmradio.net/sosonews-10.mp3" type="audio/mpeg" length="40467527"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>Волочкова</category>
@@ -177,7 +177,7 @@
 &lt;p&gt;&lt;img alt="статистика" src="/sosonews-09.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 27 Jan 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-09.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-09.mp3?from=rss" type="audio/mpeg" length="42900030"/>
+	<enclosure url="http://files.tmradio.net/sosonews-09.mp3" type="audio/mpeg" length="42900030"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>Давос</category>
@@ -263,7 +263,7 @@
 &lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-08.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 20 Jan 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-08.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-08.mp3?from=rss" type="audio/mpeg" length="42230837"/>
+	<enclosure url="http://files.tmradio.net/sosonews-08.mp3" type="audio/mpeg" length="42230837"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>Авдеев</category>

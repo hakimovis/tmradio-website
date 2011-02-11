@@ -8,8 +8,8 @@
 <title>Тоже мне радио: news</title>
 <description>Страницы сайта Тоже мне радио с пометкой «news».</description>
 <link>http://www.tmradio.net/news.html</link>
-<pubDate>Fri, 11 Feb 2011 06:16:16 -0000</pubDate>
-<lastBuildDate>Fri, 11 Feb 2011 06:16:16 -0000</lastBuildDate>
+<pubDate>Fri, 11 Feb 2011 09:39:05 -0000</pubDate>
+<lastBuildDate>Fri, 11 Feb 2011 09:39:05 -0000</lastBuildDate>
 <item>
 	<title>Эфир ТСН от 10.02.2011</title>
 	<link>http://www.tmradio.net/sosonews-11.html</link>
@@ -37,7 +37,7 @@
 &lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-11.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 10 Feb 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-11.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-11.mp3?from=rss" type="audio/mpeg" length="70703182"/>
+	<enclosure url="http://files.tmradio.net/sosonews-11.mp3" type="audio/mpeg" length="70703182"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>ГИБДД</category>
@@ -79,7 +79,7 @@
 &lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-10.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 03 Feb 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-10.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-10.mp3?from=rss" type="audio/mpeg" length="40467527"/>
+	<enclosure url="http://files.tmradio.net/sosonews-10.mp3" type="audio/mpeg" length="40467527"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>Волочкова</category>
@@ -123,7 +123,7 @@
 &lt;p&gt;&lt;img alt="статистика" src="/sosonews-09.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 27 Jan 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-09.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-09.mp3?from=rss" type="audio/mpeg" length="42900030"/>
+	<enclosure url="http://files.tmradio.net/sosonews-09.mp3" type="audio/mpeg" length="42900030"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>Давос</category>
@@ -156,7 +156,7 @@
 &lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-08.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 20 Jan 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-08.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-08.mp3?from=rss" type="audio/mpeg" length="42230837"/>
+	<enclosure url="http://files.tmradio.net/sosonews-08.mp3" type="audio/mpeg" length="42230837"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>Авдеев</category>
@@ -188,7 +188,7 @@
 &lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-07.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 13 Jan 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-07.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-07.mp3?from=rss" type="audio/mpeg" length="42230837"/>
+	<enclosure url="http://files.tmradio.net/sosonews-07.mp3" type="audio/mpeg" length="42230837"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>Алексеева</category>
@@ -219,7 +219,7 @@
 &lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-06.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 06 Jan 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-06.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-06.mp3?from=rss" type="audio/mpeg" length="50361437"/>
+	<enclosure url="http://files.tmradio.net/sosonews-06.mp3" type="audio/mpeg" length="50361437"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>Онищенко</category>
@@ -243,7 +243,7 @@
 &lt;p&gt;&lt;img alt="статистика" src="sosonews-05.png" /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 30 Dec 2010 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-05.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-05.mp3?from=rss" type="audio/mpeg" length="27759130"/>
+	<enclosure url="http://files.tmradio.net/sosonews-05.mp3" type="audio/mpeg" length="27759130"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>Домодедово</category>
@@ -265,7 +265,7 @@
 &lt;/ul&gt;</description>
 	<pubDate>Thu, 23 Dec 2010 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-04.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-04.mp3?from=rss" type="audio/mpeg" length="28092452"/>
+	<enclosure url="http://files.tmradio.net/sosonews-04.mp3" type="audio/mpeg" length="28092452"/>
 	<category>WikiLeaks</category>
 	<category>news</category>
 	<category>podcast</category>
@@ -295,7 +295,7 @@
 &lt;/ul&gt;</description>
 	<pubDate>Thu, 16 Dec 2010 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-03.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-03.mp3?from=rss" type="audio/mpeg" length="38192982"/>
+	<enclosure url="http://files.tmradio.net/sosonews-03.mp3" type="audio/mpeg" length="38192982"/>
 	<category>news</category>
 	<category>podcast</category>
 	<category>podcast Путин</category>
@@ -329,7 +329,7 @@
 &lt;/ul&gt;</description>
 	<pubDate>Thu, 09 Dec 2010 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/sosonews-02.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-02.mp3?from=rss" type="audio/mpeg" length="58422620"/>
+	<enclosure url="http://files.tmradio.net/sosonews-02.mp3" type="audio/mpeg" length="58422620"/>
 	<category>PayPal</category>
 	<category>WikiLeaks</category>
 	<category>news</category>
