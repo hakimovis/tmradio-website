@@ -8,8 +8,8 @@
 <title>Тоже мне радио: podcast</title>
 <description>Страницы сайта Тоже мне радио с пометкой «podcast».</description>
 <link>http://www.tmradio.net/podcast.html</link>
-<pubDate>Tue, 15 Feb 2011 21:45:05 -0000</pubDate>
-<lastBuildDate>Tue, 15 Feb 2011 21:45:05 -0000</lastBuildDate>
+<pubDate>Tue, 15 Feb 2011 21:49:41 -0000</pubDate>
+<lastBuildDate>Tue, 15 Feb 2011 21:49:41 -0000</lastBuildDate>
 <item>
 	<title>Чёрный лебедь</title>
 	<link>http://www.tmradio.net/prokino/black-swan-dugwin.html</link>
@@ -30,6 +30,16 @@
 	<category>mcast</category>
 	<category>movie-reviews</category>
 	<category>podcast</category>
+</item>
+<item>
+	<title>О бедном гусаре замолвите слово</title>
+	<link>http://www.tmradio.net/prokino/obgzs-hakimovis.html</link>
+	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
+	<pubDate>Thu, 10 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/obgzs-hakimovis.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/hakimovis-obgzs.mp3" type="audio/mpeg" length="1258221"/>
+	<category>podcast</category>
+	<category>prokino</category>
 </item>
 <item>
 	<title>Эфир ТСН от 10.02.2011</title>
@@ -74,6 +84,16 @@
 	<category>время</category>
 	<category>образование</category>
 	<category>телевидение</category>
+</item>
+<item>
+	<title>The Big C</title>
+	<link>http://www.tmradio.net/prokino/tbc-nikonor.html</link>
+	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
+	<pubDate>Wed, 09 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/tbc-nikonor.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/nikonor-tbc.mp3" type="audio/mpeg" length="770466"/>
+	<category>podcast</category>
+	<category>prokino</category>
 </item>
 <item>
 	<title>The Big C</title>
@@ -163,53 +183,6 @@
 	<category>коррупция</category>
 	<category>протест</category>
 	<category>эвакуация</category>
-</item>
-<item>
-	<title>Tron: Legacy</title>
-	<link>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</link>
-	<description>&lt;p&gt;Рецензия на фильм «Tron: Legacy».&lt;/p&gt;</description>
-	<pubDate>Sun, 30 Jan 2011 21:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</guid>
-	<enclosure url="http://www.dugwin.net/files/prokino/prokino-01-tron2.mp3" type="audio/mpeg" length="1024"/>
-	<category>podcast</category>
-	<category>prokino</category>
-</item>
-<item>
-	<title>Эфир ТСН от 27.01.2011</title>
-	<link>http://www.tmradio.net/sosonews-09.html</link>
-	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://laddove.livejournal.com/56691.html"&gt;В Домодедово произошёл взрыв, есть погибшие&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.infox.ru/authority/state/2011/01/27/Ivanov_pryedlagayet_.phtml"&gt;Иванов предлагает создать новый орган по безопасности на транспорте&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.utro.ru/news/2011/01/26/951868.shtml"&gt;Целью теракта в "Домодедово" был срыв визита Медведева в Давос&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://dolboeb.livejournal.com/1972312.html"&gt;Как нашисты следы заметали&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.interfax.ru/news.asp?id=173699"&gt;Дворкович высказался за отмену студенческих стипендий&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://lenta.ru/news/2011/01/27/dugway/"&gt;В США экстренно закрыли полигон для испытаний биологического оружия&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://svpressa.ru/society/article/37519/"&gt;Создано ведомство — «Межрегиональный ресурсный центр» которое будет переселять 500 тысяч кавказцев в Россию&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://svpressa.ru/society/article/35352/"&gt;Стартовала «программа Хлопонина» по переселению северокавказцев в Центральную Россию&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.lifenews.ru/news/49246"&gt;Следственный комитет прекратил дело против Чичваркина&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://goodbyelenin.ru/index/results"&gt;Единороссы открыли Интернет-голосование за вынос тела Ленина из маволея&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://nr2.ru/policy/313829.html"&gt;Совет Федерации: В Центральной России не хотят кавказцев соседями&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="статистика" src="/sosonews-09.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 27 Jan 2011 18:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/sosonews-09.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-09.mp3" type="audio/mpeg" length="42900030"/>
-	<category>news</category>
-	<category>podcast</category>
-	<category>Давос</category>
-	<category>Дворкович</category>
-	<category>Домодедово</category>
-	<category>Иванов</category>
-	<category>Кавказ</category>
-	<category>Медведев</category>
-	<category>Наши</category>
-	<category>США</category>
-	<category>Хлопонин</category>
-	<category>Чичваркин</category>
-	<category>биологическое оружие</category>
-	<category>переселение</category>
 </item>
 </channel>
 </rss>

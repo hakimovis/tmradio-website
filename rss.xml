@@ -8,8 +8,8 @@
 <title>Тоже мне радио</title>
 <description>Обновления сайта.</description>
 <link>http://www.tmradio.net/</link>
-<pubDate>Tue, 15 Feb 2011 21:45:05 -0000</pubDate>
-<lastBuildDate>Tue, 15 Feb 2011 21:45:05 -0000</lastBuildDate>
+<pubDate>Tue, 15 Feb 2011 21:49:41 -0000</pubDate>
+<lastBuildDate>Tue, 15 Feb 2011 21:49:41 -0000</lastBuildDate>
 <item>
 	<title>Чёрный лебедь</title>
 	<link>http://www.tmradio.net/prokino/black-swan-dugwin.html</link>
@@ -30,6 +30,16 @@
 	<category>mcast</category>
 	<category>movie-reviews</category>
 	<category>podcast</category>
+</item>
+<item>
+	<title>О бедном гусаре замолвите слово</title>
+	<link>http://www.tmradio.net/prokino/obgzs-hakimovis.html</link>
+	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
+	<pubDate>Thu, 10 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/obgzs-hakimovis.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/hakimovis-obgzs.mp3" type="audio/mpeg" length="1258221"/>
+	<category>podcast</category>
+	<category>prokino</category>
 </item>
 <item>
 	<title>Эфир ТСН от 10.02.2011</title>
@@ -74,6 +84,16 @@
 	<category>время</category>
 	<category>образование</category>
 	<category>телевидение</category>
+</item>
+<item>
+	<title>The Big C</title>
+	<link>http://www.tmradio.net/prokino/tbc-nikonor.html</link>
+	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
+	<pubDate>Wed, 09 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/tbc-nikonor.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/nikonor-tbc.mp3" type="audio/mpeg" length="770466"/>
+	<category>podcast</category>
+	<category>prokino</category>
 </item>
 <item>
 	<title>The Big C</title>
@@ -163,31 +183,6 @@
 	<category>коррупция</category>
 	<category>протест</category>
 	<category>эвакуация</category>
-</item>
-<item>
-	<title>Вышел tmradio-client v0.11 для Linux</title>
-	<link>http://www.tmradio.net/blog/20110201-client.html</link>
-	<description>&lt;p&gt;Вышла новая версия &lt;a href="/software.html"&gt;клиентской программы&lt;/a&gt; для Linux.  Изменения:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;При появлении новых сообщений список автоматически прокручивается в конец.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Скачать: &lt;a href="http://umonkey-tools.googlecode.com/files/tmradio-client-gtk-0.11.deb"&gt;deb&lt;/a&gt;, &lt;a href="http://umonkey-tools.googlecode.com/files/tmradio-client-gtk-0.11.zip"&gt;zip&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="screenshot" src="http://wiki.umonkey-tools.googlecode.com/hg/tmradio-client-11.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Mon, 31 Jan 2011 22:22:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/blog/20110201-client.html</guid>
-	<category>blog</category>
-	<category>software</category>
-	<category>tech</category>
-</item>
-<item>
-	<title>Tron: Legacy</title>
-	<link>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</link>
-	<description>&lt;p&gt;Рецензия на фильм «Tron: Legacy».&lt;/p&gt;</description>
-	<pubDate>Sun, 30 Jan 2011 21:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</guid>
-	<enclosure url="http://www.dugwin.net/files/prokino/prokino-01-tron2.mp3" type="audio/mpeg" length="1024"/>
-	<category>podcast</category>
-	<category>prokino</category>
 </item>
 </channel>
 </rss>
