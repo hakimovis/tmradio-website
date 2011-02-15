@@ -8,8 +8,18 @@
 <title>Тоже мне радио: podcast</title>
 <description>Страницы сайта Тоже мне радио с пометкой «podcast».</description>
 <link>http://www.tmradio.net/podcast.html</link>
-<pubDate>Mon, 14 Feb 2011 11:48:46 -0000</pubDate>
-<lastBuildDate>Mon, 14 Feb 2011 11:48:46 -0000</lastBuildDate>
+<pubDate>Tue, 15 Feb 2011 21:43:11 -0000</pubDate>
+<lastBuildDate>Tue, 15 Feb 2011 21:43:11 -0000</lastBuildDate>
+<item>
+	<title>Чёрный лебедь</title>
+	<link>http://www.tmradio.net/prokino/black-swan-dugwin.html</link>
+	<description>&lt;p&gt;Коротко — барахло, но Винсент хорош.&lt;/p&gt;</description>
+	<pubDate>Mon, 14 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/black-swan-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-03-black_swan.mp3" type="audio/mpeg" length="1024"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
 <item>
 	<title>О бедном гусаре замолвите слово</title>
 	<link>http://www.tmradio.net/mcast/20110211-obgzs.html</link>
@@ -77,6 +87,36 @@
 	<category>podcast</category>
 </item>
 <item>
+	<title>Burlesque и This Is It</title>
+	<link>http://www.tmradio.net/prokino/burlesque-dugwin.html</link>
+	<description>&lt;p&gt;Коротко: вместо «Burlesque» лучше пересмотреть «This Is It» с Джексоном.&lt;/p&gt;</description>
+	<pubDate>Sun, 06 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/burlesque-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-02-this_is_it.mp3" type="audio/mpeg" length="1024"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+<item>
+	<title>Теория большого взрыва</title>
+	<link>http://www.tmradio.net/prokino/big-bang-theory-umonkey.html</link>
+	<description>&lt;p&gt;Рецензия на сериал «Теория большого взрыва», сравнение с «Друзьями».&lt;/p&gt;</description>
+	<pubDate>Sat, 05 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/big-bang-theory-umonkey.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/big-bang-theory.mp3" type="audio/mpeg" length="2100616"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+<item>
+	<title>Визитёры</title>
+	<link>http://www.tmradio.net/prokino/visitors-umonkey.html</link>
+	<description>&lt;p&gt;Рецензия на сериал «Визитёры», сравнение с версией 1984 года.&lt;/p&gt;</description>
+	<pubDate>Sat, 05 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/visitors-umonkey.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/visitors.mp3" type="audio/mpeg" length="1285177"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+<item>
 	<title>Эфир ТСН от 03.02.2011</title>
 	<link>http://www.tmradio.net/sosonews-10.html</link>
 	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
@@ -125,6 +165,16 @@
 	<category>эвакуация</category>
 </item>
 <item>
+	<title>Tron: Legacy</title>
+	<link>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</link>
+	<description>&lt;p&gt;Рецензия на фильм «Tron: Legacy».&lt;/p&gt;</description>
+	<pubDate>Sun, 30 Jan 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-01-tron2.mp3" type="audio/mpeg" length="1024"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+<item>
 	<title>Эфир ТСН от 27.01.2011</title>
 	<link>http://www.tmradio.net/sosonews-09.html</link>
 	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
@@ -160,142 +210,6 @@
 	<category>Чичваркин</category>
 	<category>биологическое оружие</category>
 	<category>переселение</category>
-</item>
-<item>
-	<title>Эфир ТСН от 20.01.2011</title>
-	<link>http://www.tmradio.net/sosonews-08.html</link>
-	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;про тунис&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://echo.msk.ru/programs/albac/741697-echo/"&gt;Немцов&lt;/a&gt; после задержания на Эхе&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://echo.msk.ru/programs/personalno/742044-echo/"&gt;Лимонов&lt;/a&gt; после задержания на Эхе&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://txt.newsru.com/russia/19jan2011/sud.html"&gt;Впервые в России пользователя "Вконтакте" могут посадить за решетку за "пиратство"&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://echo.msk.ru/programs/exit/742651-echo/"&gt;Министр культуры в гостях у Венедиктова&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://ru.wikipedia.org/wiki/Сечин,_Игорь_Иванович"&gt;Сечин Игорь Иванович&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://txt.newsru.com/russia/19jan2011/luzhkov_further.html"&gt;Отказ Латвии не остановил Лужкова: он собирается просить вид на жительство в Австрии&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-08.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 20 Jan 2011 18:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/sosonews-08.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-08.mp3" type="audio/mpeg" length="42230837"/>
-	<category>news</category>
-	<category>podcast</category>
-	<category>Авдеев</category>
-	<category>Венедиктов</category>
-	<category>Лужков</category>
-	<category>Сечин</category>
-	<category>Сурков</category>
-	<category>в контакте</category>
-	<category>пиратство</category>
-	<category>революция</category>
-	<category>тунис</category>
-</item>
-<item>
-	<title>Эфир ТСН от 13.01.2011</title>
-	<link>http://www.tmradio.net/sosonews-07.html</link>
-	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://lenta.ru/news/2011/01/10/mmm/"&gt;МАВРОДИ начал акцию МММ-2011&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.echo.msk.ru/programs/personalno/739285-echo/"&gt;ХАЗИН об устройстве экономики&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.echo.msk.ru/guests/12844/"&gt;ХАЗИН на Эхе Москвы&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.gazeta.ru/news/lenta/2011/01/06/n_1645962.shtml"&gt;Китай готов купить государственный долг Испании&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://lm-alexeeva.livejournal.com/16511.html"&gt;АЛЕКСЕЕВА собирает компромат на власти&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.kp.ru/print/article/25620.4/787410"&gt;САРЫЧЕВ: транспортный налог надо повысить до 30.000р, заставить население отказываться от личного транспорта&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://lenta.ru/news/2011/01/06/taxestime/"&gt;Американцы потратили за год 6,1 миллиарда часов на налоговые декларации&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://txt.newsru.com/world/09jan2011/ariz.html"&gt;В Тусоне подстрелена конгрессвумен Габриэль ГИФФОРДС&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href="http://files.tmradio.net/sosonews-07.log"&gt;Лог чата&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-07.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 13 Jan 2011 18:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/sosonews-07.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-07.mp3" type="audio/mpeg" length="42230837"/>
-	<category>news</category>
-	<category>podcast</category>
-	<category>Алексеева</category>
-	<category>Гиффордс</category>
-	<category>Китай</category>
-	<category>МММ</category>
-	<category>Мавроди</category>
-	<category>Сарычев</category>
-	<category>Тусон</category>
-	<category>Хазин</category>
-	<category>налоги</category>
-</item>
-<item>
-	<title>Эфир ТСН от 06.01.2011</title>
-	<link>http://www.tmradio.net/sosonews-06.html</link>
-	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.rian.ru/society/20110104/317613327.html"&gt;ОНИЩЕНКО считает «преступным» отказ матерей от прививок детям&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.echo.msk.ru/programs/exit/739043-echo/"&gt;ОНИЩЕНКО на Эхе Москвы&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.bbc.co.uk/russian/life/2011/01/110103_birds_mistery_solved.shtml"&gt;В новогоднюю ночь на Арканзас обрушилось более 3000 МЁРТВЫХ ДРОЗДОВ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://eco.rian.ru/danger/20110106/318051079.html"&gt;Обнаруженные в Швеции птицы были убиты&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.allvoices.com/contributed-news/7798088-unsolved-mystery-40000-dead-devil-crabs-seen-on-british-beach"&gt;40,000 мёртвых крабов в Англии&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://image-host.ru/out.php/i5256_MassAnimalDeathsbig.jpg"&gt;Карта гибели птиц&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rosbalt.ru/2011/01/02/806660.html"&gt;Вулканический пепел спас Петропавловск-Камчатский от гололёда&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://rian.ru/incidents/20110101/316269490.html"&gt;В Сургуте сгорел ТУ-154&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-06.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 06 Jan 2011 18:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/sosonews-06.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-06.mp3" type="audio/mpeg" length="50361437"/>
-	<category>news</category>
-	<category>podcast</category>
-	<category>Онищенко</category>
-	<category>ТУ-154</category>
-	<category>гибель животных</category>
-</item>
-<item>
-	<title>Эфир ТСН от 30.12.2010</title>
-	<link>http://www.tmradio.net/sosonews-05.html</link>
-	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://echo.msk.ru/news/738203-echo.html"&gt;ХОДОРКОВСКИЙ приговорён к 13½ годам в рамках второго дела&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rg.ru/2010/12/26/chp-site.html"&gt;Ледяной дождь остановил работу московского аэропорта ДОМОДЕДОВО&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.vesti.ru/doc.html?id=417848&amp;amp;cid=9"&gt;Самолет МЧС России доставил в Колумбию гуманитарную помощь&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rian.ru/society/20101228/314602965.html"&gt;МЕДВЕДЕВ ужесточил контроль за патронами для травматики&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://news2.ru/story/287264/"&gt;На станции «Охотный ряд» в Москве появился ПУНКТ ДОСМОТРА ПАССАЖИРОВ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.interfax.ru/news.asp?id=171325"&gt;МЕДВЕДЕВ подписал закон о безопасности&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://vz.ru/columns/2010/12/27/457872.html"&gt;ДМИТРИЙ СОКОЛОВ: «Манежная площадь — это не симптомы распада государства, а наоборот — первые признаки его обретения»&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="статистика" src="sosonews-05.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 30 Dec 2010 18:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/sosonews-05.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-05.mp3" type="audio/mpeg" length="27759130"/>
-	<category>news</category>
-	<category>podcast</category>
-	<category>Домодедово</category>
-	<category>МЧС</category>
-	<category>Манежная площадь</category>
-	<category>Медведев</category>
-	<category>Соколов</category>
-	<category>Ходорковский</category>
-</item>
-<item>
-	<title>Эфир ТСН от 23.12.2010</title>
-	<link>http://www.tmradio.net/sosonews-04.html</link>
-	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://skyfootman.livejournal.com/9445.html"&gt;Провокатор из МГУ — брат избитых?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://lenta.ru/news/2010/12/21/pistola/"&gt;Госдума приравняла травматическое оружие к огнестрельному&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://news2.ru/story/285352/"&gt;Медведев велел жестко пресекать все митинги и шествия.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.gazeta.ru/politics/2010/12/23_a_3476049.shtml"&gt;ЦРУ создает специальное подразделение по борьбе с Wikileaks.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-	<pubDate>Thu, 23 Dec 2010 18:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/sosonews-04.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-04.mp3" type="audio/mpeg" length="28092452"/>
-	<category>WikiLeaks</category>
-	<category>news</category>
-	<category>podcast</category>
-	<category>Манежная площадь</category>
-	<category>Медведев</category>
-	<category>ЦРУ</category>
-	<category>протесты</category>
-	<category>травматическое оружие</category>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="http://www.tmradio.net/prokino.xml" rel="self" type="application/rss+xml"/>
+<language>ru-RU</language>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>Poole</generator>
+<title>Тоже мне радио: prokino</title>
+<description>Страницы сайта Тоже мне радио с пометкой «prokino».</description>
+<link>http://www.tmradio.net/prokino.html</link>
+<pubDate>Tue, 15 Feb 2011 21:43:11 -0000</pubDate>
+<lastBuildDate>Tue, 15 Feb 2011 21:43:11 -0000</lastBuildDate>
+<item>
+	<title>Чёрный лебедь</title>
+	<link>http://www.tmradio.net/prokino/black-swan-dugwin.html</link>
+	<description>&lt;p&gt;Коротко — барахло, но Винсент хорош.&lt;/p&gt;</description>
+	<pubDate>Mon, 14 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/black-swan-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-03-black_swan.mp3" type="audio/mpeg" length="1024"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+<item>
+	<title>Burlesque и This Is It</title>
+	<link>http://www.tmradio.net/prokino/burlesque-dugwin.html</link>
+	<description>&lt;p&gt;Коротко: вместо «Burlesque» лучше пересмотреть «This Is It» с Джексоном.&lt;/p&gt;</description>
+	<pubDate>Sun, 06 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/burlesque-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-02-this_is_it.mp3" type="audio/mpeg" length="1024"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+<item>
+	<title>Теория большого взрыва</title>
+	<link>http://www.tmradio.net/prokino/big-bang-theory-umonkey.html</link>
+	<description>&lt;p&gt;Рецензия на сериал «Теория большого взрыва», сравнение с «Друзьями».&lt;/p&gt;</description>
+	<pubDate>Sat, 05 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/big-bang-theory-umonkey.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/big-bang-theory.mp3" type="audio/mpeg" length="2100616"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+<item>
+	<title>Визитёры</title>
+	<link>http://www.tmradio.net/prokino/visitors-umonkey.html</link>
+	<description>&lt;p&gt;Рецензия на сериал «Визитёры», сравнение с версией 1984 года.&lt;/p&gt;</description>
+	<pubDate>Sat, 05 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/visitors-umonkey.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/visitors.mp3" type="audio/mpeg" length="1285177"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+<item>
+	<title>Tron: Legacy</title>
+	<link>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</link>
+	<description>&lt;p&gt;Рецензия на фильм «Tron: Legacy».&lt;/p&gt;</description>
+	<pubDate>Sun, 30 Jan 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-01-tron2.mp3" type="audio/mpeg" length="1024"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+</channel>
+</rss>

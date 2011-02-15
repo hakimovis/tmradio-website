@@ -8,8 +8,18 @@
 <title>Тоже мне радио</title>
 <description>Обновления сайта.</description>
 <link>http://www.tmradio.net/</link>
-<pubDate>Mon, 14 Feb 2011 11:48:46 -0000</pubDate>
-<lastBuildDate>Mon, 14 Feb 2011 11:48:46 -0000</lastBuildDate>
+<pubDate>Tue, 15 Feb 2011 21:43:11 -0000</pubDate>
+<lastBuildDate>Tue, 15 Feb 2011 21:43:11 -0000</lastBuildDate>
+<item>
+	<title>Чёрный лебедь</title>
+	<link>http://www.tmradio.net/prokino/black-swan-dugwin.html</link>
+	<description>&lt;p&gt;Коротко — барахло, но Винсент хорош.&lt;/p&gt;</description>
+	<pubDate>Mon, 14 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/black-swan-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-03-black_swan.mp3" type="audio/mpeg" length="1024"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
 <item>
 	<title>О бедном гусаре замолвите слово</title>
 	<link>http://www.tmradio.net/mcast/20110211-obgzs.html</link>
@@ -77,6 +87,36 @@
 	<category>podcast</category>
 </item>
 <item>
+	<title>Burlesque и This Is It</title>
+	<link>http://www.tmradio.net/prokino/burlesque-dugwin.html</link>
+	<description>&lt;p&gt;Коротко: вместо «Burlesque» лучше пересмотреть «This Is It» с Джексоном.&lt;/p&gt;</description>
+	<pubDate>Sun, 06 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/burlesque-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-02-this_is_it.mp3" type="audio/mpeg" length="1024"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+<item>
+	<title>Теория большого взрыва</title>
+	<link>http://www.tmradio.net/prokino/big-bang-theory-umonkey.html</link>
+	<description>&lt;p&gt;Рецензия на сериал «Теория большого взрыва», сравнение с «Друзьями».&lt;/p&gt;</description>
+	<pubDate>Sat, 05 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/big-bang-theory-umonkey.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/big-bang-theory.mp3" type="audio/mpeg" length="2100616"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+<item>
+	<title>Визитёры</title>
+	<link>http://www.tmradio.net/prokino/visitors-umonkey.html</link>
+	<description>&lt;p&gt;Рецензия на сериал «Визитёры», сравнение с версией 1984 года.&lt;/p&gt;</description>
+	<pubDate>Sat, 05 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/visitors-umonkey.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/visitors.mp3" type="audio/mpeg" length="1285177"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+<item>
 	<title>Эфир ТСН от 03.02.2011</title>
 	<link>http://www.tmradio.net/sosonews-10.html</link>
 	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
@@ -140,141 +180,14 @@
 	<category>tech</category>
 </item>
 <item>
-	<title>Новый алгоритм выбора дневной музыки</title>
-	<link>http://www.tmradio.net/blog/20110128-music.html</link>
-	<description>&lt;p&gt;Сегодня введена новая программа выбора дневной музыки.  По утрам, с 9 до 12
-часов, теперь звучит музыка с негативными отзывами или без отзывов, а после 12 —
-только музыка с позитивными отзывами или без отзывов (то есть совсем свежая).&lt;/p&gt;
-&lt;p&gt;Такое решение должно сделать радио более приятным для большинства слушателей,
-исключив откровенный хлам, который раньше периодически пробивался в эфир, не
-успевая быть отфильтрованным через &lt;a href="/programs/shitlist.html"&gt;отстойник&lt;/a&gt;.  Если
-же кому интересно заниматься фильтрованием музыки — можно делать это по утрам,
-этим вы повысите себе карму, зарядитесь настроением на весь день и поможете
-радиостанции.&lt;/p&gt;</description>
-	<pubDate>Fri, 28 Jan 2011 06:38:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/blog/20110128-music.html</guid>
-	<category>blog</category>
-	<category>tech</category>
-</item>
-<item>
-	<title>Эфир ТСН от 27.01.2011</title>
-	<link>http://www.tmradio.net/sosonews-09.html</link>
-	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://laddove.livejournal.com/56691.html"&gt;В Домодедово произошёл взрыв, есть погибшие&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.infox.ru/authority/state/2011/01/27/Ivanov_pryedlagayet_.phtml"&gt;Иванов предлагает создать новый орган по безопасности на транспорте&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.utro.ru/news/2011/01/26/951868.shtml"&gt;Целью теракта в "Домодедово" был срыв визита Медведева в Давос&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://dolboeb.livejournal.com/1972312.html"&gt;Как нашисты следы заметали&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.interfax.ru/news.asp?id=173699"&gt;Дворкович высказался за отмену студенческих стипендий&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://lenta.ru/news/2011/01/27/dugway/"&gt;В США экстренно закрыли полигон для испытаний биологического оружия&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://svpressa.ru/society/article/37519/"&gt;Создано ведомство — «Межрегиональный ресурсный центр» которое будет переселять 500 тысяч кавказцев в Россию&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://svpressa.ru/society/article/35352/"&gt;Стартовала «программа Хлопонина» по переселению северокавказцев в Центральную Россию&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.lifenews.ru/news/49246"&gt;Следственный комитет прекратил дело против Чичваркина&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://goodbyelenin.ru/index/results"&gt;Единороссы открыли Интернет-голосование за вынос тела Ленина из маволея&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://nr2.ru/policy/313829.html"&gt;Совет Федерации: В Центральной России не хотят кавказцев соседями&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="статистика" src="/sosonews-09.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 27 Jan 2011 18:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/sosonews-09.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-09.mp3" type="audio/mpeg" length="42900030"/>
-	<category>news</category>
+	<title>Tron: Legacy</title>
+	<link>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</link>
+	<description>&lt;p&gt;Рецензия на фильм «Tron: Legacy».&lt;/p&gt;</description>
+	<pubDate>Sun, 30 Jan 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-01-tron2.mp3" type="audio/mpeg" length="1024"/>
 	<category>podcast</category>
-	<category>Давос</category>
-	<category>Дворкович</category>
-	<category>Домодедово</category>
-	<category>Иванов</category>
-	<category>Кавказ</category>
-	<category>Медведев</category>
-	<category>Наши</category>
-	<category>США</category>
-	<category>Хлопонин</category>
-	<category>Чичваркин</category>
-	<category>биологическое оружие</category>
-	<category>переселение</category>
-</item>
-<item>
-	<title>Получение новой музыки из Last.fm</title>
-	<link>http://www.tmradio.net/blog/20110126-lastfm.html</link>
-	<description>&lt;p&gt;Раньше новая &lt;a href="/music.html"&gt;музыка&lt;/a&gt; добавлялась в ротацию в основном вручную:
-добрые люди присылали ссылки, техподдержка их проверяла, скачивала музыку и
-добавляла в ротацию.  В качестве дополнительных источников используется
-несколько подкастов, однако из них приходит в основном довольно сомнительная
-музыка и очень редко.&lt;/p&gt;
-&lt;p&gt;Сегодня в список автоматических источников добавлены &lt;a href="http://www.lastfm.ru/home/freemp3s"&gt;рекомендации Last.fm&lt;/a&gt;
-для пользователя &lt;a href="http://www.lastfm.ru/user/tmradiobot"&gt;tmradiobot&lt;/a&gt;, который отмечает всё, что звучит в эфире.  В
-рекомендации попадает свободная музыка, похожая на то, что уже звучит на радио,
-но которая в библиотеке радиостанции отсутствует.  Теперь библиотека будет
-постоянно пополняться новой музыкой, которую админам останется, при
-необходимости, раскидать по нужным &lt;a href="/schedule.html"&gt;программам&lt;/a&gt;, а избавиться от
-&lt;a href="/programs/shitlist.html"&gt;всякого хлама&lt;/a&gt; помогут уже слушатели.&lt;/p&gt;
-&lt;p&gt;Рекомендации Last.fm решают сразу две проблемы: нам не надо искать сайты
-исполнителей, чтобы что-нибудь скачать, а исполнителям не надо думать, кому бы
-ещё впарить свою музыку: кому надо сами её найдут.  Заодно администрация ТМР
-теперь может смело отправиться в полугодичный отпуск на Луну, не боясь, что эфир
-протухнет.&lt;/p&gt;
-&lt;p&gt;Всем этим занимается наш новый робот, получивший имя &lt;a href="http://code.google.com/p/ardj/source/browse/src/robots/podcaster"&gt;podcaster&lt;/a&gt;, который
-является, по сути, примитивным подкаст-аггрегатором, написанным на Питоне.&lt;/p&gt;</description>
-	<pubDate>Tue, 25 Jan 2011 20:50:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/blog/20110126-lastfm.html</guid>
-	<category>blog</category>
-	<category>tech</category>
-</item>
-<item>
-	<title>О медленных дисках и заикающемся звуке</title>
-	<link>http://www.tmradio.net/blog/20110125-jerks.html</link>
-	<description>&lt;p&gt;Сегодня в течение дня наблюдались периодические подвисания потока на несколько
-секунд.  Радио работает на очень слабом сервере (Asus EEE PC 701), который
-загрузить довольно легко, однако беглый анализ ситуации показал, что проблема не
-связана ни с нагрузкой на процессор, ни на сетевой интерфейс.  Под подозрением
-оставались диски.&lt;/p&gt;
-&lt;p&gt;Оказалось что некто решил загрузить все эпизоды подкаста «&lt;a href="http://afterwednesday.rpod.ru/"&gt;Сегодня
-четверг&lt;/a&gt;», которые хранятся на сайте, который обслуживается машиной, на
-которой работает радио.  При этом сами файлы хранились в Amazon S3, а на сервере
-был запущен кэширующий прокси-сервер, для снижения количества запросов.  Кэш
-используется не очень большой, поэтому прокси-серверу приходилось скачивать
-файлы извне, сохраняя их на диске на случай повторного обращения в течение
-ближайших нескольких часов.&lt;/p&gt;
-&lt;p&gt;Вот эта запись файлов размером в несколько десятков мегабайтов и вызывала такую
-нагрузку на слабые SSD-диски сервера, что стопорилось даже чтение файлов. 
-Проблему решили отказом от использования Amazon S3 в качестве файлового хостинга
-(теперь только для бэкапов), также планируется увеличить буфер в ices, чтобы
-временные провалы файловой системы не были столь заметны.&lt;/p&gt;
-&lt;p&gt;Продолжаем выжимать максимум из имеющегося минимума.&lt;/p&gt;</description>
-	<pubDate>Mon, 24 Jan 2011 18:01:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/blog/20110125-jerks.html</guid>
-	<category>blog</category>
-	<category>tech</category>
-</item>
-<item>
-	<title>Эфир ТСН от 20.01.2011</title>
-	<link>http://www.tmradio.net/sosonews-08.html</link>
-	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;про тунис&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://echo.msk.ru/programs/albac/741697-echo/"&gt;Немцов&lt;/a&gt; после задержания на Эхе&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://echo.msk.ru/programs/personalno/742044-echo/"&gt;Лимонов&lt;/a&gt; после задержания на Эхе&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://txt.newsru.com/russia/19jan2011/sud.html"&gt;Впервые в России пользователя "Вконтакте" могут посадить за решетку за "пиратство"&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://echo.msk.ru/programs/exit/742651-echo/"&gt;Министр культуры в гостях у Венедиктова&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://ru.wikipedia.org/wiki/Сечин,_Игорь_Иванович"&gt;Сечин Игорь Иванович&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://txt.newsru.com/russia/19jan2011/luzhkov_further.html"&gt;Отказ Латвии не остановил Лужкова: он собирается просить вид на жительство в Австрии&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-08.png" /&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 20 Jan 2011 18:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/sosonews-08.html</guid>
-	<enclosure url="http://files.tmradio.net/sosonews-08.mp3" type="audio/mpeg" length="42230837"/>
-	<category>news</category>
-	<category>podcast</category>
-	<category>Авдеев</category>
-	<category>Венедиктов</category>
-	<category>Лужков</category>
-	<category>Сечин</category>
-	<category>Сурков</category>
-	<category>в контакте</category>
-	<category>пиратство</category>
-	<category>революция</category>
-	<category>тунис</category>
+	<category>prokino</category>
 </item>
 </channel>
 </rss>

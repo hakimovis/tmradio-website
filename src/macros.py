@@ -74,7 +74,7 @@ def print_menu(pages, page):
     return output
 
 
-def pagelist(pages, limit=5, label=None, show_dates=True):
+def pagelist(pages, limit=5, label=None, show_dates=True, show_author=False):
     output = u''
     pages = [page for page in pages if 'date' in page]
     if label is not None:
@@ -86,8 +86,11 @@ def pagelist(pages, limit=5, label=None, show_dates=True):
         pages = pages[:limit]
     for page in pages:
         output += u'<li><a href="%s">%s</a>' % (page.get('url'), page.get('title'))
+        if show_author and page.has_key('author'):
+            output += u' (%s)' % page.get('author')
         if limit is None and show_dates:
-            date = datetime.datetime.strptime(page.date, '%Y-%m-%d %H:%M').strftime('%d.%m.%Y')
+            date = page.date + ' 00:00'
+            date = datetime.datetime.strptime(date[:16], '%Y-%m-%d %H:%M').strftime('%d.%m.%Y')
             output += u' <span class="date">%s</span>' % date
         output += u'</li>'
     if output:
