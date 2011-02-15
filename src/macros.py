@@ -74,7 +74,7 @@ def print_menu(pages, page):
     return output
 
 
-def pagelist(pages, limit=5, label=None, show_dates=True, show_author=False):
+def pagelist(pages, limit=5, label=None, show_dates=True):
     output = u''
     pages = [page for page in pages if 'date' in page]
     if label is not None:
@@ -84,6 +84,10 @@ def pagelist(pages, limit=5, label=None, show_dates=True, show_author=False):
     pages.sort(key=lambda p: p.get('date'), reverse=True)
     if limit is not None:
         pages = pages[:limit]
+
+    authors = list(set([p.get('author') for p in pages if p.get('author')]))
+    show_author = len(authors) > 2
+
     for page in pages:
         output += u'<li><a href="%s">%s</a>' % (page.get('url'), page.get('title'))
         if show_author and page.has_key('author'):

@@ -13,4 +13,4 @@ title: Программа про кино
 
 ## Архив выпусков
 
-{{ pagelist(pages, limit=None, label='prokino', show_dates=True, show_author=True) }}
+{{ pagelist(pages, limit=None, label='prokino', show_dates=True) }}
