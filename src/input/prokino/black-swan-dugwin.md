@@ -1,4 +1,4 @@
-title: Чёрный лебедь
+title: Чёрный лебедь (2010)
 author: dugwin j. goines
 file: http://www.dugwin.net/files/prokino/prokino-03-black_swan.mp3
 filesize: 1024
