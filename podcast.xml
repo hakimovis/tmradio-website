@@ -8,8 +8,8 @@
 <title>Тоже мне радио: podcast</title>
 <description>Страницы сайта Тоже мне радио с пометкой «podcast».</description>
 <link>http://www.tmradio.net/podcast.html</link>
-<pubDate>Tue, 15 Feb 2011 22:04:10 -0000</pubDate>
-<lastBuildDate>Tue, 15 Feb 2011 22:04:10 -0000</lastBuildDate>
+<pubDate>Wed, 16 Feb 2011 07:21:11 -0000</pubDate>
+<lastBuildDate>Wed, 16 Feb 2011 07:21:11 -0000</lastBuildDate>
 <item>
 	<title>Чёрный лебедь</title>
 	<link>http://www.tmradio.net/prokino/black-swan-dugwin.html</link>
@@ -183,6 +183,279 @@
 	<category>коррупция</category>
 	<category>протест</category>
 	<category>эвакуация</category>
+</item>
+<item>
+	<title>Tron: Legacy</title>
+	<link>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</link>
+	<description>&lt;p&gt;Рецензия на фильм «Tron: Legacy».&lt;/p&gt;</description>
+	<pubDate>Sun, 30 Jan 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-01-tron2.mp3" type="audio/mpeg" length="1024"/>
+	<category>podcast</category>
+	<category>prokino</category>
+</item>
+<item>
+	<title>Эфир ТСН от 27.01.2011</title>
+	<link>http://www.tmradio.net/sosonews-09.html</link>
+	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://laddove.livejournal.com/56691.html"&gt;В Домодедово произошёл взрыв, есть погибшие&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.infox.ru/authority/state/2011/01/27/Ivanov_pryedlagayet_.phtml"&gt;Иванов предлагает создать новый орган по безопасности на транспорте&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.utro.ru/news/2011/01/26/951868.shtml"&gt;Целью теракта в "Домодедово" был срыв визита Медведева в Давос&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dolboeb.livejournal.com/1972312.html"&gt;Как нашисты следы заметали&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.interfax.ru/news.asp?id=173699"&gt;Дворкович высказался за отмену студенческих стипендий&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lenta.ru/news/2011/01/27/dugway/"&gt;В США экстренно закрыли полигон для испытаний биологического оружия&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://svpressa.ru/society/article/37519/"&gt;Создано ведомство — «Межрегиональный ресурсный центр» которое будет переселять 500 тысяч кавказцев в Россию&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://svpressa.ru/society/article/35352/"&gt;Стартовала «программа Хлопонина» по переселению северокавказцев в Центральную Россию&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.lifenews.ru/news/49246"&gt;Следственный комитет прекратил дело против Чичваркина&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://goodbyelenin.ru/index/results"&gt;Единороссы открыли Интернет-голосование за вынос тела Ленина из маволея&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nr2.ru/policy/313829.html"&gt;Совет Федерации: В Центральной России не хотят кавказцев соседями&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="статистика" src="/sosonews-09.png" /&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 27 Jan 2011 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/sosonews-09.html</guid>
+	<enclosure url="http://files.tmradio.net/sosonews-09.mp3" type="audio/mpeg" length="42900030"/>
+	<category>news</category>
+	<category>podcast</category>
+	<category>Давос</category>
+	<category>Дворкович</category>
+	<category>Домодедово</category>
+	<category>Иванов</category>
+	<category>Кавказ</category>
+	<category>Медведев</category>
+	<category>Наши</category>
+	<category>США</category>
+	<category>Хлопонин</category>
+	<category>Чичваркин</category>
+	<category>биологическое оружие</category>
+	<category>переселение</category>
+</item>
+<item>
+	<title>Эфир ТСН от 20.01.2011</title>
+	<link>http://www.tmradio.net/sosonews-08.html</link>
+	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;про тунис&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://echo.msk.ru/programs/albac/741697-echo/"&gt;Немцов&lt;/a&gt; после задержания на Эхе&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://echo.msk.ru/programs/personalno/742044-echo/"&gt;Лимонов&lt;/a&gt; после задержания на Эхе&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://txt.newsru.com/russia/19jan2011/sud.html"&gt;Впервые в России пользователя "Вконтакте" могут посадить за решетку за "пиратство"&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://echo.msk.ru/programs/exit/742651-echo/"&gt;Министр культуры в гостях у Венедиктова&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ru.wikipedia.org/wiki/Сечин,_Игорь_Иванович"&gt;Сечин Игорь Иванович&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://txt.newsru.com/russia/19jan2011/luzhkov_further.html"&gt;Отказ Латвии не остановил Лужкова: он собирается просить вид на жительство в Австрии&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-08.png" /&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 20 Jan 2011 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/sosonews-08.html</guid>
+	<enclosure url="http://files.tmradio.net/sosonews-08.mp3" type="audio/mpeg" length="42230837"/>
+	<category>news</category>
+	<category>podcast</category>
+	<category>Авдеев</category>
+	<category>Венедиктов</category>
+	<category>Лужков</category>
+	<category>Сечин</category>
+	<category>Сурков</category>
+	<category>в контакте</category>
+	<category>пиратство</category>
+	<category>революция</category>
+	<category>тунис</category>
+</item>
+<item>
+	<title>Эфир ТСН от 13.01.2011</title>
+	<link>http://www.tmradio.net/sosonews-07.html</link>
+	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://lenta.ru/news/2011/01/10/mmm/"&gt;МАВРОДИ начал акцию МММ-2011&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.echo.msk.ru/programs/personalno/739285-echo/"&gt;ХАЗИН об устройстве экономики&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.echo.msk.ru/guests/12844/"&gt;ХАЗИН на Эхе Москвы&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.gazeta.ru/news/lenta/2011/01/06/n_1645962.shtml"&gt;Китай готов купить государственный долг Испании&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lm-alexeeva.livejournal.com/16511.html"&gt;АЛЕКСЕЕВА собирает компромат на власти&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kp.ru/print/article/25620.4/787410"&gt;САРЫЧЕВ: транспортный налог надо повысить до 30.000р, заставить население отказываться от личного транспорта&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lenta.ru/news/2011/01/06/taxestime/"&gt;Американцы потратили за год 6,1 миллиарда часов на налоговые декларации&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://txt.newsru.com/world/09jan2011/ariz.html"&gt;В Тусоне подстрелена конгрессвумен Габриэль ГИФФОРДС&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="http://files.tmradio.net/sosonews-07.log"&gt;Лог чата&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-07.png" /&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 13 Jan 2011 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/sosonews-07.html</guid>
+	<enclosure url="http://files.tmradio.net/sosonews-07.mp3" type="audio/mpeg" length="42230837"/>
+	<category>news</category>
+	<category>podcast</category>
+	<category>Алексеева</category>
+	<category>Гиффордс</category>
+	<category>Китай</category>
+	<category>МММ</category>
+	<category>Мавроди</category>
+	<category>Сарычев</category>
+	<category>Тусон</category>
+	<category>Хазин</category>
+	<category>налоги</category>
+</item>
+<item>
+	<title>Эфир ТСН от 06.01.2011</title>
+	<link>http://www.tmradio.net/sosonews-06.html</link>
+	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.rian.ru/society/20110104/317613327.html"&gt;ОНИЩЕНКО считает «преступным» отказ матерей от прививок детям&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.echo.msk.ru/programs/exit/739043-echo/"&gt;ОНИЩЕНКО на Эхе Москвы&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.bbc.co.uk/russian/life/2011/01/110103_birds_mistery_solved.shtml"&gt;В новогоднюю ночь на Арканзас обрушилось более 3000 МЁРТВЫХ ДРОЗДОВ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://eco.rian.ru/danger/20110106/318051079.html"&gt;Обнаруженные в Швеции птицы были убиты&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.allvoices.com/contributed-news/7798088-unsolved-mystery-40000-dead-devil-crabs-seen-on-british-beach"&gt;40,000 мёртвых крабов в Англии&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://image-host.ru/out.php/i5256_MassAnimalDeathsbig.jpg"&gt;Карта гибели птиц&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rosbalt.ru/2011/01/02/806660.html"&gt;Вулканический пепел спас Петропавловск-Камчатский от гололёда&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rian.ru/incidents/20110101/316269490.html"&gt;В Сургуте сгорел ТУ-154&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="статистика" src="http://files.tmradio.net/sosonews-06.png" /&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 06 Jan 2011 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/sosonews-06.html</guid>
+	<enclosure url="http://files.tmradio.net/sosonews-06.mp3" type="audio/mpeg" length="50361437"/>
+	<category>news</category>
+	<category>podcast</category>
+	<category>Онищенко</category>
+	<category>ТУ-154</category>
+	<category>гибель животных</category>
+</item>
+<item>
+	<title>Эфир ТСН от 30.12.2010</title>
+	<link>http://www.tmradio.net/sosonews-05.html</link>
+	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://echo.msk.ru/news/738203-echo.html"&gt;ХОДОРКОВСКИЙ приговорён к 13½ годам в рамках второго дела&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rg.ru/2010/12/26/chp-site.html"&gt;Ледяной дождь остановил работу московского аэропорта ДОМОДЕДОВО&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.vesti.ru/doc.html?id=417848&amp;amp;cid=9"&gt;Самолет МЧС России доставил в Колумбию гуманитарную помощь&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rian.ru/society/20101228/314602965.html"&gt;МЕДВЕДЕВ ужесточил контроль за патронами для травматики&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://news2.ru/story/287264/"&gt;На станции «Охотный ряд» в Москве появился ПУНКТ ДОСМОТРА ПАССАЖИРОВ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.interfax.ru/news.asp?id=171325"&gt;МЕДВЕДЕВ подписал закон о безопасности&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://vz.ru/columns/2010/12/27/457872.html"&gt;ДМИТРИЙ СОКОЛОВ: «Манежная площадь — это не симптомы распада государства, а наоборот — первые признаки его обретения»&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="статистика" src="sosonews-05.png" /&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 30 Dec 2010 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/sosonews-05.html</guid>
+	<enclosure url="http://files.tmradio.net/sosonews-05.mp3" type="audio/mpeg" length="27759130"/>
+	<category>news</category>
+	<category>podcast</category>
+	<category>Домодедово</category>
+	<category>МЧС</category>
+	<category>Манежная площадь</category>
+	<category>Медведев</category>
+	<category>Соколов</category>
+	<category>Ходорковский</category>
+</item>
+<item>
+	<title>Эфир ТСН от 23.12.2010</title>
+	<link>http://www.tmradio.net/sosonews-04.html</link>
+	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://skyfootman.livejournal.com/9445.html"&gt;Провокатор из МГУ — брат избитых?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lenta.ru/news/2010/12/21/pistola/"&gt;Госдума приравняла травматическое оружие к огнестрельному&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://news2.ru/story/285352/"&gt;Медведев велел жестко пресекать все митинги и шествия.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.gazeta.ru/politics/2010/12/23_a_3476049.shtml"&gt;ЦРУ создает специальное подразделение по борьбе с Wikileaks.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+	<pubDate>Thu, 23 Dec 2010 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/sosonews-04.html</guid>
+	<enclosure url="http://files.tmradio.net/sosonews-04.mp3" type="audio/mpeg" length="28092452"/>
+	<category>WikiLeaks</category>
+	<category>news</category>
+	<category>podcast</category>
+	<category>Манежная площадь</category>
+	<category>Медведев</category>
+	<category>ЦРУ</category>
+	<category>протесты</category>
+	<category>травматическое оружие</category>
+</item>
+<item>
+	<title>Эфир ТСН от 16.12.2010</title>
+	<link>http://www.tmradio.net/sosonews-03.html</link>
+	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://txt.newsru.com/russia/16dec2010/line9.html"&gt;Премьер Путин провел девятую "прямую линию" с народом&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://txt.newsru.com/russia/15dec2010/court.html"&gt;Оглашение приговора Ходорковскому и Лебедеву перенесено на 27 декабря&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://news2.ru/story/284470/"&gt;Нургалиев: фанатов подстрекали левые радикалы&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://zyalt.livejournal.com/330396.html"&gt;Фоторепортаж Варламова с Манежной площади&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rus-obr.ru/ru-club/6589"&gt;Анатомия терроризма.  Доклад Станислава Лекарева.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.vesti.ru/videos?vid=310712"&gt;Путин сыграл на рояле и спел на благотворительном вечере&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sport.rbc.ru/football/article/14/12/2010/315225.shtml"&gt;Сергей Иванов: билеты на футбол нужно продавать по паспорту&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.newsru.co.il/world/12dec2010/bottke_604_print.html"&gt;Все запасы золота на Земле имеют инопланетное происхождение&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.utro.ru/articles/2010/12/14/943726.shtml"&gt;Вояджер-1 достиг пределов Солнечной системы&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.dp.ru/a/2010/11/02/Mihail_Prohorov_predlozhil"&gt;Прохоров предложил разрешить работать по 60 часов в неделю&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://properm.ru/news/region/21049/?p=1"&gt;Вопрос Путину о заброшенном шахтёрском посёлке&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.nr2.ru/perm/313356.html"&gt;Число школ приведут в соответствие с числом учащихся&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+	<pubDate>Thu, 16 Dec 2010 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/sosonews-03.html</guid>
+	<enclosure url="http://files.tmradio.net/sosonews-03.mp3" type="audio/mpeg" length="38192982"/>
+	<category>news</category>
+	<category>podcast</category>
+	<category>podcast Путин</category>
+	<category>Варламов</category>
+	<category>Иванов</category>
+	<category>Лекарев</category>
+	<category>Манежная площадь</category>
+	<category>Нургалиев</category>
+	<category>Прохоров</category>
+	<category>Ходорковский</category>
+	<category>золото</category>
+	<category>космос</category>
+	<category>образование</category>
+</item>
+<item>
+	<title>Эфир ТСН от 09.12.2010</title>
+	<link>http://www.tmradio.net/sosonews-02.html</link>
+	<description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.kp.ru/daily/24602.5/773909/"&gt;ТОРШИН: «Россиянам разрешат иметь боевое оружие через 5-7 лет»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.newsru.com/russia/06dec2010/fight.html"&gt;Болельщик московского «Спартака» убит в драке с дагестанцами, ещё один ранен&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://vadimb.livejournal.com/925028.html"&gt;Массовое избиение русских кавказцами на рок-фестивале в Норильске, милиция и прокуратура бездействуют&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gazeta.ru/politics/2010/12/06_a_3456957.shtml"&gt;Путин: «Вот ветряки, которые очень распространены во многих европейских странах – казалось бы, совсем экологически чистый вид энергии, а между тем это и не так. Они птиц убивают. Там такая вибрация – червяки на поверхность вылезают, я уже не говорю там про всяких кротов»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nr2.ru/moskow/311602.html"&gt;Делягин: «Россия до Чемпионата мира по футболу 2018 года просто не доживет. По крайней мере, в своем нынешнем виде.»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.thepaypalblog.com/2010/12/paypal-statement-regarding-wikileaks/"&gt;PayPal заблокировал аккаунт WikiLeaks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://echo.msk.ru/news/731073-echo.phtml"&gt;Сердюков «после второй бутылки водки» признался, что Россия поставляла оружие Армении (WikiLeaks)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://khodorkovsky.ru/documents/2010/12/07/13822/"&gt;«Ожидание справедливости», акция в поддержку Ходорковского и Лебедева&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://top.rbc.ru/society/09/12/2010/512117.shtml"&gt;Ассанж оставил напоследок «козырь в рукаве»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.co.uk/gp/product/B004EEOLIU?ie=UTF8&amp;force-full-site=1"&gt;На amazon.co.uk продаётся архив WikiLeaks для Kindle (уже опубликованные ранее материалы)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rosbalt.ru/2010/12/07/798116.html"&gt;Саммит ОБСЕ в Астане провалился&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://txt.newsru.com/russia/05dec2010/glonasss.html"&gt;Три спутника ГЛОНАСС упали в океан&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+	<pubDate>Thu, 09 Dec 2010 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/sosonews-02.html</guid>
+	<enclosure url="http://files.tmradio.net/sosonews-02.mp3" type="audio/mpeg" length="58422620"/>
+	<category>PayPal</category>
+	<category>WikiLeaks</category>
+	<category>news</category>
+	<category>podcast</category>
+	<category>ГЛОНАСС</category>
+	<category>Делягин</category>
+	<category>Манежная площадь</category>
+	<category>ОБСЕ</category>
+	<category>Путин</category>
+	<category>Сердюков</category>
+	<category>Торшин</category>
+</item>
+<item>
+	<title>Эфир ТСН от 02.12.2010</title>
+	<link>http://www.tmradio.net/sosonews-01.html</link>
+	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://transcripts.cnn.com/TRANSCRIPTS/0009/08/lkl.00.html"&gt;Интервью Путина Кингу&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://vz.ru/news/2010/12/1/451644.html"&gt;Испания поддержала отмену виз между Россией и ЕС&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://infox.ru/authority/mans/2010/12/01/Sobyanin_pyeryesyeli.phtml"&gt;Собянин планирует переселить московских пенсионеров в Ярославскую область&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.trud.ru/article/25-10-2010/252871_kak_lukashenko_sozdal_svoe_skolkovo.html"&gt;Как Лукашенко создавал своё Сколково&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+	<pubDate>Thu, 02 Dec 2010 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/sosonews-01.html</guid>
+	<enclosure url="http://files.tmradio.net/sosonews-01.mp3" type="audio/mpeg" length="56453333"/>
+	<category>news</category>
+	<category>podcast</category>
+	<category>Кинг</category>
+	<category>Лукашенко</category>
+	<category>Путин</category>
+	<category>Сколково</category>
+	<category>Собянин</category>
+	<category>визовый режим</category>
+	<category>пенсионеры</category>
 </item>
 </channel>
 </rss>

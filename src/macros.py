@@ -183,7 +183,7 @@ def write_rss(pages, title, description, label=None):
     # sort by date
     pages.sort(key=lambda p: p.date, reverse=True)
     # process first 10 items
-    for p in pages[0:10]:
+    for p in pages:
         xml += u'<item>\n'
         xml += u'\t<title>%s</title>\n' % escape(p.title)
         link = u"%s/%s" % (BASE_URL, p.url)

@@ -8,8 +8,8 @@
 <title>Тоже мне радио: news</title>
 <description>Страницы сайта Тоже мне радио с пометкой «news».</description>
 <link>http://www.tmradio.net/news.html</link>
-<pubDate>Tue, 15 Feb 2011 22:04:10 -0000</pubDate>
-<lastBuildDate>Tue, 15 Feb 2011 22:04:10 -0000</lastBuildDate>
+<pubDate>Wed, 16 Feb 2011 07:21:11 -0000</pubDate>
+<lastBuildDate>Wed, 16 Feb 2011 07:21:11 -0000</lastBuildDate>
 <item>
 	<title>Эфир ТСН от 10.02.2011</title>
 	<link>http://www.tmradio.net/sosonews-11.html</link>
@@ -341,6 +341,29 @@
 	<category>Путин</category>
 	<category>Сердюков</category>
 	<category>Торшин</category>
+</item>
+<item>
+	<title>Эфир ТСН от 02.12.2010</title>
+	<link>http://www.tmradio.net/sosonews-01.html</link>
+	<description>&lt;p&gt;Основные новости:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://transcripts.cnn.com/TRANSCRIPTS/0009/08/lkl.00.html"&gt;Интервью Путина Кингу&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://vz.ru/news/2010/12/1/451644.html"&gt;Испания поддержала отмену виз между Россией и ЕС&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://infox.ru/authority/mans/2010/12/01/Sobyanin_pyeryesyeli.phtml"&gt;Собянин планирует переселить московских пенсионеров в Ярославскую область&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.trud.ru/article/25-10-2010/252871_kak_lukashenko_sozdal_svoe_skolkovo.html"&gt;Как Лукашенко создавал своё Сколково&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+	<pubDate>Thu, 02 Dec 2010 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/sosonews-01.html</guid>
+	<enclosure url="http://files.tmradio.net/sosonews-01.mp3" type="audio/mpeg" length="56453333"/>
+	<category>news</category>
+	<category>podcast</category>
+	<category>Кинг</category>
+	<category>Лукашенко</category>
+	<category>Путин</category>
+	<category>Сколково</category>
+	<category>Собянин</category>
+	<category>визовый режим</category>
+	<category>пенсионеры</category>
 </item>
 </channel>
 </rss>
