@@ -1,4 +1,4 @@
-title: The Big C
+title: О сериале "The Big C"
 author: nikonor
 file: http://files.tmradio.net/audio/incoming/mcasts/nikonor-tbc.mp3
 filesize: 770466
