@@ -1,5 +1,5 @@
 title: Рецензия на сериал «Визитёры»
-author: umonkey
+author: Хекс
 file: http://files.umonkey.net/audio/mcast/movies/visitors.mp3
 filesize: 1285177
 date: 2011-02-06
