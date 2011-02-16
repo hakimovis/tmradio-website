@@ -40,4 +40,4 @@ RSS-лента с такими подкастами — [присылайте с
 другим каналам.  Эти выпуски хостятся на tmradio, для них есть [отдельная RSS
 лента](/mcast.xml).
 
-{{ pagelist(pages, limit=None, label='mcast', show_dates=False) }}
+{{ pagelist(pages, limit=None, label='mcast', show_dates=True) }}

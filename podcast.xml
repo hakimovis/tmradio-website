@@ -8,8 +8,8 @@
 <title>Тоже мне радио: podcast</title>
 <description>Страницы сайта Тоже мне радио с пометкой «podcast».</description>
 <link>http://www.tmradio.net/podcast.html</link>
-<pubDate>Wed, 16 Feb 2011 07:21:11 -0000</pubDate>
-<lastBuildDate>Wed, 16 Feb 2011 07:21:11 -0000</lastBuildDate>
+<pubDate>Wed, 16 Feb 2011 07:23:22 -0000</pubDate>
+<lastBuildDate>Wed, 16 Feb 2011 07:23:22 -0000</lastBuildDate>
 <item>
 	<title>Чёрный лебедь</title>
 	<link>http://www.tmradio.net/prokino/black-swan-dugwin.html</link>
@@ -17,19 +17,9 @@
 	<pubDate>Mon, 14 Feb 2011 21:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/prokino/black-swan-dugwin.html</guid>
 	<enclosure url="http://www.dugwin.net/files/prokino/prokino-03-black_swan.mp3" type="audio/mpeg" length="1024"/>
+	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
-</item>
-<item>
-	<title>О бедном гусаре замолвите слово</title>
-	<link>http://www.tmradio.net/mcast/20110211-obgzs.html</link>
-	<description>&lt;p&gt;Обзор фильма «О бедном гусаре замолвите слово» от слушателя &lt;a href="http://twitter.com/hakimovis"&gt;@hakimovis&lt;/a&gt;.&lt;/p&gt;</description>
-	<pubDate>Fri, 11 Feb 2011 00:54:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/mcast/20110211-obgzs.html</guid>
-	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/hakimovis-obgzs.mp3" type="audio/mpeg" length="1258221"/>
-	<category>mcast</category>
-	<category>movie-reviews</category>
-	<category>podcast</category>
 </item>
 <item>
 	<title>О бедном гусаре замолвите слово</title>
@@ -38,6 +28,7 @@
 	<pubDate>Thu, 10 Feb 2011 21:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/prokino/obgzs-hakimovis.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/hakimovis-obgzs.mp3" type="audio/mpeg" length="1258221"/>
+	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
 </item>
@@ -92,19 +83,9 @@
 	<pubDate>Wed, 09 Feb 2011 21:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/prokino/tbc-nikonor.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/nikonor-tbc.mp3" type="audio/mpeg" length="770466"/>
+	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
-</item>
-<item>
-	<title>The Big C</title>
-	<link>http://www.tmradio.net/mcast/20110209-tbc.html</link>
-	<description>&lt;p&gt;Обзор фильма «The Big C» от слушателя &lt;a href="http://twitter.com/nikonor"&gt;@nikonor&lt;/a&gt;.&lt;/p&gt;</description>
-	<pubDate>Wed, 09 Feb 2011 10:50:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/mcast/20110209-tbc.html</guid>
-	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/nikonor-tbc.mp3" type="audio/mpeg" length="770466"/>
-	<category>mcast</category>
-	<category>movie-reviews</category>
-	<category>podcast</category>
 </item>
 <item>
 	<title>Burlesque и This Is It</title>
@@ -113,6 +94,7 @@
 	<pubDate>Sun, 06 Feb 2011 21:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/prokino/burlesque-dugwin.html</guid>
 	<enclosure url="http://www.dugwin.net/files/prokino/prokino-02-this_is_it.mp3" type="audio/mpeg" length="1024"/>
+	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
 </item>
@@ -123,6 +105,7 @@
 	<pubDate>Sat, 05 Feb 2011 21:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/prokino/big-bang-theory-umonkey.html</guid>
 	<enclosure url="http://files.umonkey.net/audio/mcast/movies/big-bang-theory.mp3" type="audio/mpeg" length="2100616"/>
+	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
 </item>
@@ -133,6 +116,7 @@
 	<pubDate>Sat, 05 Feb 2011 21:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/prokino/visitors-umonkey.html</guid>
 	<enclosure url="http://files.umonkey.net/audio/mcast/movies/visitors.mp3" type="audio/mpeg" length="1285177"/>
+	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
 </item>
@@ -191,6 +175,7 @@
 	<pubDate>Sun, 30 Jan 2011 21:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</guid>
 	<enclosure url="http://www.dugwin.net/files/prokino/prokino-01-tron2.mp3" type="audio/mpeg" length="1024"/>
+	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
 </item>
