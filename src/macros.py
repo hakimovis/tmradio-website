@@ -197,6 +197,9 @@ def write_rss(pages, title, description, label=None):
             xml += u'\t<enclosure url="%s" type="%s" length="%s"/>\n' % (p.file, mime_type, p.get('filesize', 1))
         for l in get_post_labels(p):
             xml += u'\t<category>%s</category>\n' % l
+        author = p.get('author')
+        if author:
+            xml += u'\t<author>%s</author>\n' % author
         xml += u'</item>\n'
 
     xml += u'</channel>\n'

@@ -8,8 +8,8 @@
 <title>Тоже мне радио: podcast</title>
 <description>Страницы сайта Тоже мне радио с пометкой «podcast».</description>
 <link>http://www.tmradio.net/podcast.html</link>
-<pubDate>Wed, 16 Feb 2011 07:24:29 -0000</pubDate>
-<lastBuildDate>Wed, 16 Feb 2011 07:24:29 -0000</lastBuildDate>
+<pubDate>Wed, 16 Feb 2011 22:09:10 -0000</pubDate>
+<lastBuildDate>Wed, 16 Feb 2011 22:09:10 -0000</lastBuildDate>
 <item>
 	<title>Чёрный лебедь</title>
 	<link>http://www.tmradio.net/prokino/black-swan-dugwin.html</link>
@@ -20,6 +20,7 @@
 	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
+	<author>dugwin</author>
 </item>
 <item>
 	<title>О бедном гусаре замолвите слово</title>
@@ -31,6 +32,7 @@
 	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
+	<author>hakimovis</author>
 </item>
 <item>
 	<title>Эфир ТСН от 10.02.2011</title>
@@ -86,6 +88,7 @@
 	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
+	<author>nikonor</author>
 </item>
 <item>
 	<title>Burlesque и This Is It</title>
@@ -97,6 +100,7 @@
 	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
+	<author>dugwin</author>
 </item>
 <item>
 	<title>Теория большого взрыва</title>
@@ -108,6 +112,7 @@
 	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
+	<author>umonkey</author>
 </item>
 <item>
 	<title>Визитёры</title>
@@ -119,6 +124,7 @@
 	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
+	<author>umonkey</author>
 </item>
 <item>
 	<title>Эфир ТСН от 03.02.2011</title>
@@ -178,6 +184,7 @@
 	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
+	<author>dugwin</author>
 </item>
 <item>
 	<title>Эфир ТСН от 27.01.2011</title>
