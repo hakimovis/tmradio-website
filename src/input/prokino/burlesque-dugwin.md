@@ -1,4 +1,4 @@
-title: Burlesque и This Is It
+title: Burlesque и This Is It, два в одном
 author: dugwin j. goines
 file: http://www.dugwin.net/files/prokino/prokino-02-this_is_it.mp3
 filesize: 1024
