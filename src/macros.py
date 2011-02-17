@@ -176,7 +176,7 @@ def write_rss(pages, title, description, label=None):
     xml += u'<lastBuildDate>%s</lastBuildDate>\n' % date
 
     # leave only blog posts
-    pages = [p for p in pages if p.has_key('title') and p.has_key('date') and '://' not in p.url]
+    pages = [p for p in pages if p.has_key('title') and p.has_key('date') and '://' not in p.url and 'draft' not in get_post_labels(p)]
     # filter by label
     if label is not None:
         pages = [p for p in pages if label in get_post_labels(p)]
