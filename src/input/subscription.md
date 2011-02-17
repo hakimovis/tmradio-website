@@ -37,15 +37,10 @@ Reader](http://www.google.com/help/reader/tour.html)).  Многие совре
 
 ## <a href="/subscription.html#mail" name="mail">Почтовая рассылка</a>
 
-Подкасты удобнее всего слушать в дороге, когда компьютера под рукой нет.  При
-этом теряется возможность пролистать шоу-ноты (ссылки, заботливо собранные
-авторами программы).  Для решения этой проблемы у нас есть [почтовая
-рассылка](http://groups.google.com/group/sosonews/), куда приходят шоу-ноты для
-каждого выпуска.
+Если вы слушаете подкасты в дороге и забываете пролистать приложенные к ним
+ссылки («шоу-ноты»), вы можете получать их по электронной почте (вместе со
+ссылками на MP3-файлы).
 
-Чтобы подписаться, отправьте любое сообщение на адрес:
-
-- sosonews+subscribe@googlegroups.com
-
-Если у вас есть учётная запись Gmail, можно воспользоваться [специальной
-страницей](http://groups.google.com/group/sosonews/subscribe),
+<form action="http://groups.google.com/group/sosonews/boxsubscribe">
+<input type="text" name="email" placeholder="Ваш email"/> <input type="submit" value="Подписаться"/>
+</form>
