@@ -18,6 +18,7 @@ labels: news, podcast, Мубарак, полиция, ГНК, лекарств�
 <li><a href="http://echo.msk.ru/programs/beseda/750466-echo/">Эфир собянина на Эхе:</a></li>
 <li><a href="http://txt.newsru.com/russia/17feb2011/inteko.html">Батурина, 13 миллиардов рублей</a></li>
 <li><a href="http://www.kp.ru/daily/25637/801786/">Запрет курения анонсирован</a></li>
+<li><a href="http://www.businessinsider.com/chart-of-the-day-music-industry-sales-2011-2">CHART OF THE DAY: The Death Of The Music Industry</a></li>
 </ul>
 
 ![статистика](http://files.tmradio.net/sosonews-12.png)
