@@ -39,6 +39,13 @@ title: Интересные ссылки
 
 - **[Soma FM][sfm]**.  Группа интернет-радиостанций.
 
+
+## Сайты со свободной музыкой
+
+- [jamendo.com](http://www.jamendo.com/)
+- [freemus.net](http://freemus.net/)
+- [freemusic-project.ru](http://www.freemusic-project.ru/)
+
 [nas]: http://www.noagendashow.com/
 [nal]: http://noagendastream.com/
 [ftl]: http://www.freetalklive.com/
