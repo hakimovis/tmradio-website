@@ -7,6 +7,10 @@ body {
   padding: 10px;
 }
 
+img {
+  border: none;
+}
+
 a {
   color: #000088;
   text-decoration: underline;
