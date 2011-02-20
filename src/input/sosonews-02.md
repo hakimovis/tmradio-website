@@ -2,7 +2,7 @@ title: Эфир ТСН от 09.12.2010
 date: 2010-12-09 21:00
 file: http://files.tmradio.net/sosonews-02.mp3
 filesize: 58422620
-labels: news, podcast, Торшин, Манежная площадь, Путин, Делягин, PayPal, WikiLeaks, Сердюков, ОБСЕ, ГЛОНАСС
+labels: umonkey, dugwin, news, podcast, Торшин, Манежная площадь, Путин, Делягин, PayPal, WikiLeaks, Сердюков, ОБСЕ, ГЛОНАСС
 ---
 <ul>
 <li><a href="http://www.kp.ru/daily/24602.5/773909/">ТОРШИН: «Россиянам разрешат иметь боевое оружие через 5-7 лет»</a></li>

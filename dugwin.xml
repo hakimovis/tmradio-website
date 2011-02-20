@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<atom:link href="http://www.tmradio.net/news.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="http://www.tmradio.net/dugwin.xml" rel="self" type="application/rss+xml"/>
 <language>ru-RU</language>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>Poole</generator>
-<title>Тоже мне радио: news</title>
-<description>Страницы сайта Тоже мне радио с пометкой «news».</description>
-<link>http://www.tmradio.net/news.html</link>
+<title>Тоже мне радио: dugwin</title>
+<description>Страницы сайта Тоже мне радио с пометкой «dugwin».</description>
+<link>http://www.tmradio.net/dugwin.html</link>
 <pubDate>Sun, 20 Feb 2011 19:00:56 -0000</pubDate>
 <lastBuildDate>Sun, 20 Feb 2011 19:00:56 -0000</lastBuildDate>
 <item>
@@ -48,6 +48,19 @@
 	<category>полиция</category>
 	<category>такси</category>
 	<category>эвакуация</category>
+</item>
+<item>
+	<title>Чёрный лебедь (2010)</title>
+	<link>http://www.tmradio.net/prokino/black-swan-dugwin.html</link>
+	<description>&lt;p&gt;Коротко — барахло, но Винсент хорош.&lt;/p&gt;</description>
+	<pubDate>Mon, 14 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/black-swan-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-03-black_swan.mp3" type="audio/mpeg" length="1024"/>
+	<category>dugwin</category>
+	<category>mcast</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<author>dugwin j. goines</author>
 </item>
 <item>
 	<title>Эфир ТСН от 10.02.2011</title>
@@ -94,6 +107,19 @@
 	<category>время</category>
 	<category>образование</category>
 	<category>телевидение</category>
+</item>
+<item>
+	<title>Burlesque и This Is It, два в одном</title>
+	<link>http://www.tmradio.net/prokino/burlesque-dugwin.html</link>
+	<description>&lt;p&gt;Коротко: вместо «Burlesque» лучше пересмотреть «This Is It» с Джексоном.&lt;/p&gt;</description>
+	<pubDate>Sun, 06 Feb 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/burlesque-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-02-this_is_it.mp3" type="audio/mpeg" length="1024"/>
+	<category>dugwin</category>
+	<category>mcast</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<author>dugwin j. goines</author>
 </item>
 <item>
 	<title>Эфир ТСН от 03.02.2011</title>
@@ -144,6 +170,19 @@
 	<category>коррупция</category>
 	<category>протест</category>
 	<category>эвакуация</category>
+</item>
+<item>
+	<title>Tron: legacy</title>
+	<link>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</link>
+	<description>&lt;p&gt;Рецензия на фильм «Tron: Legacy».&lt;/p&gt;</description>
+	<pubDate>Sun, 30 Jan 2011 21:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</guid>
+	<enclosure url="http://www.dugwin.net/files/prokino/prokino-01-tron2.mp3" type="audio/mpeg" length="1024"/>
+	<category>dugwin</category>
+	<category>mcast</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<author>dugwin j. goines</author>
 </item>
 <item>
 	<title>Эфир ТСН от 27.01.2011</title>

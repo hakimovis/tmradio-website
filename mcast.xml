@@ -8,8 +8,8 @@
 <title>Тоже мне радио: mcast</title>
 <description>Страницы сайта Тоже мне радио с пометкой «mcast».</description>
 <link>http://www.tmradio.net/mcast.html</link>
-<pubDate>Sun, 20 Feb 2011 13:00:21 -0000</pubDate>
-<lastBuildDate>Sun, 20 Feb 2011 13:00:21 -0000</lastBuildDate>
+<pubDate>Sun, 20 Feb 2011 19:00:56 -0000</pubDate>
+<lastBuildDate>Sun, 20 Feb 2011 19:00:56 -0000</lastBuildDate>
 <item>
 	<title>Чёрный лебедь (2010)</title>
 	<link>http://www.tmradio.net/prokino/black-swan-dugwin.html</link>
@@ -17,6 +17,7 @@
 	<pubDate>Mon, 14 Feb 2011 21:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/prokino/black-swan-dugwin.html</guid>
 	<enclosure url="http://www.dugwin.net/files/prokino/prokino-03-black_swan.mp3" type="audio/mpeg" length="1024"/>
+	<category>dugwin</category>
 	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
@@ -55,6 +56,7 @@
 	<pubDate>Sun, 06 Feb 2011 21:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/prokino/burlesque-dugwin.html</guid>
 	<enclosure url="http://www.dugwin.net/files/prokino/prokino-02-this_is_it.mp3" type="audio/mpeg" length="1024"/>
+	<category>dugwin</category>
 	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
@@ -70,6 +72,7 @@
 	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
+	<category>umonkey</category>
 	<author>Хекс</author>
 </item>
 <item>
@@ -82,6 +85,7 @@
 	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>
+	<category>umonkey</category>
 	<author>Хекс</author>
 </item>
 <item>
@@ -91,6 +95,7 @@
 	<pubDate>Sun, 30 Jan 2011 21:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</guid>
 	<enclosure url="http://www.dugwin.net/files/prokino/prokino-01-tron2.mp3" type="audio/mpeg" length="1024"/>
+	<category>dugwin</category>
 	<category>mcast</category>
 	<category>podcast</category>
 	<category>prokino</category>

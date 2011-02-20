@@ -2,7 +2,7 @@ title: Эфир ТСН от 23.12.2010
 date: 2010-12-23 21:00
 file: http://files.tmradio.net/sosonews-04.mp3
 filesize: 28092452
-labels: news, podcast, Манежная площадь, травматическое оружие, Медведев, протесты, ЦРУ, WikiLeaks
+labels: umonkey, dugwin, news, podcast, Манежная площадь, травматическое оружие, Медведев, протесты, ЦРУ, WikiLeaks
 ---
 Основные новости:
 
