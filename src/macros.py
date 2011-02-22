@@ -5,6 +5,7 @@ import clevercss
 import datetime
 import email.utils
 import glob
+import json
 import mimetypes
 import os.path
 import time
@@ -208,6 +209,29 @@ def write_rss(pages, title, description, label=None):
     print "info   : writing %s" % filename
     fp = open(os.path.join(output, filename), 'w')
     fp.write(xml.encode('utf-8'))
+    fp.close()
+
+    write_json(filename[:-4] + '.json', pages)
+
+def write_json(filename, pages):
+    items = []
+    for p in pages:
+        item = {
+            'title': p.get('title'),
+            'link': BASE_URL + '/' + p.get('url'),
+            'date': email.utils.formatdate(parse_date_time(p.get('date'))),
+        }
+        if p.has_key('author'):
+            item['author'] = p.get('author')
+        if p.has_key('file'):
+            item['file'] = p.get('file')
+            item['filesize'] = p.get('filesize')
+            item['filetype'] = mimetypes.guess_type(urlparse.urlparse(p.get('file')).path)[0]
+        items.append(item)
+
+    print "info   : writing %s" % filename
+    fp = open(os.path.join(output, filename), 'w')
+    fp.write(json.dumps(items))
     fp.close()
 
 def hook_postconvert_rss():
