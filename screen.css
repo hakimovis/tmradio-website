@@ -171,6 +171,10 @@ table.sched td {
   text-align: center;
 }
 
+table#rsst {
+  width: auto;
+}
+
 form div {
   margin-bottom: 1em;
 }

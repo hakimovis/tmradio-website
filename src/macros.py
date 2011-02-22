@@ -241,12 +241,20 @@ def hook_postconvert_rss():
 
 def get_rss_table():
     labels = get_label_stats(pages).keys()
-    pages_ = sorted([page for page in pages if os.path.splitext(page.url)[0] in labels], key=lambda p: p.get('title'))
+    pages_ = sorted([page for page in pages if os.path.splitext(page.url)[0] in labels or page.get('rsstitle')], key=lambda p: p.get('rsstitle', p.get('title')))
 
-    html = u'<table><tbody>'
+    html = u'<table id="rsst"><tbody>'
     for page in pages_:
         page['name'] = os.path.splitext(page.url)[0]
-        html += u'<tr><td><a href="%(url)s">%(title)s</a></td><td><a href="%(name)s.xml">RSS</a></td><td><a href="%(name)s.json">JSON</a></td></tr>' % page
+        page['rsstitle'] = page.get('rsstitle', page.get('title'))
+        if not page['rsstitle']:
+            continue
+        page['rsslink'] = page.get('rsslink', page.get('name') + '.xml')
+        page['jsonlink'] = page.get('jsonlink', page.get('name') + '.json')
+        html += u'<tr><td><a href="%(url)s">%(rsstitle)s</a></td><td><a href="%(rsslink)s">RSS</a></td>' % page
+        if page['jsonlink']:
+            html += u'<td><a href="%(jsonlink)s">JSON</a>' % page
+        html += u'</td></tr>'
     html += u'</tbody></table>\n'
 
     return html

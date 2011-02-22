@@ -141,6 +141,9 @@ table:
     td:
       text-align: center;
 
+  &#rsst:
+    width: auto;
+
 form:
   div:
     margin-bottom: 1em;

@@ -1,4 +1,7 @@
 title: Прямой эфир
+rsstitle: Все прямые эфиры
+rsslink: http://files.tmradio.net/live-dump/live.xml
+jsonlink:
 mpos: 3
 ---
 <div style="float:right" class="right" id="player">

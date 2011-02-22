@@ -21,18 +21,10 @@ mclass: group icon icon-rss
 
 ## <a href="/subscription.html#rss" name="rss">RSS-ленты и подкасты</a>
 
-- [Так себе новости](/news.xml)
-- [Все прямые эфиры](http://files.tmradio.net/live-dump/live.xml) (включая пре-
-  и после-шоу)
-- [Голосовая почта](http://files.tmradio.net/voicemail/rss.xml)
-- [Блог радиостанции](/blog.xml)
+Если вы не знакомы с технологией RSS — [познакомьтесь](http://orss.ru/),
+сэкономите кучу времени.
 
-Для подписки можно использовать специальные программы
-([gPodder](http://www.gpodder.org/) для Linux,
-[iTunes](http://www.apple.com/itunes/) для Windows и Mac OS X), и сайты
-([Яндекс.Лента](http://lenta.yandex.ru/help.xml), [Google
-Reader](http://www.google.com/help/reader/tour.html)).  Многие современные
-мобильные устройства умеют загружать подкасты «без посредников».
+{{ get_rss_table() }}
 
 
 ## <a href="/subscription.html#mail" name="mail">Почтовая рассылка</a>

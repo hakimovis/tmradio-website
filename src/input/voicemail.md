@@ -1,4 +1,7 @@
 title: Голосовая почта
+rsstitle: Все входящие сообщения
+rsslink: http://files.tmradio.net/voicemail/rss.xml
+jsonlink:
 mpos: 91
 ---
 
