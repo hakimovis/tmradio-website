@@ -238,3 +238,15 @@ def hook_postconvert_rss():
     write_rss(pages, u'Тоже мне радио', u'Обновления сайта.')
     for label in get_label_stats(pages).keys():
         write_rss(pages, u'Тоже мне радио: ' + label, u'Страницы сайта Тоже мне радио с пометкой «%s».' % label, label)
+
+def get_rss_table():
+    labels = get_label_stats(pages).keys()
+    pages_ = sorted([page for page in pages if os.path.splitext(page.url)[0] in labels], key=lambda p: p.get('title'))
+
+    html = u'<table><tbody>'
+    for page in pages_:
+        page['name'] = os.path.splitext(page.url)[0]
+        html += u'<tr><td><a href="%(url)s">%(title)s</a></td><td><a href="%(name)s.xml">RSS</a></td><td><a href="%(name)s.json">JSON</a></td></tr>' % page
+    html += u'</tbody></table>\n'
+
+    return html
