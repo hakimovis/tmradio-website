@@ -8,8 +8,34 @@
 <title>Тоже мне радио: blog</title>
 <description>Страницы сайта Тоже мне радио с пометкой «blog».</description>
 <link>http://www.tmradio.net/blog.html</link>
-<pubDate>Wed, 23 Feb 2011 20:24:21 -0000</pubDate>
-<lastBuildDate>Wed, 23 Feb 2011 20:24:21 -0000</lastBuildDate>
+<pubDate>Wed, 23 Feb 2011 21:21:50 -0000</pubDate>
+<lastBuildDate>Wed, 23 Feb 2011 21:21:50 -0000</lastBuildDate>
+<item>
+	<title>Статистика используемых клиентов</title>
+	<link>http://www.tmradio.net/blog/20110224-agents.html</link>
+	<description>&lt;p&gt;Текущая статистика по клиентам:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;iTunes: 23.97%&lt;/li&gt;
+&lt;li&gt;NSPlayer: 16.95%&lt;/li&gt;
+&lt;li&gt;RadioThing: 15.98%&lt;/li&gt;
+&lt;li&gt;tmradio-client: 12.59%&lt;/li&gt;
+&lt;li&gt;Mozilla: 9.69%&lt;/li&gt;
+&lt;li&gt;Opera: 5.57%&lt;/li&gt;
+&lt;li&gt;GStreamer: 4.36%&lt;/li&gt;
+&lt;li&gt;AIMP: 2.66%&lt;/li&gt;
+&lt;li&gt;vlc: 2.42%&lt;/li&gt;
+&lt;li&gt;foobar2000: 2.18%&lt;/li&gt;
+&lt;li&gt;ices: 1.21%&lt;/li&gt;
+&lt;li&gt;Audacious: 1.21%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Клиенты, набравшие меньше процента, не выведены.  Статистика собирается недавно,
+поэтому не очень показательна.  Планирую публиковать раз в месяц.&lt;/p&gt;</description>
+	<pubDate>Wed, 23 Feb 2011 21:16:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/blog/20110224-agents.html</guid>
+	<category>blog</category>
+	<category>tech</category>
+	<author>umonkey</author>
+</item>
 <item>
 	<title>Вышел tmradio-client v0.11 для Linux</title>
 	<link>http://www.tmradio.net/blog/20110201-client.html</link>
