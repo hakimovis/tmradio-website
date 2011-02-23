@@ -11,5 +11,7 @@ SMS-рассылка, через которую мы предупреждаем 
 <input type="text" name="text" placeholder="Номер телефона"/> <input type="submit" value="Подписаться"/>
 </form>
 
+<a href="http://sms.ru/" title="СМС Рассылки"><img src="http://sms.ru/i/88x31-white.png" alt="СМС Рассылки"></a>
+
 [live]: /live.html
 [twitter]: http://twitter.com/#search?q=%23tmradio
