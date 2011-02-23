@@ -8,12 +8,12 @@
 <title>Тоже мне радио: blog</title>
 <description>Страницы сайта Тоже мне радио с пометкой «blog».</description>
 <link>http://www.tmradio.net/blog.html</link>
-<pubDate>Wed, 23 Feb 2011 21:21:50 -0000</pubDate>
-<lastBuildDate>Wed, 23 Feb 2011 21:21:50 -0000</lastBuildDate>
+<pubDate>Wed, 23 Feb 2011 21:23:25 -0000</pubDate>
+<lastBuildDate>Wed, 23 Feb 2011 21:23:25 -0000</lastBuildDate>
 <item>
 	<title>Статистика используемых клиентов</title>
 	<link>http://www.tmradio.net/blog/20110224-agents.html</link>
-	<description>&lt;p&gt;Текущая статистика по клиентам:&lt;/p&gt;
+	<description>&lt;p&gt;Текущая статистика по клиентам, по количеству сессий:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;iTunes: 23.97%&lt;/li&gt;
 &lt;li&gt;NSPlayer: 16.95%&lt;/li&gt;
@@ -28,8 +28,8 @@
 &lt;li&gt;ices: 1.21%&lt;/li&gt;
 &lt;li&gt;Audacious: 1.21%&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Клиенты, набравшие меньше процента, не выведены.  Статистика собирается недавно,
-поэтому не очень показательна.  Планирую публиковать раз в месяц.&lt;/p&gt;</description>
+&lt;p&gt;Клиенты, набравшие меньше процента, не выведены.  Статистика собирается недавно,
+поэтому не очень показательна.  Планирую публиковать раз в месяц.&lt;/p&gt;</description>
 	<pubDate>Wed, 23 Feb 2011 21:16:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/blog/20110224-agents.html</guid>
 	<category>blog</category>
