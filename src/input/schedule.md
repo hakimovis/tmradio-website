@@ -39,6 +39,10 @@ mpos: 2
     </tr>
     <tr>
       <th>12:00</th>
+      <td colspan="7"><a href="/mcast.htmgl">Микроподкасты</a></td>
+    </tr>
+    <tr>
+      <th>13:00</th>
       <td colspan="7">Хорошая музыка (одобрено слушателями)</td>
     </tr>
     <tr>
