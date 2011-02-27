@@ -48,6 +48,10 @@ def get_label_stats(posts):
     return labels
 
 
+def init_comments(page):
+    if DISQUS_ID is not None:
+        return u'<script type="text/javascript">var disqus_url = "'+ BASE_URL + '/' + page.get('url') +'";</script>'
+
 def parse_date_time(text):
     """Преобразует дату-время из текста в структуру.
 
@@ -99,7 +103,7 @@ def pagelist(pages, limit=5, label=None, show_dates=True):
             date = datetime.datetime.strptime(date[:16], '%Y-%m-%d %H:%M').strftime('%d.%m.%Y')
             output += u' <span class="date">%s</span>' % date
         if DISQUS_ID is not None:
-            output += u' <a class="dcc" href="%s#disqus_thread">комментировать</a>' % page.get('url')
+            output += u' <a class="dcc" href="%s#disqus_thread">комментировать</a>' % (page.get('url'))
         output += u'</li>'
 
     if output:
