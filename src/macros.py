@@ -128,7 +128,7 @@ def pagelist(pages, limit=5, label=None, show_dates=True):
             date = datetime.datetime.strptime(date[:16], '%Y-%m-%d %H:%M').strftime('%d.%m.%Y')
             output += u' <span class="date">%s</span>' % date
         if DISQUS_ID is not None:
-            output += u' <a class="dcc" href="%s#disqus_thread">комментировать</a>' % (page.get('url'))
+            output += u' <a class="dcc" href="%s#disqus_thread" data-disqus-identifier="%s">комментировать</a>' % (page.get('url'), get_disqus_page_id(page))
         output += u'</li>'
 
     if output:
@@ -138,6 +138,9 @@ def pagelist(pages, limit=5, label=None, show_dates=True):
         return output
 
     return u'Ничего нет.'
+
+def get_disqus_page_id(page):
+    return page.get('disqus_id', page.get('url'))
 
 
 def add_comments(page):

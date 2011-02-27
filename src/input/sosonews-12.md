@@ -3,6 +3,7 @@ date: 2011-02-17 21:00
 file: http://files.tmradio.net/sosonews-12.mp3
 filesize: 54657867
 labels: umonkey, dugwin, news, podcast, Мубарак, полиция, ГНК, лекарства, эвакуация, такси, Латынина, Батурина, Собянин, курение, запрет
+disqus_id: http://www.tmradio.net/sosonews-12.html
 ---
 Основные темы:
 

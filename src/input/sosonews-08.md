@@ -3,6 +3,7 @@ date: 2011-01-20 21:00
 file: http://files.tmradio.net/sosonews-08.mp3
 filesize: 42230837
 labels: umonkey, dugwin, news, podcast, в контакте, тунис, революция, Венедиктов, Авдеев, пиратство, Сурков, Сечин, Лужков
+disqus_id: http://www.tmradio.net/sosonews-08.html
 ---
 Основные новости:
 
