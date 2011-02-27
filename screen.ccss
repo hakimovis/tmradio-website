@@ -115,6 +115,13 @@ h2:
   h2:
     font-weight: normal;
 
+  .meta:
+    color: gray;
+    font-size: 8pt;
+
+    a:
+      color: inherit;
+
 #footer:
   margin: 5em 0 0 0;
   border-top: solid 1px #ccc;

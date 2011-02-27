@@ -14,6 +14,7 @@ import urlparse
 
 BASE_URL = 'http://www.tmradio.net'
 DISQUS_ID = 'tmradio'
+LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты' }
 
 
 def get_post_labels(post):
@@ -31,6 +32,11 @@ def get_post_labels(post):
 def get_label_url(label):
     return '/' + label.strip().replace(' ', '_') + '.html'
 
+def get_label_link(label):
+    text = label
+    if LABEL_NAMES.has_key(label):
+        text = LABEL_NAMES[label]
+    return u'<a href="%s">%s</a>' % (get_label_url(label), text)
 
 def get_label_stats(posts):
     labels = {}
@@ -79,6 +85,25 @@ def print_menu(pages, page):
     output += u'</ul>'
     return output
 
+
+def page_meta(page):
+    """Prints page metadata (creation date, labels etc.)"""
+    parts = []
+
+    if page.get('date'):
+        parts.append(time.strftime('%d.%m.%y', time.localtime(parse_date_time(page.get('date')))))
+
+    if page.get('labels'):
+        stats = get_label_stats(pages)
+        labels = []
+        for label in get_post_labels(page):
+            if stats.has_key(label):
+                labels.append(get_label_link(label))
+        parts.append(u'метки: ' + u', '.join(labels))
+
+    if not parts:
+        return u''
+    return u'<p class="meta">%s</p>' % u'; '.join(parts)
 
 def pagelist(pages, limit=5, label=None, show_dates=True):
     output = u''
