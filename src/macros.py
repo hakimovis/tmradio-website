@@ -13,6 +13,7 @@ import urllib
 import urlparse
 
 BASE_URL = 'http://www.tmradio.net'
+DISQUS_ID = 'tmradio'
 
 
 def get_post_labels(post):
@@ -97,9 +98,16 @@ def pagelist(pages, limit=5, label=None, show_dates=True):
             date = page.date + ' 00:00'
             date = datetime.datetime.strptime(date[:16], '%Y-%m-%d %H:%M').strftime('%d.%m.%Y')
             output += u' <span class="date">%s</span>' % date
+        if DISQUS_ID is not None:
+            output += u' <a class="dcc" href="%s#disqus_thread">комментировать</a>' % page.get('url')
         output += u'</li>'
+
     if output:
-        return u'<ul class="pagelist">' + output + u'</ul>\n'
+        output = u'<ul class="pagelist">' + output + u'</ul>\n'
+        if DISQUS_ID is not None:
+            output += u'<script type="text/javascript">var disqus_shortname = "'+ DISQUS_ID +'"; (function () { var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = "http://" + disqus_shortname + ".disqus.com/count.js"; (document.getElementsByTagName("HEAD")[0] || document.getElementsByTagName("BODY")[0]).appendChild(s); }());</script>'
+        return output
+
     return u'Ничего нет.'
 
 
