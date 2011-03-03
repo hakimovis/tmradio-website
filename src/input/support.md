@@ -20,12 +20,7 @@ title: Чем и как поддержать «Тоже мне радио»
 - [Яндекс.Деньги](http://money.yandex.ru/): 41001880298903
 - [BitCoin](http://www.bitcoin.org/ru): 115tGQgTwh7wo3qhrb45wUxkLk27vTDufn
 
-*Кроме денег* мы с радостью примем в дар следующее:
-
-- Виртуальный UNIX-сервер (с доступом по SSH) где-нибудь на западе, на котором
-  можно было бы по расписанию выполнять задачи, требующие процессорного времени
-  и немного трафика (скачивание подкастов, подсчёт ReplayGain, транскодирование
-  звука итп).
+<form style="margin: 0; padding: 0;" action="https://money.yandex.ru/charity.xml" method="post"><input type="hidden" name="to" value="41001880298903"/><input type="hidden" name="CompanyName" value="tmradio.net"/><input type="hidden" name="CompanyLink" value="http://www.tmradio.net/"/><table border="0" cellspacing="0" cellpadding="0"><tr><td><div style="background: url(http://img.yandex.net/i/li-uncolorer-rt.gif) no-repeat right top #FFFFFF;"><div style="background: url(http://img.yandex.net/i/li-uncolorer-rb.gif) no-repeat right bottom;"><div style="background: url(http://img.yandex.net/i/li-uncolorer-lb.gif) no-repeat left bottom;"><div style="background: url(http://img.yandex.net/i/li-uncolorer-lt.gif) no-repeat left top; margin-right: 10px; padding: 10px 0 0 10px;"><table border="0" cellspacing="0" cellpadding="0"><tr><td><table border="0" cellspacing="0" cellpadding="0"><tr><td><input type="submit" value="Отправить" style="margin-right: 5px;"/></td><td><input type="text" id="CompanySum" name="CompanySum" value="100" size="4" style="margin-right: 5px;"/></td><td nowrap="nowrap" style="font: 70% Verdana, Arial, Geneva CY, Sans-Serif;" valign="bottom"><strong>рублей Яндекс.Деньгами</strong></td></tr></table></td><td width="90" rowspan="3" valign="bottom"><a href="http://money.yandex.ru/"><img src="http://img.yandex.net/i/ym-logo.gif" width="90" height="39" border="0" style="margin-left: 5px;"/></a></td></tr><tr><td nowrap="nowrap" style="font: 70% Verdana, Arial, Geneva CY, Sans-Serif;">на счет <span style="color: #006600; font-weight: bold;">41001880298903</span>&nbsp;(<a href="http://www.tmradio.net/"><span style="color: #666666; text-decoration: underline;">tmradio.net</span></a>)</td></tr><tr><td><img src="http://img.yandex.net/i/x.gif" width="1" height="10" /></td></tr></table></div></div></div></div></td></tr></table></form>
 
 
 ## Необходимое оборудование
