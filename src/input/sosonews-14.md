@@ -1,8 +1,8 @@
 title: Эфир ТСН от 03.03.2011
 date: 2011-03-03 21:00
-file: http://files.tmradio.net/audio/sosonews/14.mp3
-filesize: 1024
-labels: draft, umonkey, dugwin, steeker, news, podcast, Нургалиев, Онищенко, ЕдРо, Генштаб, казаки, НАТО, Ливия, США, РЖД, ГУВД, Колокольцев, Собянин, терроризм
+file: http://files.tmradio.net/audio/sosonews/sosonews-14.mp3
+filesize: 91030839
+labels: umonkey, dugwin, steeker, news, podcast, Нургалиев, Онищенко, ЕдРо, Генштаб, казаки, НАТО, Ливия, США, РЖД, ГУВД, Колокольцев, Собянин, терроризм
 ---
 Основные темы:
 
@@ -24,4 +24,4 @@ labels: draft, umonkey, dugwin, steeker, news, podcast, Нургалиев, Он
 <li><a href="http://ru.wikinews.org/wiki/За_публичное_оправдание_терроризма_—_15_лет">За публичное оправдание терроризма — 15 лет</a></li>
 </ul>
 
-![статистика](http://files.tmradio.net/audio/sosonews/14.png)
+![статистика](http://files.tmradio.net/audio/sosonews/sosonews-14.png)
