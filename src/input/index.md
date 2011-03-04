@@ -19,7 +19,7 @@ mpos: 1
 
 ## Статистика слушателей за неделю
 
-<a target="_blank" href="http://stream.tmradio.net/"><img src="http://stream.tmradio.net/listeners-week.png" alt="график"/></a>
+<a target="_blank" href="http://stream.tmradio.net/"><img src="http://stream.tmradio.net/listeners-site.png" alt="график"/></a>
 
 График обновляется раз в час.
 
