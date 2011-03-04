@@ -158,7 +158,7 @@ table.skel:
 
 iframe.flattr:
   float: left;
-  margin-right: 1em;
+  margin-right: 2em;
 
 form:
   div:
