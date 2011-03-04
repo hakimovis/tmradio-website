@@ -171,23 +171,28 @@ h2 a:hover {
   padding: 2em 0;
 }
 
-table {
+table.skel {
   border-collapse: collapse;
   width: 100%;
 }
 
-table td,
-table th {
+table.skel td,
+table.skel th {
   border: solid 1px #cccccc;
   padding: 2px 6px;
 }
 
-table.sched td {
+table.skel.sched td {
   text-align: center;
 }
 
-table#rsst {
+table.skel#rsst {
   width: auto;
+}
+
+iframe.flattr {
+  float: left;
+  margin-right: 1em;
 }
 
 form div {

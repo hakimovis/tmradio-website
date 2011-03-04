@@ -289,7 +289,7 @@ def get_rss_table():
     labels = get_label_stats(pages).keys()
     pages_ = sorted([page for page in pages if os.path.splitext(page.url)[0] in labels or page.get('rsstitle')], key=lambda p: p.get('rsstitle', p.get('title')))
 
-    html = u'<table id="rsst"><tbody>'
+    html = u'<table class="skel" id="rsst"><tbody>'
     for page in pages_:
         page['name'] = os.path.splitext(page.url)[0]
         page['rsstitle'] = page.get('rsstitle', page.get('title'))
@@ -304,3 +304,7 @@ def get_rss_table():
     html += u'</tbody></table>\n'
 
     return html
+
+
+def init_flattr(page):
+    return "<script type='text/javascript'>/* <![CDATA[ */ (function() { var s = document.createElement('script'), t = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto'; t.parentNode.insertBefore(s, t); })(); /* ]]> */ </script>"

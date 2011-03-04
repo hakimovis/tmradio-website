@@ -5,7 +5,7 @@ mpos: 2
 разбавляются [новостями «Эха Москвы»](http://echo.msk.ru/news/), [голосовой
 почтой](/voicemail.html), джинглами, цитатами итп.
 
-<table class="sched">
+<table class="sched skel">
   <thead>
     <tr>
       <th/>

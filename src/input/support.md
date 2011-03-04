@@ -14,21 +14,23 @@ title: Чем и как поддержать «Тоже мне радио»
 
 ## <a class="local" href="support.html#donate" name="donate">Пожертвования</a>
 
-Нас можно *поддержать финансово*.  Присылайте любую сумму, которую сочтёте
-нужной, одним из следующих способов:
+Есть несколько способов поддержать нас финансово:
 
-- [Яндекс.Деньги](http://money.yandex.ru/): 41001880298903
-- [BitCoin](http://www.bitcoin.org/ru): 115tGQgTwh7wo3qhrb45wUxkLk27vTDufn
+<iframe class="flattr" src="http://api.flattr.com/button/view/?url=http%3A%2F%2Fwww.tmradio.net%2F" class="FlattrButton" width="55" height="62" frameborder="0" scrolling="no" border="0" marginheight="0" marginwidth="0" allowtransparency="true"></iframe>
 
-<form style="margin: 0; padding: 0;" action="https://money.yandex.ru/charity.xml" method="post"><input type="hidden" name="to" value="41001880298903"/><input type="hidden" name="CompanyName" value="tmradio.net"/><input type="hidden" name="CompanyLink" value="http://www.tmradio.net/"/><table border="0" cellspacing="0" cellpadding="0"><tr><td><div style="background: url(http://img.yandex.net/i/li-uncolorer-rt.gif) no-repeat right top #FFFFFF;"><div style="background: url(http://img.yandex.net/i/li-uncolorer-rb.gif) no-repeat right bottom;"><div style="background: url(http://img.yandex.net/i/li-uncolorer-lb.gif) no-repeat left bottom;"><div style="background: url(http://img.yandex.net/i/li-uncolorer-lt.gif) no-repeat left top; margin-right: 10px; padding: 10px 0 0 10px;"><table border="0" cellspacing="0" cellpadding="0"><tr><td><table border="0" cellspacing="0" cellpadding="0"><tr><td><input type="submit" value="Отправить" style="margin-right: 5px;"/></td><td><input type="text" id="CompanySum" name="CompanySum" value="100" size="4" style="margin-right: 5px;"/></td><td nowrap="nowrap" style="font: 70% Verdana, Arial, Geneva CY, Sans-Serif;" valign="bottom"><strong>рублей Яндекс.Деньгами</strong></td></tr></table></td><td width="90" rowspan="3" valign="bottom"><a href="http://money.yandex.ru/"><img src="http://img.yandex.net/i/ym-logo.gif" width="90" height="39" border="0" style="margin-left: 5px;"/></a></td></tr><tr><td nowrap="nowrap" style="font: 70% Verdana, Arial, Geneva CY, Sans-Serif;">на счет <span style="color: #006600; font-weight: bold;">41001880298903</span>&nbsp;(<a href="http://www.tmradio.net/"><span style="color: #666666; text-decoration: underline;">tmradio.net</span></a>)</td></tr><tr><td><img src="http://img.yandex.net/i/x.gif" width="1" height="10" /></td></tr></table></div></div></div></div></td></tr></table></form>
+<form style="margin: 0; padding: 0;" action="https://money.yandex.ru/charity.xml" method="post"><input type="hidden" name="to" value="41001880298903"/><input type="hidden" name="CompanyName" value="tmradio.net"/><input type="hidden" name="CompanyLink" value="http://www.tmradio.net/"/><table border="0" cellspacing="0" cellpadding="0"><tr><td><div style="background: url(http://img.yandex.net/i/li-uncolorer-rt.gif) no-repeat right top #FFFFFF;"><div style="background: url(http://img.yandex.net/i/li-uncolorer-rb.gif) no-repeat right bottom;"><div style="background: url(http://img.yandex.net/i/li-uncolorer-lb.gif) no-repeat left bottom;"><div style="background: url(http://img.yandex.net/i/li-uncolorer-lt.gif) no-repeat left top; margin-right: 10px; padding: 10px 0 0 10px;"><table border="0" cellspacing="0" cellpadding="0"><tr><td><table border="0" cellspacing="0" cellpadding="0"><tr><td><input type="submit" value="Отправить" style="margin-right: 5px;"/></td><td><input type="text" id="CompanySum" name="CompanySum" value="100" size="4" style="margin-right: 5px;"/></td><td nowrap="nowrap" style="font: 70% Verdana, Arial, Geneva CY, Sans-Serif;" valign="bottom"><strong>рублей</strong></td></tr></table></td><td width="90" rowspan="3" valign="bottom"><a href="http://money.yandex.ru/"><img src="http://img.yandex.net/i/ym-logo.gif" width="90" height="39" border="0" style="margin-left: 5px;"/></a></td></tr><tr><td nowrap="nowrap" style="font: 70% Verdana, Arial, Geneva CY, Sans-Serif;">на счёт <span style="color: #006600; font-weight: bold;">41001880298903</span></td></tr><tr><td><img src="http://img.yandex.net/i/x.gif" width="1" height="10" /></td></tr></table></div></div></div></div></td></tr></table></form>
+
+Ещё мы принимаем [BitCoin](http://www.bitcoin.org/ru) на адрес
+115tGQgTwh7wo3qhrb45wUxkLk27vTDufn.
 
 
-## Необходимое оборудование
+## <a class="local" href="support.html#why" name="why">На что мы собираем деньги</a>
 
-Вот на что мы собираем деньги:
-
-- Модем [Huawei E1550][hua] (2065р) для организации горячей линии и [голосовой
-  почты][vm].
+- На оплату [SMS-рассылки][sms] (~20р в неделю)
+- На хостинг (~500р в месяц, пока только в планах)
+- На модем [Huawei E1550][hua] (2065р) для организации горячей линии и
+  [голосовой почты][vm].
 
 [hua]: http://market.yandex.ru/model.xml?modelid=4903215&hid=91029
 [vm]: /voicemail.html
+[sms]: /sms.html
