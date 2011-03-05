@@ -4,6 +4,7 @@ build:
 	python poole.py --build
 
 update: fetch build
+	yandex-money-history
 	-git add ..
 	-git commit -am "Web site udpdate."
 	-git push
