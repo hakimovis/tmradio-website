@@ -314,4 +314,4 @@ def yandex_money_stats():
     fn = 'input/yandex-money.json'
     if os.path.exists(fn):
         data = json.load(open(fn, 'rb'))
-        return u'Яндекс.Деньгами собрано: %(income).2f, потрачено: %(outcome).2f, осталось: %(left).2f (информация обновляется примерно раз в неделю).' % data
+        return u'Яндекс.Деньгами собрано: %(income).2f, потрачено: %(outcome).2f, осталось: %(left).2f (информация обновляется примерно раз в неделю); доступен <a href="/yandex-money.csv">полный список транзакций</a>.' % data
