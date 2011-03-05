@@ -3,11 +3,13 @@ all: build
 build:
 	python poole.py --build
 
-update: fetch build
-	yandex-money-history
+update: fetch update-money build
 	-git add ..
 	-git commit -am "Web site udpdate."
 	-git push
+
+update-money:
+	yandex-money-history
 
 fetch:
 	-git pull origin gh-pages

@@ -23,6 +23,7 @@ title: Чем и как поддержать «Тоже мне радио»
 Ещё мы принимаем [BitCoin](http://www.bitcoin.org/ru) на адрес
 115tGQgTwh7wo3qhrb45wUxkLk27vTDufn.
 
+{{ yandex_money_stats() }}
 
 ## <a class="local" href="support.html#why" name="why">На что мы собираем деньги</a>
 

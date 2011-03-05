@@ -308,3 +308,10 @@ def get_rss_table():
 
 def init_flattr(page):
     return "<script type='text/javascript'>/* <![CDATA[ */ (function() { var s = document.createElement('script'), t = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto'; t.parentNode.insertBefore(s, t); })(); /* ]]> */ </script>"
+
+
+def yandex_money_stats():
+    fn = 'input/yandex-money.json'
+    if os.path.exists(fn):
+        data = json.load(open(fn, 'rb'))
+        return u'Яндекс.Деньгами собрано: %(income).2f, потрачено: %(outcome).2f, осталось: %(left).2f (информация обновляется примерно раз в неделю).' % data
