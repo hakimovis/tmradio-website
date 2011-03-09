@@ -315,3 +315,35 @@ def yandex_money_stats():
     if os.path.exists(fn):
         data = json.load(open(fn, 'rb'))
         return u'Яндекс.Деньгами собрано: %(income).2f, потрачено: %(outcome).2f, осталось: %(left).2f (информация обновляется примерно раз в неделю); доступен <a href="/yandex-money.csv">полный список транзакций</a>.' % data
+
+# -----------------------------------------------------------------------------
+# generate the site map
+# -----------------------------------------------------------------------------
+
+_SITEMAP = """<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+%s</urlset>
+"""
+
+_SITEMAP_URL = """<url>
+    <loc>%s</loc>
+    <lastmod>%s</lastmod>
+    <changefreq>%s</changefreq>
+    <priority>%s</priority>
+</url>
+"""
+
+def once_sitemap():
+    """Generate Google sitemap.xml file."""
+    date = time.strftime('%Y-%m-%d')
+    urls = []
+    for p in pages:
+        url = p.url
+        if '://' not in url:
+            url = BASE_URL + '/' + url
+            urls.append(_SITEMAP_URL % (url, date,
+                p.get("changefreq", "monthly"), p.get("priority", "0.8")))
+    fname = os.path.join(options.project, "..", "sitemap.xml")
+    fp = open(fname, 'w')
+    fp.write(_SITEMAP % "".join(urls))
+    fp.close()
