@@ -5,7 +5,7 @@
     <base href="/"/>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="google-site-verification" content="zZVGZzTgjhLrJb28Qp-n9qHHa_FSv32-YGpAjtzMl8U"/>
-    <title>Блог</title>
+    <title>Вышел tmradio-client v0.12 для Linux</title>
     <link rel="stylesheet" type="text/css" href="/screen.css?7" media="screen, projection"/>
     <!--
     <link rel="stylesheet" type="text/css" href="/handheld.css" media="handheld"/>
@@ -17,20 +17,40 @@
     <link rel="alternate" type="application/rss+xml" title="Так себе новости (подкаст)" href="/news.xml"/>
     <link rel="alternate" type="application/rss+xml" title="Про кино (подкаст)" href="/prokino.xml"/>
     <script type="text/javascript">var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-18456281-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
-    <script type="text/javascript">var disqus_url = "http://www.tmradio.net/blog.html";</script>
+    <script type="text/javascript">var disqus_url = "http://www.tmradio.net/blog/20110310-client.html";</script>
     <script type='text/javascript'>/* <![CDATA[ */ (function() { var s = document.createElement('script'), t = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto'; t.parentNode.insertBefore(s, t); })(); /* ]]> */ </script>
   </head>
   <body>
     <div id="wrapper">
       <div id="content">
-        <h1>Блог</h1>
-        
-        <p>В этом блоге мы рассказываем о работе радиостанции.  Есть <a href="/blog.xml">RSS-лента</a>.</p>
-<h2>Свежие записи</h2>
-<ul class="pagelist"><li><a href="/blog/20110310-client.html">Вышел tmradio-client v0.12 для Linux</a> <span class="date">10.03.2011</span> <a class="dcc" href="/blog/20110310-client.html#disqus_thread">комментировать</a></li><li><a href="/blog/20110224-agents.html">Статистика используемых клиентов</a> <span class="date">24.02.2011</span> <a class="dcc" href="/blog/20110224-agents.html#disqus_thread">комментировать</a></li><li><a href="/blog/20110201-client.html">Вышел tmradio-client v0.11 для Linux</a> <span class="date">01.02.2011</span> <a class="dcc" href="/blog/20110201-client.html#disqus_thread">комментировать</a></li><li><a href="/blog/20110128-music.html">Новый алгоритм выбора дневной музыки</a> <span class="date">28.01.2011</span> <a class="dcc" href="/blog/20110128-music.html#disqus_thread">комментировать</a></li><li><a href="/blog/20110126-lastfm.html">Получение новой музыки из Last.fm</a> <span class="date">25.01.2011</span> <a class="dcc" href="/blog/20110126-lastfm.html#disqus_thread">комментировать</a></li><li><a href="/blog/20110125-jerks.html">О медленных дисках и заикающемся звуке</a> <span class="date">24.01.2011</span> <a class="dcc" href="/blog/20110125-jerks.html#disqus_thread">комментировать</a></li></ul>
-
-<script type="text/javascript">var disqus_shortname = "tmradio"; (function () { var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = "http://" + disqus_shortname + ".disqus.com/count.js"; (document.getElementsByTagName("HEAD")[0] || document.getElementsByTagName("BODY")[0]).appendChild(s); }());</script>
-        
+        <h1>Вышел tmradio-client v0.12 для Linux</h1>
+        <p class="meta">10.03.11; метки: <a href="/blog.html">blog</a></p>
+        <p>Вышла версия 0.12 <a href="http://app.tmradio.net/">проигрывателя tmradio</a>.  Изменения:</p>
+<ul>
+<li>Сообщения в чате больше нельзя редактировать.</li>
+<li>Список ников в чате теперь сортируется в алфавитном порядке.</li>
+<li>При клике в ник автора новости открывается страница с твитом.</li>
+<li>Удаляются лишние пробелы из сообщений в чате.</li>
+<li>Добавлена вкладка с <a href="/podcast.html">подкастами</a>.</li>
+<li>Кнопки для голосования больше нельзя «отжать».</li>
+<li>В меню появилась ссылка на книгу жалоб и предложений.</li>
+<li>Исправлены некоторые отладочные сообщения (мусор в консоли).</li>
+<li>При закрытии основного окна приложение не сворачивается, а закрывается.</li>
+<li>Новые иконки.</li>
+<li>Упрощена структура исходного кода.</li>
+<li>Уведомления о смене песен выводятся только если приложение скрыто.</li>
+<li>Проигрыватель сообщает серверу ник слушателя (в User-Agent).</li>
+<li>Из чата можно слать команды роботу (слэш в качестве префикса).</li>
+<li>Для сборки deb-пакета больше не нужно sudo.</li>
+<li>Настройки теперь хранятся в файле ~/.tmradio-client.yaml, а не в GConf.</li>
+<li>Пароль для джаббера кодируется в base64 (защита от случайных глаз сзади).</li>
+<li>Удалён неиспользуемый код.</li>
+<li>Исходный код перенесён в GitHub.</li>
+<li>У проигрывателя появился <a href="http://app.tmradio.net/">свой сайт</a>.</li>
+</ul>
+<p>Скачать: <a href="http://files.tmradio.net/software/client/tmradio-client-gtk-0.12.deb">deb</a>, <a href="http://files.tmradio.net/software/client/tmradio-client-gtk-0.12.zip">zip</a>.</p>
+<p><img alt="screenshot" src="http://files.tmradio.net/software/client/tmradio-client-gtk-0.12.png" /></p>
+        <div id="disqus_thread"></div><script type="text/javascript">if (window.location.href.indexOf("http://localhost:") == 0) var disqus_developer = 1;var disqus_identifier = "blog/20110310-client.html"; (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = 'http://tmradio.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })();</script><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=tmradio">comments powered by Disqus.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
         <div id="footer">
           <div id="columns">
             <ul>

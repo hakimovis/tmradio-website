@@ -8,8 +8,43 @@
 <title>Тоже мне радио: blog</title>
 <description>Страницы сайта Тоже мне радио с пометкой «blog».</description>
 <link>http://www.tmradio.net/blog.html</link>
-<pubDate>Thu, 10 Mar 2011 15:51:27 -0000</pubDate>
-<lastBuildDate>Thu, 10 Mar 2011 15:51:27 -0000</lastBuildDate>
+<pubDate>Thu, 10 Mar 2011 16:02:00 -0000</pubDate>
+<lastBuildDate>Thu, 10 Mar 2011 16:02:00 -0000</lastBuildDate>
+<item>
+	<title>Вышел tmradio-client v0.12 для Linux</title>
+	<link>http://www.tmradio.net/blog/20110310-client.html</link>
+	<description>&lt;p&gt;Вышла версия 0.12 &lt;a href="http://app.tmradio.net/"&gt;проигрывателя tmradio&lt;/a&gt;.  Изменения:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Сообщения в чате больше нельзя редактировать.&lt;/li&gt;
+&lt;li&gt;Список ников в чате теперь сортируется в алфавитном порядке.&lt;/li&gt;
+&lt;li&gt;При клике в ник автора новости открывается страница с твитом.&lt;/li&gt;
+&lt;li&gt;Удаляются лишние пробелы из сообщений в чате.&lt;/li&gt;
+&lt;li&gt;Добавлена вкладка с &lt;a href="/podcast.html"&gt;подкастами&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Кнопки для голосования больше нельзя «отжать».&lt;/li&gt;
+&lt;li&gt;В меню появилась ссылка на книгу жалоб и предложений.&lt;/li&gt;
+&lt;li&gt;Исправлены некоторые отладочные сообщения (мусор в консоли).&lt;/li&gt;
+&lt;li&gt;При закрытии основного окна приложение не сворачивается, а закрывается.&lt;/li&gt;
+&lt;li&gt;Новые иконки.&lt;/li&gt;
+&lt;li&gt;Упрощена структура исходного кода.&lt;/li&gt;
+&lt;li&gt;Уведомления о смене песен выводятся только если приложение скрыто.&lt;/li&gt;
+&lt;li&gt;Проигрыватель сообщает серверу ник слушателя (в User-Agent).&lt;/li&gt;
+&lt;li&gt;Из чата можно слать команды роботу (слэш в качестве префикса).&lt;/li&gt;
+&lt;li&gt;Для сборки deb-пакета больше не нужно sudo.&lt;/li&gt;
+&lt;li&gt;Настройки теперь хранятся в файле ~/.tmradio-client.yaml, а не в GConf.&lt;/li&gt;
+&lt;li&gt;Пароль для джаббера кодируется в base64 (защита от случайных глаз сзади).&lt;/li&gt;
+&lt;li&gt;Удалён неиспользуемый код.&lt;/li&gt;
+&lt;li&gt;Исходный код перенесён в GitHub.&lt;/li&gt;
+&lt;li&gt;У проигрывателя появился &lt;a href="http://app.tmradio.net/"&gt;свой сайт&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Скачать: &lt;a href="http://files.tmradio.net/software/client/tmradio-client-gtk-0.12.deb"&gt;deb&lt;/a&gt;, &lt;a href="http://files.tmradio.net/software/client/tmradio-client-gtk-0.12.zip"&gt;zip&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="screenshot" src="http://files.tmradio.net/software/client/tmradio-client-gtk-0.12.png" /&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 10 Mar 2011 15:52:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/blog/20110310-client.html</guid>
+	<category>blog</category>
+	<category>software</category>
+	<category>tech</category>
+	<author>hex@umonkey.net</author>
+</item>
 <item>
 	<title>Статистика используемых клиентов</title>
 	<link>http://www.tmradio.net/blog/20110224-agents.html</link>
