@@ -18,4 +18,4 @@ title: О jabber-боте
 [fb]: /feedback.html
 [talk]: http://talk.google.com/
 [yo]: http://online.yandex.ru/
-[client]: /software.html
+[client]: http://app.tmradio.net/

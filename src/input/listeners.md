@@ -27,4 +27,4 @@ mpos: 12
 [last]: http://www.lastfm.ru/user/tmradiobot
 [sub]: /subscribe.html
 [voicemail]: /voicemail.html
-[client]: /software.html
+[client]: http://app.tmradio.net/
