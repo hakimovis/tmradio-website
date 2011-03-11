@@ -1,6 +1,6 @@
 title: Эфир ТСН от 10.03.2011
 date: 2011-03-10 21:00
-file: http://files.tmradio.net/audio/sosonews/sosonews-14.mp3
+file: http://files.tmradio.net/audio/sosonews/sosonews-15.mp3
 filesize: 58937422
 labels: umonkey, dugwin, news, podcast, Путин, США, визы, Медведев, Госдума, регистрация, НАСА, МВД, счётная палата, КАД, Афганистан, НАТО, Карзай, Чиркунов, чиновники, коррупция, штрафы, взятки, запреты, либерализация, транспорт, Китай, бомжи, лицензирование, конопля, ювенальная юстиция
 ---
