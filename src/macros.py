@@ -156,6 +156,7 @@ def get_page_author(page):
         name = ' '.join(parts)
     if not name:
         name = email.split('@', 1)[0]
+    print page.url, email, name
     return (email, name)
             
 
