@@ -93,6 +93,8 @@ def page_meta(page):
     if page.get('date'):
         parts.append(time.strftime('%d.%m.%y', time.localtime(parse_date_time(page.get('date')))))
 
+    parts.append(u'автор: <a href="mailto:%s">%s</a>' % get_page_author(page))
+
     if page.get('labels'):
         stats = get_label_stats(pages)
         labels = []
@@ -156,7 +158,6 @@ def get_page_author(page):
         name = ' '.join(parts)
     if not name:
         name = email.split('@', 1)[0]
-    print page.url, email, name
     return (email, name)
 
 def get_page_classes(page):
