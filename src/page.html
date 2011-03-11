@@ -21,7 +21,7 @@
     {{ init_comments(page) }}
     {{ init_flattr(page) }}
   </head>
-  <body>
+  <body{{ get_page_classes(page) }}>
     <div id="wrapper">
       <div id="content">
         <h1>{{ page.get('title') }}</h1>

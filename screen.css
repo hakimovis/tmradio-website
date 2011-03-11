@@ -7,6 +7,10 @@ body {
   padding: 10px;
 }
 
+body.draft {
+  background: white url(images/draft.png);
+}
+
 img {
   border: none;
 }

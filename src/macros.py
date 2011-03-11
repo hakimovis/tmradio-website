@@ -158,7 +158,14 @@ def get_page_author(page):
         name = email.split('@', 1)[0]
     print page.url, email, name
     return (email, name)
-            
+
+def get_page_classes(page):
+    result = u' id="%s"' % page.url
+    labels = [l.strip() for l in page.get('labels', '').split(',') if l.strip().encode('utf-8').isalpha()]
+    if labels:
+        result += u' class="%s"' % u' '.join(labels)
+    return result
+
 
 def get_disqus_page_id(page):
     return page.get('disqus_id', page.get('url'))
