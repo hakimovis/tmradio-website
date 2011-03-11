@@ -93,7 +93,9 @@ def page_meta(page):
     if page.get('date'):
         parts.append(time.strftime('%d.%m.%y', time.localtime(parse_date_time(page.get('date')))))
 
-    parts.append(u'автор: <a href="mailto:%s">%s</a>' % get_page_author(page))
+    author = get_page_author(page)
+    if author[1] != 'anonymous':
+        parts.append(u'автор: <a href="mailto:%s">%s</a>' % get_page_author(page))
 
     if page.get('labels'):
         stats = get_label_stats(pages)
