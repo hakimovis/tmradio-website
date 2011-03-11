@@ -8,8 +8,8 @@
 <title>Тоже мне радио: blog</title>
 <description>Страницы сайта Тоже мне радио с пометкой «blog».</description>
 <link>http://www.tmradio.net/blog.html</link>
-<pubDate>Fri, 11 Mar 2011 08:30:39 -0000</pubDate>
-<lastBuildDate>Fri, 11 Mar 2011 08:30:39 -0000</lastBuildDate>
+<pubDate>Fri, 11 Mar 2011 08:42:50 -0000</pubDate>
+<lastBuildDate>Fri, 11 Mar 2011 08:42:50 -0000</lastBuildDate>
 <item>
 	<title>Вышел tmradio-client v0.12 для Linux</title>
 	<link>http://www.tmradio.net/blog/20110310-client.html</link>
@@ -43,7 +43,7 @@
 	<category>blog</category>
 	<category>software</category>
 	<category>tech</category>
-	<author>hex@umonkey.net</author>
+	<author>hex@umonkey.net (umonkey)</author>
 </item>
 <item>
 	<title>Статистика используемых клиентов</title>
@@ -68,7 +68,7 @@
 	<guid>http://www.tmradio.net/blog/20110224-agents.html</guid>
 	<category>blog</category>
 	<category>tech</category>
-	<author>umonkey</author>
+	<author>hex@umonkey.net (umonkey)</author>
 </item>
 <item>
 	<title>Вышел tmradio-client v0.11 для Linux</title>
@@ -84,7 +84,7 @@
 	<category>blog</category>
 	<category>software</category>
 	<category>tech</category>
-	<author>hex@umonkey.net</author>
+	<author>hex@umonkey.net (umonkey)</author>
 </item>
 <item>
 	<title>Новый алгоритм выбора дневной музыки</title>
@@ -102,7 +102,7 @@
 	<guid>http://www.tmradio.net/blog/20110128-music.html</guid>
 	<category>blog</category>
 	<category>tech</category>
-	<author>hex@umonkey.net</author>
+	<author>hex@umonkey.net (umonkey)</author>
 </item>
 <item>
 	<title>Получение новой музыки из Last.fm</title>
@@ -130,7 +130,7 @@
 	<guid>http://www.tmradio.net/blog/20110126-lastfm.html</guid>
 	<category>blog</category>
 	<category>tech</category>
-	<author>hex@umonkey.net</author>
+	<author>hex@umonkey.net (umonkey)</author>
 </item>
 <item>
 	<title>О медленных дисках и заикающемся звуке</title>
@@ -157,7 +157,7 @@
 	<guid>http://www.tmradio.net/blog/20110125-jerks.html</guid>
 	<category>blog</category>
 	<category>tech</category>
-	<author>hex@umonkey.net</author>
+	<author>hex@umonkey.net (umonkey)</author>
 </item>
 </channel>
 </rss>

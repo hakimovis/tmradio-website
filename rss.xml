@@ -8,8 +8,8 @@
 <title>Тоже мне радио</title>
 <description>Обновления сайта.</description>
 <link>http://www.tmradio.net/</link>
-<pubDate>Fri, 11 Mar 2011 08:30:38 -0000</pubDate>
-<lastBuildDate>Fri, 11 Mar 2011 08:30:38 -0000</lastBuildDate>
+<pubDate>Fri, 11 Mar 2011 08:42:49 -0000</pubDate>
+<lastBuildDate>Fri, 11 Mar 2011 08:42:49 -0000</lastBuildDate>
 <item>
 	<title>Эфир ТСН от 10.03.2011</title>
 	<link>http://www.tmradio.net/sosonews-15.html</link>
@@ -102,7 +102,7 @@
 	<category>blog</category>
 	<category>software</category>
 	<category>tech</category>
-	<author>hex@umonkey.net</author>
+	<author>hex@umonkey.net (umonkey)</author>
 </item>
 <item>
 	<title>Опенсорсное кино</title>
@@ -238,7 +238,7 @@
 	<guid>http://www.tmradio.net/blog/20110224-agents.html</guid>
 	<category>blog</category>
 	<category>tech</category>
-	<author>umonkey</author>
+	<author>hex@umonkey.net (umonkey)</author>
 </item>
 <item>
 	<title>Эфир ТСН от 17.02.2011</title>
@@ -467,7 +467,7 @@
 	<category>blog</category>
 	<category>software</category>
 	<category>tech</category>
-	<author>hex@umonkey.net</author>
+	<author>hex@umonkey.net (umonkey)</author>
 </item>
 <item>
 	<title>Tron: legacy</title>
@@ -498,7 +498,7 @@
 	<guid>http://www.tmradio.net/blog/20110128-music.html</guid>
 	<category>blog</category>
 	<category>tech</category>
-	<author>hex@umonkey.net</author>
+	<author>hex@umonkey.net (umonkey)</author>
 </item>
 <item>
 	<title>Эфир ТСН от 27.01.2011</title>
@@ -565,7 +565,7 @@
 	<guid>http://www.tmradio.net/blog/20110126-lastfm.html</guid>
 	<category>blog</category>
 	<category>tech</category>
-	<author>hex@umonkey.net</author>
+	<author>hex@umonkey.net (umonkey)</author>
 </item>
 <item>
 	<title>О медленных дисках и заикающемся звуке</title>
@@ -592,7 +592,7 @@
 	<guid>http://www.tmradio.net/blog/20110125-jerks.html</guid>
 	<category>blog</category>
 	<category>tech</category>
-	<author>hex@umonkey.net</author>
+	<author>hex@umonkey.net (umonkey)</author>
 </item>
 <item>
 	<title>Эфир ТСН от 20.01.2011</title>

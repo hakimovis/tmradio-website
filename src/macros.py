@@ -121,8 +121,8 @@ def pagelist(pages, limit=5, label=None, show_dates=True):
 
     for page in pages:
         output += u'<li><a href="%s">%s</a>' % (page.get('url'), page.get('title'))
-        if show_author and page.has_key('author'):
-            output += u' (%s)' % page.get('author')
+        if show_author:
+            output += u' (%s)' % get_page_author(page)[1]
         if limit is None and show_dates:
             date = page.date + ' 00:00'
             date = datetime.datetime.strptime(date[:16], '%Y-%m-%d %H:%M').strftime('%d.%m.%Y')
@@ -139,6 +139,25 @@ def pagelist(pages, limit=5, label=None, show_dates=True):
         return output
 
     return u'Ничего нет.'
+
+def get_page_author(page):
+    u'''Возвращает email автора записи и его имя.
+
+    Данные вытаскиваются из свойства author формата "email (nickname)".  Если
+    какой-то части нет, она угадывается.'''
+    parts = page.get('author', 'info@tmradio.net (anonymous)').split(' ', 1)
+    email = name = None
+    if '@' in parts[0]:
+        email = parts[0]
+        if len(parts) > 1:
+            name = parts[1].strip('()')
+    else:
+        email = 'info@tmradio.net'
+        name = ' '.join(parts)
+    if not name:
+        name = email.split('@', 1)[0]
+    return (email, name)
+            
 
 def get_disqus_page_id(page):
     return page.get('disqus_id', page.get('url'))
