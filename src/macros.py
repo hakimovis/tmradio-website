@@ -14,7 +14,7 @@ import urlparse
 
 BASE_URL = 'http://www.tmradio.net'
 DISQUS_ID = 'tmradio'
-LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты' }
+LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты', 'prokino': u'про кино', 'mcast': u'микроподкасты' }
 
 
 def get_post_labels(post):
