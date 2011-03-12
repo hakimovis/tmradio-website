@@ -139,6 +139,12 @@
     <priority>0.8</priority>
 </url>
 <url>
+    <loc>http://www.tmradio.net/mcast/hakimovis-20110211000000.html</loc>
+    <lastmod>2011-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
     <loc>http://www.tmradio.net/mcast/nikonor-20090725083403.html</loc>
     <lastmod>2011-03-12</lastmod>
     <changefreq>monthly</changefreq>
@@ -164,6 +170,12 @@
 </url>
 <url>
     <loc>http://www.tmradio.net/mcast/nikonor-20110304153512.html</loc>
+    <lastmod>2011-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>http://www.tmradio.net/mcast/rustray-20110304205700.html</loc>
     <lastmod>2011-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -248,54 +260,6 @@
 </url>
 <url>
     <loc>http://www.tmradio.net/prokino.html</loc>
-    <lastmod>2011-03-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.tmradio.net/prokino/big-bang-theory-umonkey.html</loc>
-    <lastmod>2011-03-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.tmradio.net/prokino/black-swan-dugwin.html</loc>
-    <lastmod>2011-03-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.tmradio.net/prokino/burlesque-dugwin.html</loc>
-    <lastmod>2011-03-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.tmradio.net/prokino/obgzs-hakimovis.html</loc>
-    <lastmod>2011-03-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.tmradio.net/prokino/rustray-oss-movies.html</loc>
-    <lastmod>2011-03-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.tmradio.net/prokino/tbc-nikonor.html</loc>
-    <lastmod>2011-03-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.tmradio.net/prokino/tron-legacy-dugwin.html</loc>
-    <lastmod>2011-03-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.tmradio.net/prokino/visitors-umonkey.html</loc>
     <lastmod>2011-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
