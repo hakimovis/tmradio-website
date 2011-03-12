@@ -8,8 +8,8 @@
 <title>Тоже мне радио: podcast</title>
 <description>Страницы сайта Тоже мне радио с пометкой «podcast».</description>
 <link>http://www.tmradio.net/podcast.html</link>
-<pubDate>Sat, 12 Mar 2011 07:36:47 -0000</pubDate>
-<lastBuildDate>Sat, 12 Mar 2011 07:36:47 -0000</lastBuildDate>
+<pubDate>Sat, 12 Mar 2011 17:55:03 -0000</pubDate>
+<lastBuildDate>Sat, 12 Mar 2011 17:55:03 -0000</lastBuildDate>
 <item>
 	<title>Эфир ТСН от 10.03.2011</title>
 	<link>http://www.tmradio.net/sosonews-15.html</link>
@@ -71,6 +71,28 @@
 	<category>чиновники</category>
 	<category>штрафы</category>
 	<category>ювенальная юстиция</category>
+</item>
+<item>
+	<title>500 дней лета</title>
+	<link>http://www.tmradio.net/mcast/nikonor-20110304153512.html</link>
+	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
+	<pubDate>Fri, 04 Mar 2011 12:35:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/nikonor-20110304153512.html</guid>
+	<enclosure url="http://audioboo.fm/boos/284719-500.mp3?source=rss" type="audio/mpeg" length="1812608"/>
+	<category>mcast</category>
+	<category>podcast</category>
+	<author>nikonor</author>
+</item>
+<item>
+	<title>О сериале "The Big C"</title>
+	<link>http://www.tmradio.net/mcast/nikonor-20110304153459.html</link>
+	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
+	<pubDate>Fri, 04 Mar 2011 12:34:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/nikonor-20110304153459.html</guid>
+	<enclosure url="http://audioboo.fm/boos/273840-the-big-c.mp3?source=rss" type="audio/mpeg" length="989312"/>
+	<category>mcast</category>
+	<category>podcast</category>
+	<author>nikonor</author>
 </item>
 <item>
 	<title>Опенсорсное кино</title>
@@ -223,6 +245,17 @@
 	<category>эвакуация</category>
 </item>
 <item>
+	<title>День Святого Валентина</title>
+	<link>http://www.tmradio.net/mcast/nikonor-20110216161329.html</link>
+	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
+	<pubDate>Wed, 16 Feb 2011 13:13:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/nikonor-20110216161329.html</guid>
+	<enclosure url="http://audioboo.fm/boos/279740-.mp3?source=rss" type="audio/mpeg" length="1304704"/>
+	<category>mcast</category>
+	<category>podcast</category>
+	<author>nikonor</author>
+</item>
+<item>
 	<title>Чёрный лебедь (2010)</title>
 	<link>http://www.tmradio.net/prokino/black-swan-dugwin.html</link>
 	<description>&lt;p&gt;Коротко — барахло, но Винсент хорош.&lt;/p&gt;</description>
@@ -234,6 +267,17 @@
 	<category>podcast</category>
 	<category>prokino</category>
 	<author>dugwin j. goines</author>
+</item>
+<item>
+	<title>утопические мысли о вреде запретов и ограничений</title>
+	<link>http://www.tmradio.net/mcast/nikonor-20110211204426.html</link>
+	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
+	<pubDate>Fri, 11 Feb 2011 17:44:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/nikonor-20110211204426.html</guid>
+	<enclosure url="http://audioboo.fm/boos/276197-.mp3?source=rss" type="audio/mpeg" length="2969728"/>
+	<category>mcast</category>
+	<category>podcast</category>
+	<author>nikonor</author>
 </item>
 <item>
 	<title>О бедном гусаре замолвите слово</title>
@@ -308,6 +352,19 @@
 	<author>nikonor</author>
 </item>
 <item>
+	<title>Пятиминутка ненависти: коммунизм</title>
+	<link>http://www.tmradio.net/mcast/umonkey-20110207090000.html</link>
+	<description>&lt;p&gt;О людях, которые критикуют коммунизм, ничего о нём не зная.&lt;/p&gt;</description>
+	<pubDate>Mon, 07 Feb 2011 06:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/umonkey-20110207090000.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/hate/communism.mp3" type="audio/mpeg" length="1734692"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>umonkey</category>
+	<author>Хекс</author>
+</item>
+<item>
 	<title>Burlesque и This Is It, два в одном</title>
 	<link>http://www.tmradio.net/prokino/burlesque-dugwin.html</link>
 	<description>&lt;p&gt;Коротко: вместо «Burlesque» лучше пересмотреть «This Is It» с Джексоном.&lt;/p&gt;</description>
@@ -319,6 +376,19 @@
 	<category>podcast</category>
 	<category>prokino</category>
 	<author>dugwin j. goines</author>
+</item>
+<item>
+	<title>Обзор сериала «Теория большого взрыва»</title>
+	<link>http://www.tmradio.net/mcast/umonkey-20110206090000.html</link>
+	<description>&lt;p&gt;Рецензия на сериал «Теория большого взрыва», сравнение с «Друзьями».&lt;/p&gt;</description>
+	<pubDate>Sun, 06 Feb 2011 06:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/umonkey-20110206090000.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/big-bang-theory.mp3" type="audio/mpeg" length="2100616"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>umonkey</category>
+	<author>Хекс</author>
 </item>
 <item>
 	<title>Обзор сериала «Теория большого взрыва»</title>
@@ -689,6 +759,56 @@
 	<category>Собянин</category>
 	<category>визовый режим</category>
 	<category>пенсионеры</category>
+</item>
+<item>
+	<title>О фильме «Здравозахоронение» [8/10]</title>
+	<link>http://www.tmradio.net/mcast/umonkey-20100421080000.html</link>
+	<description>&lt;p&gt;&lt;a href="http://upload.wikimedia.org/wikipedia/ru/thumb/b/b4/%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%BE%D0%B7%D0%B0%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.jpg/200px-%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%BE%D0%B7%D0%B0%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.jpg"&gt;&lt;img src="http://upload.wikimedia.org/wikipedia/ru/thumb/b/b4/%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%BE%D0%B7%D0%B0%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.jpg/200px-%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%BE%D0%B7%D0%B0%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.jpg" alt="illustration" class="illustration" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Фильм о системе здравоохранения США. О том, как страховые компании любыми
+способами отказывают клиентам в оплате счетов. Об отсутствии государственной
+медицины, которой все боятся как коммунистов, хотя в половине мира, в том числе
+— в самых развитых странах, она прекрасно работает.&lt;/p&gt;
+&lt;p&gt;В конце фильма выяснилось, что бесплатную медицину предоставляют узникам
+Гуантанамо, куда Мур отправился с несколькими спасателями 9/11. Получив отказ в
+приёме они отправились на Кубу, где всех нормально диагностировали, отменив
+половину предписаний американских врачей, и где те же препараты стоят не
+$120.00, а $00.03.&lt;/p&gt;
+&lt;p&gt;В целом, фильм о том, что капиталистическая идея "наживы любой ценой" в медицине
+работает точно так же, как везде, но с гораздо более страшным для людей исходом,
+и запугивание коммунизмом этому способствует.&lt;/p&gt;
+&lt;p&gt;Есть интервью с дочкой Че. Особенно интересно смотреть расширенную версию, с 50
+минутами дополнительного материала.&lt;/p&gt;
+
+&lt;h3 class="section_header"&gt;&lt;a name="cc66903f" href="http://umonkey.net/mcast.xml#cc66903f" class="section_anchor"&gt;Общая информация о фильме&lt;/a&gt;&lt;/h3&gt;
+
+&lt;table class="info"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;Русское название&lt;/th&gt;&lt;td&gt;Здравозахоронение&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Оригинальное название&lt;/th&gt;&lt;td&gt;Sicko&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Год выхода&lt;/th&gt;&lt;td&gt;2007&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;a href="http://umonkey.net/movies.html#080c16a5" title="Описание системы оценок (форма+содержание+подача[+желание пересмотреть])"&gt;Оценка&lt;/a&gt;&lt;/th&gt;&lt;td&gt;2+2+3+1 = 8&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;p&gt;Дополнительная информация:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://ru.wikipedia.org/wiki/%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%BE%D0%B7%D0%B0%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5"&gt;Этот фильм в Википедии&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0386032/"&gt;Этот фильм в IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mdb.mirkforce.net/minfo.php?mid=701"&gt;Этот фильм в КиноБД&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+	<pubDate>Wed, 21 Apr 2010 04:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/umonkey-20100421080000.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/sicko.mp3" type="audio/mpeg" length="1607853"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>umonkey</category>
+	<author>Хекс</author>
+</item>
+<item>
+	<title>Ключи из машины надо вынимать всегда!!(проба)</title>
+	<link>http://www.tmradio.net/mcast/nikonor-20090725083403.html</link>
+	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
+	<pubDate>Sat, 25 Jul 2009 04:34:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/nikonor-20090725083403.html</guid>
+	<enclosure url="http://audioboo.fm/boos/47493-.mp3?source=rss" type="audio/mpeg" length="849743"/>
+	<category>mcast</category>
+	<category>podcast</category>
+	<author>nikonor</author>
 </item>
 </channel>
 </rss>

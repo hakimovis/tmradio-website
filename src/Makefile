@@ -9,7 +9,7 @@ update: fetch update-money build
 	-git push
 
 update-money:
-	yandex-money-history
+	-yandex-money-history
 
 fetch:
 	-git pull origin gh-pages
