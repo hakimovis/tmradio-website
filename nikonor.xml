@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="http://www.tmradio.net/nikonor.xml" rel="self" type="application/rss+xml"/>
+<language>ru-RU</language>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>Poole</generator>
+<title>Тоже мне радио: nikonor</title>
+<description>Страницы сайта Тоже мне радио с пометкой «nikonor».</description>
+<link>http://www.tmradio.net/nikonor.html</link>
+<pubDate>Sat, 12 Mar 2011 18:01:46 -0000</pubDate>
+<lastBuildDate>Sat, 12 Mar 2011 18:01:46 -0000</lastBuildDate>
+<item>
+	<title>500 дней лета</title>
+	<link>http://www.tmradio.net/mcast/nikonor-20110304153512.html</link>
+	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
+	<pubDate>Fri, 04 Mar 2011 12:35:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/nikonor-20110304153512.html</guid>
+	<enclosure url="http:/audioboo.fm/boos/284719-500.mp3?source=rss" type="audio/mpeg" length="1812608"/>
+	<category>mcast</category>
+	<category>nikonor</category>
+	<category>podcast</category>
+	<author>nikonor</author>
+</item>
+<item>
+	<title>О сериале "The Big C"</title>
+	<link>http://www.tmradio.net/mcast/nikonor-20110304153459.html</link>
+	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
+	<pubDate>Fri, 04 Mar 2011 12:34:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/nikonor-20110304153459.html</guid>
+	<enclosure url="http:/audioboo.fm/boos/273840-the-big-c.mp3?source=rss" type="audio/mpeg" length="989312"/>
+	<category>mcast</category>
+	<category>nikonor</category>
+	<category>podcast</category>
+	<author>nikonor</author>
+</item>
+<item>
+	<title>День Святого Валентина</title>
+	<link>http://www.tmradio.net/mcast/nikonor-20110216161329.html</link>
+	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
+	<pubDate>Wed, 16 Feb 2011 13:13:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/nikonor-20110216161329.html</guid>
+	<enclosure url="http:/audioboo.fm/boos/279740-.mp3?source=rss" type="audio/mpeg" length="1304704"/>
+	<category>mcast</category>
+	<category>nikonor</category>
+	<category>podcast</category>
+	<author>nikonor</author>
+</item>
+<item>
+	<title>утопические мысли о вреде запретов и ограничений</title>
+	<link>http://www.tmradio.net/mcast/nikonor-20110211204426.html</link>
+	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
+	<pubDate>Fri, 11 Feb 2011 17:44:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/nikonor-20110211204426.html</guid>
+	<enclosure url="http:/audioboo.fm/boos/276197-.mp3?source=rss" type="audio/mpeg" length="2969728"/>
+	<category>mcast</category>
+	<category>nikonor</category>
+	<category>podcast</category>
+	<author>nikonor</author>
+</item>
+<item>
+	<title>Ключи из машины надо вынимать всегда!!(проба)</title>
+	<link>http://www.tmradio.net/mcast/nikonor-20090725083403.html</link>
+	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
+	<pubDate>Sat, 25 Jul 2009 04:34:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/nikonor-20090725083403.html</guid>
+	<enclosure url="http:/audioboo.fm/boos/47493-.mp3?source=rss" type="audio/mpeg" length="849743"/>
+	<category>mcast</category>
+	<category>nikonor</category>
+	<category>podcast</category>
+	<author>nikonor</author>
+</item>
+</channel>
+</rss>
