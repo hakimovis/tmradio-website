@@ -14,7 +14,7 @@ import urlparse
 
 BASE_URL = 'http://www.tmradio.net'
 DISQUS_ID = 'tmradio'
-LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты' }
+LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты', 'prokino': u'про кино', 'mcast': u'микроподкасты' }
 
 
 def get_post_labels(post):
@@ -176,7 +176,7 @@ def get_disqus_page_id(page):
 
 def add_comments(page):
     labels = get_post_labels(page)
-    if page.get('file', '').endswith('.mp3') or 'blog' in labels:
+    if page.get('file', '').split('?')[0].endswith('.mp3') or 'blog' in labels:
         settings = 'var disqus_identifier = "'+ page.url +'";'
         return u'<div id="disqus_thread"></div><script type="text/javascript">if (window.location.href.indexOf("http://localhost:") == 0) var disqus_developer = 1;'+ settings +' (function() { var dsq = document.createElement(\'script\'); dsq.type = \'text/javascript\'; dsq.async = true; dsq.src = \'http://tmradio.disqus.com/embed.js\'; (document.getElementsByTagName(\'head\')[0] || document.getElementsByTagName(\'body\')[0]).appendChild(dsq); })();</script><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=tmradio">comments powered by Disqus.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>'
     return ''
