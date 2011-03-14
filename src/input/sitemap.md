@@ -11,6 +11,7 @@ title: Карта сайта
     - [Музыка](music.html)
     - [Блог](blog.html)
     - [Обратная связь](feedback.html)
+        - [Книга жалоб и предложений](tracker.html)
 - [Программы](schedule.html):
     - [Так себе новости](news.html)
     - [Про кино](prokino.html)
