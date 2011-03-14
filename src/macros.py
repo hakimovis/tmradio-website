@@ -95,7 +95,7 @@ def page_meta(page):
 
     author = get_page_author(page)
     if author[1] != 'anonymous':
-        parts.append(u'автор: <a href="mailto:%s">%s</a>' % get_page_author(page))
+        parts.append(u'автор: <a href="mailto:%s">%s</a>' % author)
 
     if page.get('labels'):
         stats = get_label_stats(pages)
@@ -274,9 +274,7 @@ def write_rss(pages, title, description, label=None):
             xml += u'\t<enclosure url="%s" type="%s" length="%s"/>\n' % (p.file, mime_type, p.get('filesize', 1))
         for l in get_post_labels(p):
             xml += u'\t<category>%s</category>\n' % l
-        author = p.get('author')
-        if author:
-            xml += u'\t<author>%s</author>\n' % author
+        xml += u'\t<author>%s (%s)</author>\n' % get_page_author(p)
         xml += u'</item>\n'
 
     xml += u'</channel>\n'
