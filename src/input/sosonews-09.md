@@ -20,4 +20,4 @@ labels: umonkey, dugwin, news, podcast, Домодедово, Иванов, Да
 <li><a href="http://nr2.ru/policy/313829.html">Совет Федерации: В Центральной России не хотят кавказцев соседями</a></li>
 </ul>
 
-![статистика](/sosonews-09.png)
+![статистика](http://www.tmradio.net/sosonews-09.png)
