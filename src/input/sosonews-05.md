@@ -16,4 +16,4 @@ labels: umonkey, dugwin, news, podcast, Ходорковский, Домодед
 <li><a href="http://vz.ru/columns/2010/12/27/457872.html">ДМИТРИЙ СОКОЛОВ: «Манежная площадь — это не симптомы распада государства, а наоборот — первые признаки его обретения»</a></li>
 </ul>
 
-![статистика](sosonews-05.png)
+![статистика](http://www.tmradio.net/sosonews-05.png)
