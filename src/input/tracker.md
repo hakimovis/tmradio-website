@@ -4,7 +4,7 @@ title: Публичный трекер
 отслеживаются все обнаруженные ошибки и пожелания, касающиеся программного
 обеспечения станции, сайта, оформления и всего остального.  Адрес трекера:
 
-- [http://code.google.com/p/ardj/issues/list](http://code.google.com/p/ardj/issues/list)
+> [http://code.google.com/p/ardj/issues/list](http://code.google.com/p/ardj/issues/list)
 
 Чтобы [добавить запись][add], нужна учётная запись Google (или Gmail).  Для
 отслеживания происходящего есть специальная [почтовая рассылка][group], в
