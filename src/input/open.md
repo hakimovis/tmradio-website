@@ -7,16 +7,18 @@ title: Наши принципы
 - Вся [музыка, которая звучит у нас][music], может быть легально загружена с
   сайтов исполнителей.
 - Слушатели могут формировать эфир [оценивая][jabber] звучащую музыку и
-  [присылая новую][feedback], присылать [голосовые сообщения](/voicemail.html)
+  [присылая новую][feedback], присылать [голосовые сообщения](voicemail.html)
   прямо в эфир.
 - Мы предоставляем доступ к информации о том, какую песню сколько человек
   прослушало ([в обобщённом виде][sstat] и [в деталях][lstat]).
-- Любой желающий может [сделать нашу станцию лучше](/support.html).
+- Все идеи и проблемы обсуждаются в [открытом
+  трекере](http://code.google.com/p/ardj/issues/list).
+- Любой желающий может [сделать нашу станцию лучше](support.html).
 
-[feedback]: /feedback.html
-[jabber]: /jabber.html
+[feedback]: feedback.html
+[jabber]: jabber.html
 [lstat]: http://files.tmradio.net/listeners/listeners.csv
 [site]: https://github.com/umonkey/tmradio
 [soft]: http://ardj.googlecode.com/
 [sstat]: http://files.tmradio.net/listeners/totals.csv
-[music]: /music.html
+[music]: music.html
