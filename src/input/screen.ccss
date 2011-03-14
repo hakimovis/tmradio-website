@@ -144,20 +144,33 @@ h2:
   clear: both;
   padding: 2em 0;
 
-table.skel:
-  border-collapse: collapse;
-  width: 100%;
+table:
+  &.skel:
+    border-collapse: collapse;
+    width: 100%;
 
-  td, th:
-    border: solid 1px #ccc;
-    padding: 2px 6px;
+    td, th:
+      border: solid 1px #ccc;
+      padding: 2px 6px;
 
-  &.sched:
-    td:
-      text-align: center;
+    &.sched:
+      td:
+        text-align: center;
 
-  &#rsst:
-    width: auto;
+    &#rsst:
+      width: auto;
+
+  &#yamoney:
+    td:nth-child(1):
+      white-space: nowrap;
+    td:nth-child(2):
+      text-align: right;
+      white-space: nowrap;
+    td:nth-child(3):
+      width: 100%;
+
+    tfoot:
+      background-color: #eee;
 
 iframe.flattr:
   float: left;

@@ -194,6 +194,23 @@ table.skel#rsst {
   width: auto;
 }
 
+table#yamoney td:nth-child(1) {
+  white-space: nowrap;
+}
+
+table#yamoney td:nth-child(2) {
+  text-align: right;
+  white-space: nowrap;
+}
+
+table#yamoney td:nth-child(3) {
+  width: 100%;
+}
+
+table#yamoney tfoot {
+  background-color: #eeeeee;
+}
+
 iframe.flattr {
   float: left;
   margin-right: 40px;

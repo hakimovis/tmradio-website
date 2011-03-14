@@ -344,7 +344,26 @@ def yandex_money_stats():
     fn = 'input/yandex-money.json'
     if os.path.exists(fn):
         data = json.load(open(fn, 'rb'))
-        return u'Яндекс.Деньгами собрано: %(income).2f, потрачено: %(outcome).2f, осталось: %(left).2f (информация обновляется примерно раз в неделю); доступен <a href="/yandex-money.csv">полный список транзакций</a>.' % data
+        return u'Яндекс.Деньгами собрано: %(income).2f, потрачено: %(outcome).2f, осталось: %(left).2f (информация обновляется примерно раз в неделю); доступен <a href="/yandex-money.html">полный список транзакций</a>.' % data
+
+def yandex_money_table():
+    fn = 'input/yandex-money.json'
+    if os.path.exists(fn):
+        data = json.load(open(fn, 'rb'))
+        today = time.strftime('%d.%m.%Y %H:%M')
+        output = u'<table class="skel" id="yamoney">'
+
+        output += u'<tfoot>'
+        output += u'<tr><td>%s</td><td>%.2f</td><td>Всего получено</td></tr>' % (today, data['income'])
+        output += u'<tr><td>%s</td><td>%.2f</td><td>Всего потрачено</td></tr>' % (today, data['outcome'])
+        output += u'<tr><td>%s</td><td>%.2f</td><td>Текущий остаток</td></tr>' % (today, data['left'])
+        output += u'</tfoot>'
+
+        output += u'<tbody>'
+        for t in data['transactions']:
+            output += u'<tr><td>%s</td><td>%.2f</td><td>%s</td></tr>\n' % tuple(t)
+        output += u'</tbody></table>'
+        return output
 
 # -----------------------------------------------------------------------------
 # generate the site map
