@@ -8,8 +8,34 @@
 <title>Тоже мне радио: podcast</title>
 <description>Страницы сайта Тоже мне радио с пометкой «podcast».</description>
 <link>http://www.tmradio.net/podcast.html</link>
-<pubDate>Tue, 15 Mar 2011 10:42:08 -0000</pubDate>
-<lastBuildDate>Tue, 15 Mar 2011 10:42:08 -0000</lastBuildDate>
+<pubDate>Tue, 15 Mar 2011 17:39:47 -0000</pubDate>
+<lastBuildDate>Tue, 15 Mar 2011 17:39:47 -0000</lastBuildDate>
+<item>
+	<title>Рецензия на сериал «Щит»</title>
+	<link>http://www.tmradio.net/mcast/sckrat-shield.html</link>
+	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
+	<pubDate>Tue, 15 Mar 2011 16:38:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/sckrat-shield.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/sckrat-shield.mp3" type="audio/mpeg" length="3361834"/>
+	<category>mcast</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<category>sckrat</category>
+	<author>sckrat.lipetsk@gmail.com (sckrat)</author>
+</item>
+<item>
+	<title>Рецензия на фильм «Нервы на пределе»</title>
+	<link>http://www.tmradio.net/mcast/sckrat-nerves.html</link>
+	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
+	<pubDate>Tue, 15 Mar 2011 16:35:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/sckrat-nerves.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/sckrat-nerves.mp3" type="audio/mpeg" length="2541798"/>
+	<category>mcast</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<category>sckrat</category>
+	<author>sckrat.lipetsk@gmail.com (sckrat)</author>
+</item>
 <item>
 	<title>Эфир ТСН от 10.03.2011</title>
 	<link>http://www.tmradio.net/sosonews-15.html</link>
