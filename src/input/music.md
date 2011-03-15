@@ -6,11 +6,15 @@ title: Музыка на «Тоже мне радио»
 [роботы](/robots.html) или мы сами.
 
 
-## <a href="/music.html#sources" name="sources">Основные источники музыки</a>
+## <a href="/music.html#map" name="map">Предстоящие концерты</a>
 
-- [Last.fm](http://www.lastfm.ru/music/+free-music-downloads) ([в
-  автомате](/blog/20110126-lastfm.html))
-- [Jamendo](http://www.jamendo.com/) (вручную)
+Наши роботы любезно составили карту предстоящих концертов музыкантов,
+выпускающих свободную музыку.  Информация берётся из Last.fm; чтобы попасть на
+карту, просто добавьте событие.
+
+<iframe id="cmap" src="/concert-map/" width="800" height="300"></iframe>
+
+[Развернуть на весь экран](/concert-map/)
 
 
 ## Группы, которые не отвечают на запросы

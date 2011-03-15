@@ -172,9 +172,13 @@ table:
     tfoot:
       background-color: #eee;
 
-iframe.flattr:
-  float: left;
-  margin-right: 40px;
+iframe:
+  &#cmap:
+    border: solid gray 1px;
+
+  &.flattr:
+    float: left;
+    margin-right: 40px;
 
 form:
   div:

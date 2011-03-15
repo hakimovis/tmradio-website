@@ -211,6 +211,10 @@ table#yamoney tfoot {
   background-color: #eeeeee;
 }
 
+iframe#cmap {
+  border: solid gray 1px;
+}
+
 iframe.flattr {
   float: left;
   margin-right: 40px;
