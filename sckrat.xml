@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<atom:link href="http://www.tmradio.net/prokino.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="http://www.tmradio.net/sckrat.xml" rel="self" type="application/rss+xml"/>
 <language>ru-RU</language>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>Poole</generator>
-<title>Тоже мне радио: prokino</title>
-<description>Страницы сайта Тоже мне радио с пометкой «prokino».</description>
-<link>http://www.tmradio.net/prokino.html</link>
+<title>Тоже мне радио: sckrat</title>
+<description>Страницы сайта Тоже мне радио с пометкой «sckrat».</description>
+<link>http://www.tmradio.net/sckrat.html</link>
 <pubDate>Tue, 15 Mar 2011 17:41:48 -0000</pubDate>
 <lastBuildDate>Tue, 15 Mar 2011 17:41:48 -0000</lastBuildDate>
 <item>
@@ -35,32 +35,6 @@
 	<category>prokino</category>
 	<category>sckrat</category>
 	<author>sckrat.lipetsk@gmail.com (sckrat)</author>
-</item>
-<item>
-	<title>Опенсорсное кино</title>
-	<link>http://www.tmradio.net/mcast/rustray-20110304205700.html</link>
-	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
-	<pubDate>Thu, 03 Mar 2011 21:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/mcast/rustray-20110304205700.html</guid>
-	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/rustray-oss-movies.mp3" type="audio/mpeg" length="1413912"/>
-	<category>mcast</category>
-	<category>podcast</category>
-	<category>prokino</category>
-	<category>rustray</category>
-	<author>info@tmradio.net (rustray)</author>
-</item>
-<item>
-	<title>О бедном гусаре замолвите слово</title>
-	<link>http://www.tmradio.net/mcast/hakimovis-20110211000000.html</link>
-	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
-	<pubDate>Thu, 10 Feb 2011 21:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/mcast/hakimovis-20110211000000.html</guid>
-	<enclosure url="http://files.tmradio.net/audio/incoming/mcasts/hakimovis-obgzs.mp3" type="audio/mpeg" length="1258221"/>
-	<category>hakimovis</category>
-	<category>mcast</category>
-	<category>podcast</category>
-	<category>prokino</category>
-	<author>info@tmradio.net (hakimovis)</author>
 </item>
 </channel>
 </rss>

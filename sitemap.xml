@@ -295,6 +295,12 @@
     <priority>0.8</priority>
 </url>
 <url>
+    <loc>http://www.tmradio.net/sckrat.html</loc>
+    <lastmod>2011-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
     <loc>http://www.tmradio.net/setup.html</loc>
     <lastmod>2011-03-15</lastmod>
     <changefreq>monthly</changefreq>
