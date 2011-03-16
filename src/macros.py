@@ -58,7 +58,7 @@ def init_comments(page):
     if DISQUS_ID is not None:
         return u'<script type="text/javascript">var disqus_url = "'+ BASE_URL + '/' + page.get('url') +'";</script>'
 
-def parse_date_time(text):
+def parse_date_time(text, as_float=True):
     """Преобразует дату-время из текста в структуру.
 
     Поддерживаемый формат: ГГГГ-ММ-ДД ЧЧ:ММ:СС, недостающие сегменты с конца
@@ -66,7 +66,10 @@ def parse_date_time(text):
     """
     default = '0000-01-01 00:00:00'
     text = text + default[len(text):]
-    return time.mktime(time.strptime(text, '%Y-%m-%d %H:%M:%S'))
+    result = time.strptime(text, '%Y-%m-%d %H:%M:%S')
+    if as_float:
+        result = time.mktime(result)
+    return result
 
 
 def print_menu(pages, page):
@@ -230,10 +233,17 @@ _RSS = u"""<?xml version="1.0"?>
 def write_rss(pages, title, description, label=None):
     base = BASE_URL
 
-    if label is None:
-        filename = 'rss.xml'
-    else:
-        filename = label.replace(' ', '_') + '.xml'
+    # leave only blog posts
+    pages = [p for p in pages if p.has_key('title') and p.has_key('date') and '://' not in p.url and 'draft' not in get_post_labels(p)]
+    # filter by label
+    if label is not None:
+        pages = [p for p in pages if label in get_post_labels(p)]
+    # sort by date
+    pages.sort(key=lambda p: p.date, reverse=True)
+    feed_pub_date = email.utils.formatdate(parse_date_time(pages[0].date))
+
+    if label is None: filename = 'rss.xml'
+    else: filename = label.replace(' ', '_') + '.xml'
 
     xml = u'<?xml version="1.0"?>\n'
     xml += u'<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
@@ -248,17 +258,9 @@ def write_rss(pages, title, description, label=None):
         xml += u'<link>%s/</link>\n' % base
     else:
         xml += u'<link>%s%s</link>\n' % (base, get_label_url(label))
-    date = email.utils.formatdate()
-    xml += u'<pubDate>%s</pubDate>\n' % date
-    xml += u'<lastBuildDate>%s</lastBuildDate>\n' % date
+    xml += u'<pubDate>%s</pubDate>\n' % feed_pub_date
+    xml += u'<lastBuildDate>%s</lastBuildDate>\n' % feed_pub_date
 
-    # leave only blog posts
-    pages = [p for p in pages if p.has_key('title') and p.has_key('date') and '://' not in p.url and 'draft' not in get_post_labels(p)]
-    # filter by label
-    if label is not None:
-        pages = [p for p in pages if label in get_post_labels(p)]
-    # sort by date
-    pages.sort(key=lambda p: p.date, reverse=True)
     # process first 10 items
     for p in pages:
         xml += u'<item>\n'
@@ -367,30 +369,25 @@ def yandex_money_table():
 # generate the site map
 # -----------------------------------------------------------------------------
 
-_SITEMAP = """<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-%s</urlset>
-"""
-
-_SITEMAP_URL = """<url>
-    <loc>%s</loc>
-    <lastmod>%s</lastmod>
-    <changefreq>%s</changefreq>
-    <priority>%s</priority>
-</url>
-"""
-
 def once_sitemap():
     """Generate Google sitemap.xml file."""
-    date = time.strftime('%Y-%m-%d')
-    urls = []
+
+    contents = ''
     for p in pages:
-        url = p.url
-        if '://' not in url:
-            url = BASE_URL + '/' + url
-            urls.append(_SITEMAP_URL % (url, date,
-                p.get("changefreq", "monthly"), p.get("priority", "0.8")))
+        url = p.get('url')
+        if '://' not in url: # skip external links
+            contents += '<url>\n\t<loc>%s</loc>\n' % (BASE_URL + '/' + url)
+            page_date = p.get('date')
+            if page_date:
+                contents += '\t<lastmod>%s</lastmod>\n' % time.strftime('%Y-%m-%d', parse_date_time(page_date, as_float=False))
+            contents += '</url>\n'
+
+    contents = '<?xml version="1.0" encoding="utf-8"?>\n' \
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' \
+        + contents + \
+        '</urlset>'
+
     fname = os.path.join(options.project, "..", "sitemap.xml")
     fp = open(fname, 'w')
-    fp.write(_SITEMAP % "".join(urls))
+    fp.write(contents)
     fp.close()
