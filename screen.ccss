@@ -193,3 +193,8 @@ form:
     font-size: 12pt;
     border: 1px solid #BBB;
     padding: 4px 6px;
+
+#feedback:
+  width: 640px;
+  height: 600px;
+  border: none;

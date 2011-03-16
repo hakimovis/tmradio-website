@@ -235,3 +235,9 @@ form .text {
   border: 1px solid #bbbbbb;
   padding: 4px 6px;
 }
+
+#feedback {
+  width: 640px;
+  height: 600px;
+  border: none;
+}

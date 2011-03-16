@@ -2,21 +2,9 @@ title: Обратная связь
 mpos: 99
 ---
 
-_Вы также можете [прислать голосовое сообщение прямо в эфир](/voicemail.html)._
+Нам можно писать по электронной почте на адрес
+[info@tmradio.net](mailto:info@tmradio.net), можно присылать голосовые сообщения
+на [горячую линию](voicemail.html).  Если вам удобнее написать отсюда или нужна
+анонимность, пишите:
 
-<form id="feedback" method="post" action="https://dead-channel-news.appspot.com/feedback">
-<input type="hidden" name="back" value="http://www.tmradio.net/"/>
-<input type="hidden" name="site" value="tmradio.net"/>
-<input type="hidden" name="to" value="info@tmradio.net"/>
-<div>
-<label for="feedback-text">Текст сообщения:</label>
-<textarea id="feedback-text" class="text" rows="10" name="text"></textarea>
-</div>
-<div>
-<label for="feedback-sender">Обратный адрес:</label>
-<input id="feedback-sender" type="text" class="text" name="from"/>
-</div>
-<input type="submit" value="Отправить"/>
-</form>
-
-Вы можете с таким же успехом написать на info@tmradio.net.
+<iframe id="feedback" src="https://dead-channel-news.appspot.com/gae-feedback?to=hex@umonkey.net&subject=Feedback from tmradio.net&back=http://www.tmradio.net/feedback-sent.html">Форма загружается...</iframe>
