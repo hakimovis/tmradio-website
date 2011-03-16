@@ -350,13 +350,13 @@ def yandex_money_table():
     fn = 'input/yandex-money.json'
     if os.path.exists(fn):
         data = json.load(open(fn, 'rb'))
-        today = time.strftime('%d.%m.%Y %H:%M')
+        today = data['transactions'][-1][0]
         output = u'<table class="skel" id="yamoney">\n'
 
         output += u'<tfoot>\n'
-        output += u'<tr><td>%s</td><td>%.2f</td><td>Всего получено</td></tr>\n' % (today, data['income'])
-        output += u'<tr><td>%s</td><td>%.2f</td><td>Всего потрачено</td></tr>\n' % (today, data['outcome'])
-        output += u'<tr><td>%s</td><td>%.2f</td><td>Текущий остаток</td></tr>\n' % (today, data['left'])
+        output += u'<tr><td/><td>%.2f</td><td>Всего получено</td></tr>\n' % (data['income'])
+        output += u'<tr><td/><td>%.2f</td><td>Всего потрачено</td></tr>\n' % (data['outcome'])
+        output += u'<tr><td/><td>%.2f</td><td>Текущий остаток</td></tr>\n' % (data['left'])
         output += u'</tfoot>\n'
 
         output += u'<tbody>\n'
