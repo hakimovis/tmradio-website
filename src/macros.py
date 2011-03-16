@@ -317,7 +317,7 @@ def get_rss_table():
     labels = get_label_stats(pages).keys()
     pages_ = sorted([page for page in pages if os.path.splitext(page.url)[0] in labels or page.get('rsstitle')], key=lambda p: p.get('rsstitle', p.get('title')))
 
-    html = u'<table class="skel" id="rsst"><tbody>'
+    html = u'<table class="skel" id="rsst"><tbody>\n'
     for page in pages_:
         page['name'] = os.path.splitext(page.url)[0]
         page['rsstitle'] = page.get('rsstitle', page.get('title'))
@@ -328,7 +328,7 @@ def get_rss_table():
         html += u'<tr><td><a href="%(url)s">%(rsstitle)s</a></td><td><a href="%(rsslink)s">RSS</a></td>' % page
         if page['jsonlink']:
             html += u'<td><a href="%(jsonlink)s">JSON</a>' % page
-        html += u'</td></tr>'
+        html += u'</td></tr>\n'
     html += u'</tbody></table>\n'
 
     return html
@@ -349,18 +349,18 @@ def yandex_money_table():
     if os.path.exists(fn):
         data = json.load(open(fn, 'rb'))
         today = time.strftime('%d.%m.%Y %H:%M')
-        output = u'<table class="skel" id="yamoney">'
+        output = u'<table class="skel" id="yamoney">\n'
 
-        output += u'<tfoot>'
-        output += u'<tr><td>%s</td><td>%.2f</td><td>Всего получено</td></tr>' % (today, data['income'])
-        output += u'<tr><td>%s</td><td>%.2f</td><td>Всего потрачено</td></tr>' % (today, data['outcome'])
-        output += u'<tr><td>%s</td><td>%.2f</td><td>Текущий остаток</td></tr>' % (today, data['left'])
-        output += u'</tfoot>'
+        output += u'<tfoot>\n'
+        output += u'<tr><td>%s</td><td>%.2f</td><td>Всего получено</td></tr>\n' % (today, data['income'])
+        output += u'<tr><td>%s</td><td>%.2f</td><td>Всего потрачено</td></tr>\n' % (today, data['outcome'])
+        output += u'<tr><td>%s</td><td>%.2f</td><td>Текущий остаток</td></tr>\n' % (today, data['left'])
+        output += u'</tfoot>\n'
 
-        output += u'<tbody>'
+        output += u'<tbody>\n'
         for t in data['transactions']:
             output += u'<tr><td>%s</td><td>%.2f</td><td>%s</td></tr>\n' % tuple(t)
-        output += u'</tbody></table>'
+        output += u'</tbody></table>\n'
         return output
 
 # -----------------------------------------------------------------------------
