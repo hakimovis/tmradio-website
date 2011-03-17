@@ -328,12 +328,18 @@ def get_rss_table():
         page['rsslink'] = page.get('rsslink', page.get('name') + '.xml')
         page['jsonlink'] = page.get('jsonlink', page.get('name') + '.json')
         html += u'<tr><td><a href="%(url)s">%(rsstitle)s</a></td><td><a href="%(rsslink)s">RSS</a></td>' % page
+        html += u'<td><a href="%s">iTunes</a></td>' % itunes_link(page['rsslink'])
         if page['jsonlink']:
             html += u'<td><a href="%(jsonlink)s">JSON</a>' % page
         html += u'</td></tr>\n'
     html += u'</tbody></table>\n'
 
     return html
+
+def itunes_link(link):
+    if '://' not in link:
+        link = BASE_URL + '/' + link.lstrip('/')
+    return link.replace('http://', 'itpc://')
 
 
 def init_flattr(page):
