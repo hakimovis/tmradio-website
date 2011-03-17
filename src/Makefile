@@ -8,6 +8,11 @@ update: fetch update-money build
 	-git commit -a
 	-git push
 
+update-podcasts: fetch build
+	-git add -A
+	-git commit -am "Обновление подкастов (автомат)."
+	-git push
+
 update-money:
 	-yandex-money-history
 
