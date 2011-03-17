@@ -137,12 +137,12 @@ def pagelist(pages, limit=5, label=None, show_dates=True):
         if DISQUS_ID is not None:
             output += u' <a class="dcc" href="%s#disqus_thread">комментировать</a>' % (page.get('url'))
             # output += u' <a class="dcc" href="%s#disqus_thread" data-disqus-identifier="%s">комментировать</a>' % (page.get('url'), get_disqus_page_id(page))
-        output += u'</li>'
+        output += u'</li>\n'
 
     if output:
-        output = u'<ul class="pagelist">' + output + u'</ul>\n'
+        output = u'<ul class="pagelist">\n' + output + u'</ul>\n'
         if DISQUS_ID is not None:
-            output += u'<script type="text/javascript">var disqus_shortname = "'+ DISQUS_ID +'"; (function () { var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = "http://" + disqus_shortname + ".disqus.com/count.js"; (document.getElementsByTagName("HEAD")[0] || document.getElementsByTagName("BODY")[0]).appendChild(s); }());</script>'
+            output += u'<script type="text/javascript">var disqus_shortname = "'+ DISQUS_ID +'"; (function () { var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = "http://" + disqus_shortname + ".disqus.com/count.js"; (document.getElementsByTagName("HEAD")[0] || document.getElementsByTagName("BODY")[0]).appendChild(s); }());</script>\n'
         return output
 
     return u'Ничего нет.'

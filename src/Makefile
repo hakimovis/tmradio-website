@@ -5,7 +5,7 @@ build:
 
 update: fetch update-money build
 	-git add ..
-	-git commit -am "Web site udpdate."
+	-git commit -a
 	-git push
 
 update-money:
