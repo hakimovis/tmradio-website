@@ -332,6 +332,7 @@ def get_rss_table():
         if page['jsonlink']:
             html += u'<td><a href="%(jsonlink)s">JSON</a>' % page
         html += u'</td></tr>\n'
+    html += u'<tr><td>Всё подряд</td><td><a href="/rss.xml">RSS</a></td><td><a href="itcp://www.tmradio.net/rss.xml">iTunes</a></td><td><a href="/rss.json">JSON</a></td></tr>\n'
     html += u'</tbody></table>\n'
 
     return html
