@@ -11,7 +11,7 @@ mclass: group icon icon-rss
 Оставьте свой номер и мы заранее сообщим о предстоящем прямом эфире.  (Номера
 добавляются вручную, подтверждения не будет.)
 
-<form id="feedback" method="post" action="https://dead-channel-news.appspot.com/feedback">
+<form method="post" action="https://dead-channel-news.appspot.com/feedback">
 <input type="hidden" name="back" value="http://www.tmradio.net/sms.html"/>
 <input type="hidden" name="site" value="tmradio.net/live"/>
 <input type="hidden" name="from" value="live@tmradio.net"/>
@@ -22,7 +22,7 @@ mclass: group icon icon-rss
 ## <a href="/subscription.html#rss" name="rss">RSS-ленты и подкасты</a>
 
 Если вы не знакомы с технологией RSS — [познакомьтесь](http://orss.ru/),
-сэкономите кучу времени.
+сэкономите себе кучу времени.
 
 {{ get_rss_table() }}
 

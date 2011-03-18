@@ -27,7 +27,8 @@
         <h1>{{ page.get('title') }}</h1>
         {{ page_meta(page) }}
         {{ __content__ }}
-        {{ print_player(page) }}
+        {{ print_player(page.get('file', '')) }}
+        {{ add_comments(page) }}
         <div id="footer">
           <div id="columns">
             <ul>

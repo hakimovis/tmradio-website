@@ -75,23 +75,6 @@ h2 a:hover {
   background-image: url(images/rss.png);
 }
 
-#player {
-  border: 1px solid #cccccc;
-  border-radius: 4px;
-  padding: 2px;
-  width: 30px;
-  height: 30px;
-}
-
-#player.right {
-  margin-left: 1em;
-}
-
-#player.left {
-  float: left;
-  margin-right: 1em;
-}
-
 #wrapper {
   width: 800px;
   margin: 0 auto;

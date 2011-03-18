@@ -112,17 +112,20 @@ def page_meta(page):
         return u''
     return u'<p class="meta">%s</p>' % u'; '.join(parts)
 
-def pagelist(pages, limit=5, label=None, show_dates=True):
+def pagelist(pages, limit=None, label='blog', show_dates=True):
     output = u''
-    pages = [page for page in pages if 'date' in page]
-    if label is not None:
-        pages = [page for page in pages if page.has_key('labels') and label in get_post_labels(page)]
-    else:
-        pages = [page for page in pages if page.url.startswith('blog.')]
-    pages.sort(key=lambda p: p.get('date'), reverse=True)
-    if limit is not None:
-        pages = pages[:limit]
 
+    def is_ok(page):
+        labels = get_post_labels(page)
+        if not page.get('date'):
+            return False
+        if 'draft' in labels:
+            return False
+        if label not in labels:
+            return False
+        return True
+
+    pages = sorted([page for page in pages if is_ok(page)], key=lambda p: p.get('date'), reverse=True)[:limit]
     authors = list(set([p.get('author') for p in pages if p.get('author')]))
     show_author = len(authors) > 2
 
@@ -184,12 +187,12 @@ def add_comments(page):
         return u'<div id="disqus_thread"></div><script type="text/javascript">if (window.location.href.indexOf("http://localhost:") == 0) var disqus_developer = 1;'+ settings +' (function() { var dsq = document.createElement(\'script\'); dsq.type = \'text/javascript\'; dsq.async = true; dsq.src = \'http://tmradio.disqus.com/embed.js\'; (document.getElementsByTagName(\'head\')[0] || document.getElementsByTagName(\'body\')[0]).appendChild(dsq); })();</script><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=tmradio">comments powered by Disqus.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>'
     return ''
 
-def print_player(page):
+def print_player(link, extras=True):
     extra = u''
-    link = page.get('file', '')
     if link.endswith('.mp3'):
-        extra = u'<p>Слушать выпуск:</p><div id="player"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="37" id="swf"><param name="movie" value="niftyplayer.swf?file='+ urllib.quote(link) +'"><param name="quality" value="high"/><param name="bgcolor" value="#FFFFFF"/><embed src="niftyplayer.swf?file='+ urllib.quote(link) +'" quality="high" bgcolor="#FFFFFF" width="165" height="37" name="swf" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object></div>'
-        extra += u'<p><a href="%s">Скачать выпуск</a></p>' % escape(link)
+        if extras:
+            extra += u'<p>Выпуск можно <a href="%s">скачать</a> или прослушать прямо здесь:</p>' % escape(link)
+        extra += u'<div id="player"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="37" id="swf"><param name="movie" value="/niftyplayer.swf?file='+ urllib.quote(link) +'"><param name="quality" value="high"/><param name="bgcolor" value="#FFFFFF"/><embed src="/niftyplayer.swf?file='+ urllib.quote(link) +'" quality="high" bgcolor="#FFFFFF" width="165" height="37" name="swf" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object></div>'
     extra += add_comments(page)
     return extra
 
