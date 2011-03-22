@@ -13,6 +13,16 @@ update-podcasts: fetch build
 	-git commit -am "Обновление подкастов (автомат)."
 	-git push
 
+update-map: fetch build
+	-git add -A
+	-git commit -am "Обновление карты (автомат)."
+	-git push
+
+autoupdate: fetch build
+	-git add -A
+	-git commit -am "Обновление сайта (автомат)."
+	-git push
+
 update-money:
 	-yandex-money-history
 
