@@ -1,5 +1,5 @@
 title: Голосовая почта
-rsstitle: Все входящие сообщения
+rsstitle: Горячая линия
 rsslink: http://files.tmradio.net/voicemail/rss.xml
 jsonlink:
 mpos: 91
