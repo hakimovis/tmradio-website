@@ -1,8 +1,10 @@
 function show_map() {
 	try {
-		var bounds = new google.maps.LatLngBounds(new google.maps.LatLng(map_data.bounds.latmin, map_data.bounds.lonmin), new google.maps.LatLng(map_data.bounds.latmax, map_data.bounds.lonmax));
+		var sw = new google.maps.LatLng(map_data.bounds[0], map_data.bounds[2]);
+		var ne = new google.maps.LatLng(map_data.bounds[1], map_data.bounds[3]);
+		var bounds = new google.maps.LatLngBounds(sw, ne);
 		var map = new google.maps.Map(document.getElementById("map_canvas"), {
-			zoom: 4,
+			zoom: 2,
 			center: bounds.getCenter(),
 			mapTypeId: google.maps.MapTypeId.ROADMAP, // HYBRID,
 			mapTypeControlOptions: { style: google.maps.MapTypeControlStyle.DROPDOWN_MENU }
@@ -55,7 +57,7 @@ function show_map() {
 			});
 
 			google.maps.event.addListener(marker, 'click', function() {
-				iw.setContent("<div class='pos'><p class='name'><a href='"+ s.url +"' target='_blank'>"+ s.artist +"</a> ("+ s.date +")</p></div>");
+				iw.setContent("<div class='pos'>"+ s.html +"</div>");
 				iw.open(map, marker);
 			});
 		}

@@ -216,23 +216,6 @@ def hook_preconvert_ccss():
 # generate rss feed
 # -----------------------------------------------------------------------------
 
-_RSS = u"""<?xml version="1.0"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<atom:link href="http://dallas.example.com/rss.xml" rel="self" type="application/rss+xml"/>
-<title>%s</title>
-<link>%s</link>
-<description>%s</description>
-<language>ru-RU</language>
-<pubDate>%s</pubDate>
-<lastBuildDate>%s</lastBuildDate>
-<docs>http://blogs.law.harvard.edu/tech/rss</docs>
-<generator>Poole</generator>
-%s
-</channel>
-</rss>
-"""
-
 def write_rss(pages, title, description, label=None):
     base = BASE_URL
 
