@@ -25,3 +25,4 @@ stream.tmradio.net` (Windows, запускать в терминале (Win+R, c
 [sm]: /sms.html
 [pc]: /podcast.html
 [zz]: http://files.tmradio.net/test.dat
+[fb]: /feedback.html
