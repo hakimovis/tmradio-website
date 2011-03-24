@@ -2,9 +2,9 @@ all: build
 
 build:
 	python poole.py --build
+	-git add ..
 
 update: fetch update-money build
-	-git add ..
 	-git commit -a
 	-git push
 

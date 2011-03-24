@@ -8,8 +8,20 @@
 <title>Тоже мне радио: dugwin</title>
 <description>Страницы сайта Тоже мне радио с пометкой «dugwin».</description>
 <link>http://www.tmradio.net/dugwin.html</link>
-<pubDate>Thu, 24 Mar 2011 18:00:00 -0000</pubDate>
-<lastBuildDate>Thu, 24 Mar 2011 18:00:00 -0000</lastBuildDate>
+<pubDate>Thu, 24 Mar 2011 20:00:00 -0000</pubDate>
+<lastBuildDate>Thu, 24 Mar 2011 20:00:00 -0000</lastBuildDate>
+<item>
+	<title>Гиковский выпуск №1</title>
+	<link>http://www.tmradio.net/geek/01.html</link>
+	<description>&lt;p&gt;Рассказ о внутреннем устройстве tmradio и некоторые другие гиковские штуки.&lt;/p&gt;</description>
+	<pubDate>Thu, 24 Mar 2011 20:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/geek/01.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/geek/geek-01.mp3" type="audio/mpeg" length="16725216"/>
+	<category>dugwin</category>
+	<category>podcast</category>
+	<category>umonkey</category>
+	<author>info@tmradio.net (anonymous)</author>
+</item>
 <item>
 	<title>Эфир ТСН от 24.03.2011</title>
 	<link>http://www.tmradio.net/sosonews-17.html</link>
