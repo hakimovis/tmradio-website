@@ -5,7 +5,8 @@ mpos: 1
 «Тоже мне радио».  Станция вещает круглые сутки [свободную музыку][music],
 [новости][news] и [подкасты][pc], иногда прерываясь на прямые эфиры и
 специальные программы (всё доступно [в записи][sub]).  Работает в автономном
-режиме, управляется в основном [роботами][robots].
+режиме, управляется в основном [роботами][robots].  Работа над станцией
+координируется в [публичном трекере][gc].
 
 [Горячая линия](voicemail.html): **+7 911 700 3831**.
 
@@ -29,8 +30,9 @@ mpos: 1
 [listen]: http://stream.tmradio.net:8180/live.mp3.m3u
 [log]: http://files.tmradio.net/listeners.csv
 [news]: http://echo.msk.ru/news/
-[open]: /open.html
-[pc]: /podcast.html
-[music]: /music.html
-[robots]: /robots.html
-[sub]: /subscription.html
+[open]: open.html
+[pc]: podcast.html
+[music]: music.html
+[robots]: robots.html
+[sub]: subscription.html
+[gc]: tracker.html
