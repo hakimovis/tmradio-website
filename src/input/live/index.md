@@ -29,6 +29,6 @@ mpos: 3
 [chat]: /chat.html
 [offtopic]: http://offtopic.rpod.ru/
 [rasp]: /schedule.html
-[sms]: /sms.html
+[sms]: /live/sms/
 [ssn]: /programs/tsn/
 [tms]: skype:tmradio.net?userinfo

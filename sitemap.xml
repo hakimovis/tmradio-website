@@ -97,6 +97,9 @@
 	<loc>http://www.tmradio.net/live/</loc>
 </url>
 <url>
+	<loc>http://www.tmradio.net/live/sms/</loc>
+</url>
+<url>
 	<loc>http://www.tmradio.net/mcast/hakimovis-20110211000000.html</loc>
 	<lastmod>2011-02-11</lastmod>
 </url>
@@ -270,9 +273,6 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/sitemap.html</loc>
-</url>
-<url>
-	<loc>http://www.tmradio.net/sms.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/support.html</loc>

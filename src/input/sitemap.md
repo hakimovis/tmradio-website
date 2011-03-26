@@ -20,7 +20,7 @@ title: Карта сайта
 - [Слушателям](listeners.html)
     - [Слушать радио](player.html)
     - [Подписка на обновления](/rss/)
-    - [SMS-рассылка](sms.html)
+    - [SMS-рассылка](/live/sms/)
     - [Горячая линия](/hotline/)
 - [Сотрудничество](collaborate.html)
     - [Музыкантам](artists.html)

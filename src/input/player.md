@@ -22,7 +22,7 @@ stream.tmradio.net` (Windows, запускать в терминале (Win+R, c
 [cl]: http://app.tmradio.net/
 [li]: /live/
 [ch]: /chat.html
-[sm]: /sms.html
+[sm]: /live/sms/
 [pc]: /podcast/
 [zz]: http://files.tmradio.net/test.dat
 [fb]: /feedback.html
