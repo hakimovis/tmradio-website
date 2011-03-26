@@ -100,9 +100,6 @@
 	<loc>http://www.tmradio.net/live.html</loc>
 </url>
 <url>
-	<loc>http://www.tmradio.net/mcast.html</loc>
-</url>
-<url>
 	<loc>http://www.tmradio.net/mcast/hakimovis-20110211000000.html</loc>
 	<lastmod>2011-02-11</lastmod>
 </url>
@@ -181,6 +178,9 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/programs/index.html</loc>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/index.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/programs/prokino/index.html</loc>

@@ -1,4 +1,4 @@
-title: Микроподкастинг
+title: Микроподкасты
 rss: mcast
 rsstitle: Все микроподкасты
 labels: programs
