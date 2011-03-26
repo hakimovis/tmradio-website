@@ -1,6 +1,6 @@
 title: Эфир ТСН от 06.01.2011
 date: 2011-01-06 21:00
-file: http://files.tmradio.net/sosonews-06.mp3
+file: http://files.tmradio.net/audio/sosonews/sosonews-06.mp3
 filesize: 50361437
 labels: umonkey, dugwin, news, podcast, Онищенко, гибель животных, ТУ-154
 ---
@@ -17,4 +17,4 @@ labels: umonkey, dugwin, news, podcast, Онищенко, гибель живо�
 <li><a href="http://rian.ru/incidents/20110101/316269490.html">В Сургуте сгорел ТУ-154</a></li>
 </ul>
 
-![статистика](http://files.tmradio.net/sosonews-06.png)
+![статистика](http://files.tmradio.net/audio/sosonews/sosonews-06.png)

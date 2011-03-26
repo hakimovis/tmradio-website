@@ -1,6 +1,6 @@
 title: Эфир ТСН от 27.01.2011
 date: 2011-01-27 21:00
-file: http://files.tmradio.net/sosonews-09.mp3
+file: http://files.tmradio.net/audio/sosonews/sosonews-09.mp3
 filesize: 42900030
 labels: umonkey, dugwin, news, podcast, Домодедово, Иванов, Давос, Медведев, Дворкович, Кавказ, США, биологическое оружие, Чичваркин, Хлопонин, переселение, Наши
 ---

@@ -1,9 +1,9 @@
 title: Эфир ТСН от 17.02.2011
 date: 2011-02-17 21:00
-file: http://files.tmradio.net/sosonews-12.mp3
+file: http://files.tmradio.net/audio/sosonews/sosonews-12.mp3
 filesize: 54657867
 labels: umonkey, dugwin, news, podcast, Мубарак, полиция, ГНК, лекарства, эвакуация, такси, Латынина, Батурина, Собянин, курение, запрет
-disqus_id: http://www.tmradio.net/sosonews-12.html
+disqus_id: http://www.tmradio.net/audio/sosonews/sosonews-12.html
 ---
 Основные темы:
 
@@ -22,4 +22,4 @@ disqus_id: http://www.tmradio.net/sosonews-12.html
 <li><a href="http://www.businessinsider.com/chart-of-the-day-music-industry-sales-2011-2">CHART OF THE DAY: The Death Of The Music Industry</a></li>
 </ul>
 
-![статистика](http://files.tmradio.net/sosonews-12.png)
+![статистика](http://files.tmradio.net/audio/sosonews/sosonews-12.png)

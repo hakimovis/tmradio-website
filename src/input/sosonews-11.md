@@ -1,6 +1,6 @@
 title: Эфир ТСН от 10.02.2011
 date: 2011-02-10 21:00
-file: http://files.tmradio.net/sosonews-11.mp3
+file: http://files.tmradio.net/audio/sosonews/sosonews-11.mp3
 filesize: 70703182
 labels: umonkey, dugwin, news, podcast, Медведев, время, Курилы, Фурсенко, образование, Грипп, ГУВД, США, телевидение, ГИБДД, Гондурас, Сколково, Грузия
 ---
@@ -26,5 +26,5 @@ labels: umonkey, dugwin, news, podcast, Медведев, время, Курил
 <li><a href="http://www.cnews.ru/news/top/index.shtml?2011/01/26/424834">Аналоговые телевизоры в России запретят уже в 2011 г.</a></li>
 </ul>
 
-![статистика](http://files.tmradio.net/sosonews-11.png)
+![статистика](http://files.tmradio.net/audio/sosonews/sosonews-11.png)
 

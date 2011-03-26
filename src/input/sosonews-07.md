@@ -1,6 +1,6 @@
 title: Эфир ТСН от 13.01.2011
 date: 2011-01-13 21:00
-file: http://files.tmradio.net/sosonews-07.mp3
+file: http://files.tmradio.net/audio/sosonews/sosonews-07.mp3
 filesize: 42230837
 labels: umonkey, dugwin, news, podcast, Мавроди, МММ, Хазин, Алексеева, Китай, Сарычев, налоги, Гиффордс, Тусон
 ---
@@ -17,6 +17,6 @@ labels: umonkey, dugwin, news, podcast, Мавроди, МММ, Хазин, Ал
 <li><a href="http://txt.newsru.com/world/09jan2011/ariz.html">В Тусоне подстрелена конгрессвумен Габриэль ГИФФОРДС</a></li>
 </ul>
 
-[Лог чата](http://files.tmradio.net/sosonews-07.log)
+[Лог чата](http://files.tmradio.net/audio/sosonews/sosonews-07.log)
 
-![статистика](http://files.tmradio.net/sosonews-07.png)
+![статистика](http://files.tmradio.net/audio/sosonews/sosonews-07.png)

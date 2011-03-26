@@ -1,6 +1,6 @@
 title: Эфир ТСН от 16.12.2010
 date: 2010-12-16 21:00
-file: http://files.tmradio.net/sosonews-03.mp3
+file: http://files.tmradio.net/audio/sosonews/sosonews-03.mp3
 filesize: 38192982
 labels: umonkey, dugwin, news, podcast Путин, Ходорковский, Нургалиев, Варламов, Манежная площадь, Лекарев, Иванов, золото, космос, Прохоров, образование
 ---
