@@ -70,6 +70,9 @@
 	<loc>http://www.tmradio.net/guests/hakimovis/index.html</loc>
 </url>
 <url>
+	<loc>http://www.tmradio.net/guests/index.html</loc>
+</url>
+<url>
 	<loc>http://www.tmradio.net/guests/nikonor/index.html</loc>
 </url>
 <url>
@@ -159,9 +162,6 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/open.html</loc>
-</url>
-<url>
-	<loc>http://www.tmradio.net/people.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/player.html</loc>

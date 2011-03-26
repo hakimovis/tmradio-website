@@ -7,7 +7,7 @@ title: Карта сайта
     - [Наши принципы](open.html)
     - [Сетка вещания](schedule.html)
     - [Прямые эфиры](live.html)
-    - [Гости](people.html)
+    - [Гости](/guests/)
     - [Музыка](music.html)
     - [Блог](blog.html)
     - [Обратная связь](feedback.html)

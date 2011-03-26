@@ -15,7 +15,7 @@ import urlparse
 
 BASE_URL = 'http://www.tmradio.net'
 DISQUS_ID = 'tmradio'
-LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты', 'prokino': u'про кино', 'mcast': u'микроподкасты', 'daily': u'новость дня' }
+LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты', 'prokino': u'про кино', 'mcast': u'микроподкасты', 'daily': u'новость дня', 'guests': u'гости' }
 LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md', 'input/guests/%s/index.md')
 
 def get_post_labels(post):
@@ -34,10 +34,7 @@ def get_label_url(label):
     for pattern in LABEL_PAGES:
         fn = pattern % label
         if os.path.exists(fn):
-            url = '/' + os.path.splitext(fn)[0].split('/', 1)[1] + '.html'
-            if url.endswith('/index.html'):
-                url = url[:-10]
-            return url
+            return strip_index('/' + os.path.splitext(fn)[0].split('/', 1)[1] + '.html')
 
 def get_label_link(label):
     text = label
@@ -67,6 +64,11 @@ def get_label_stats(posts):
 def init_comments(page):
     if DISQUS_ID is not None:
         return u'<script type="text/javascript">var disqus_url = "'+ BASE_URL + '/' + page.get('url') +'";</script>'
+
+def strip_index(url):
+    if url.endswith('/index.html'):
+        url = url[:-10]
+    return url
 
 def parse_date_time(text, as_float=True):
     """Преобразует дату-время из текста в структуру.
@@ -116,38 +118,41 @@ def page_meta(page):
         for label in get_post_labels(page):
             if stats.has_key(label):
                 labels.append(get_label_link(label))
-        parts.append(u'метки: ' + u', '.join(labels))
+        if labels:
+            parts.append(u'метки: ' + u', '.join(labels))
 
     if not parts:
         return u''
     return u'<p class="meta">%s</p>' % u'; '.join(parts)
 
-def pagelist(pages, limit=None, label='blog', show_dates=True):
+def pagelist(pages, limit=None, label='blog', show_dates=True, order_by='date', reverse_order=True, show_comments=True):
     output = u''
 
     def is_ok(page):
         labels = get_post_labels(page)
+        """
         if not page.get('date'):
             return False
+        """
         if 'draft' in labels:
             return False
         if label not in labels:
             return False
         return True
 
-    pages = sorted([page for page in pages if is_ok(page)], key=lambda p: p.get('date'), reverse=True)[:limit]
+    pages = sorted([page for page in pages if is_ok(page)], key=lambda p: p.get(order_by), reverse=reverse_order)[:limit]
     authors = list(set([p.get('author') for p in pages if p.get('author')]))
     show_author = len(authors) > 2
 
     for page in pages:
-        output += u'<li><a href="%s">%s</a>' % (page.get('url'), page.get('title'))
+        output += u'<li><a href="%s">%s</a>' % (strip_index(page.get('url')), page.get('title'))
         if show_author:
             output += u' (%s)' % get_page_author(page)[1]
         if limit is None and show_dates:
             date = page.date + ' 00:00'
             date = datetime.datetime.strptime(date[:16], '%Y-%m-%d %H:%M').strftime('%d.%m.%Y')
             output += u' <span class="date">%s</span>' % date
-        if DISQUS_ID is not None:
+        if DISQUS_ID is not None and show_comments:
             output += u' <a class="dcc" href="%s#disqus_thread">комментировать</a>' % (page.get('url'))
             # output += u' <a class="dcc" href="%s#disqus_thread" data-disqus-identifier="%s">комментировать</a>' % (page.get('url'), get_disqus_page_id(page))
         output += u'</li>\n'
@@ -337,9 +342,7 @@ def get_rss_table():
             continue
         page['rsslink'] = page.get('rsslink', page.get('name') + '.xml')
         page['jsonlink'] = page.get('jsonlink', page.get('name') + '.json')
-        page['page_url'] = page.get('url')
-        if page['page_url'].endswith('index.html'):
-            page['page_url'] = page['page_url'][:-10]
+        page['page_url'] = strip_index(page.get('url'))
         html += u'<tr><td><a href="%(page_url)s">%(rsstitle)s</a></td><td><a href="%(rsslink)s">RSS</a></td>' % page
         html += u'<td><a href="%s">iTunes</a></td>' % itunes_link(page['rsslink'])
         if page['jsonlink']:
@@ -388,6 +391,10 @@ def yandex_money_table():
 # -----------------------------------------------------------------------------
 # generate the site map
 # -----------------------------------------------------------------------------
+
+def XXX_once_dump_labels():
+    for p in pages:
+        print p.get('url'), get_post_labels(p)
 
 def once_sitemap():
     """Generate Google sitemap.xml file."""

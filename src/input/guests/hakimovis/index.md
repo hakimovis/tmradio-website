@@ -1,6 +1,7 @@
 title: Хакимов Ирик
 rss: hakimovis
 rsstitle: Гости: Хакимов Ирик
+labels: guests
 ---
 ![hakimovis](/guests/hakimovis/photo.jpg)
 
