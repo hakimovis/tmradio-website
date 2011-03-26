@@ -8,8 +8,22 @@
 <title>Тоже мне радио: prokino</title>
 <description>Страницы сайта Тоже мне радио с пометкой «prokino».</description>
 <link>http://www.tmradio.net/programs/prokino/</link>
-<pubDate>Tue, 15 Mar 2011 16:38:00 -0000</pubDate>
-<lastBuildDate>Tue, 15 Mar 2011 16:38:00 -0000</lastBuildDate>
+<pubDate>Wed, 16 Mar 2011 18:00:00 -0000</pubDate>
+<lastBuildDate>Wed, 16 Mar 2011 18:00:00 -0000</lastBuildDate>
+<item>
+	<title>О фильме «Трон: наследие» [10/10]</title>
+	<link>http://www.tmradio.net/mcast/umonkey-20110316210000.html</link>
+	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/tron-2-movie.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Wed, 16 Mar 2011 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/umonkey-20110316210000.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/tron-legacy.mp3" type="audio/mpeg" length="3935853"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<category>umonkey</category>
+	<author>info@tmradio.net (Хекс)</author>
+</item>
 <item>
 	<title>Рецензия на сериал «Щит»</title>
 	<link>http://www.tmradio.net/mcast/sckrat-shield.html</link>
@@ -61,6 +75,48 @@
 	<category>podcast</category>
 	<category>prokino</category>
 	<author>info@tmradio.net (hakimovis)</author>
+</item>
+<item>
+	<title>Пятиминутка ненависти: коммунизм</title>
+	<link>http://www.tmradio.net/mcast/umonkey-20110206210000.html</link>
+	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/hate-communism.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Sun, 06 Feb 2011 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/umonkey-20110206210000.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/hate/communism.mp3" type="audio/mpeg" length="1"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<category>umonkey</category>
+	<author>info@tmradio.net (Хекс)</author>
+</item>
+<item>
+	<title>Обзор сериала «Теория большого взрыва»</title>
+	<link>http://www.tmradio.net/mcast/umonkey-20110205210000.html</link>
+	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/bbt-sitcom-review.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Sat, 05 Feb 2011 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/umonkey-20110205210000.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/big-bang-theory.mp3" type="audio/mpeg" length="1"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<category>umonkey</category>
+	<author>info@tmradio.net (Хекс)</author>
+</item>
+<item>
+	<title>О фильме «Здравозахоронение» [8/10]</title>
+	<link>http://www.tmradio.net/mcast/umonkey-20100420200000.html</link>
+	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/sicko-movie.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Tue, 20 Apr 2010 16:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/umonkey-20100420200000.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/sicko.mp3" type="audio/mpeg" length="4851336"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<category>umonkey</category>
+	<author>info@tmradio.net (Хекс)</author>
 </item>
 </channel>
 </rss>
