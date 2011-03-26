@@ -32,7 +32,7 @@ mpos: 1
 [log]: http://files.tmradio.net/listeners.csv
 [news]: http://echo.msk.ru/news/
 [open]: open.html
-[pc]: podcast.html
+[pc]: /podcast/
 [music]: /music/
 [robots]: robots.html
 [sub]: subscription.html

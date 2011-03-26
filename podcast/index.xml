@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<atom:link href="http://www.tmradio.net/podcast.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="http://www.tmradio.net/podcast/index.xml" rel="self" type="application/rss+xml"/>
 <language>ru-RU</language>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>Poole</generator>
 <title>Тоже мне радио: podcast</title>
 <description>Страницы сайта Тоже мне радио с пометкой «podcast».</description>
-<link>http://www.tmradio.net/podcast.html</link>
+<link>http://www.tmradio.net/podcast/</link>
 <pubDate>Thu, 24 Mar 2011 20:00:00 -0000</pubDate>
 <lastBuildDate>Thu, 24 Mar 2011 20:00:00 -0000</lastBuildDate>
 <item>

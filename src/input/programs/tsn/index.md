@@ -13,7 +13,7 @@ labels: programs
 [Дуг]: /guests/dugwin/
 [Хекс]: /guests/umonkey
 [live]: /live.html
-[podcast]: /podcast.html
+[podcast]: /podcast/
 
 
 ## Архив выпусков
