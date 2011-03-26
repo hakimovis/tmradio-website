@@ -5,7 +5,7 @@ rsstitle: Гости: Dugwin J. Goines
 Программный директор «Тоже мне радио», подкастер, системный аналитик. 
 Постоянный участник «[Так себе новостей](/news.html)».
 
-![nikonor](dugwin.jpg)
+![nikonor](/guests/dugwin/photo.jpg)
 
 Ссылки:
 

@@ -2,7 +2,7 @@ title: Хакимов Ирик
 rss: hakimovis
 rsstitle: Гости: Хакимов Ирик
 ---
-![hakimovis](hakimovis.jpg)
+![hakimovis](/guests/hakimovis/photo.jpg)
 
 - [twitter.com/hakimovis](http://twitter.com/hakimovis)
 

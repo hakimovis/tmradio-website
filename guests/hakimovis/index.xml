@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<atom:link href="http://www.tmradio.net/hakimovis.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="http://www.tmradio.net/guests/hakimovis/index.xml" rel="self" type="application/rss+xml"/>
 <language>ru-RU</language>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>Poole</generator>
 <title>Тоже мне радио: hakimovis</title>
 <description>Страницы сайта Тоже мне радио с пометкой «hakimovis».</description>
-<link>http://www.tmradio.net/hakimovis.html</link>
+<link>http://www.tmradio.net/guests/hakimovis/</link>
 <pubDate>Thu, 17 Mar 2011 18:00:00 -0000</pubDate>
 <lastBuildDate>Thu, 17 Mar 2011 18:00:00 -0000</lastBuildDate>
 <item>

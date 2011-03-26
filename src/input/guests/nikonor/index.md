@@ -2,7 +2,7 @@ title: Николаев Леонид
 rss: nikonor
 rsstitle: Гости: Николаев Леонид
 ---
-![nikonor](nikonor.jpg)
+![nikonor](/guests/nikonor/photo.jpg)
 
 - [twitter.com/nikonor](http://twitter.com/nikonor)
 

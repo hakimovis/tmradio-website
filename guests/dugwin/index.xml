@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<atom:link href="http://www.tmradio.net/umonkey.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="http://www.tmradio.net/guests/dugwin/index.xml" rel="self" type="application/rss+xml"/>
 <language>ru-RU</language>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>Poole</generator>
-<title>Тоже мне радио: umonkey</title>
-<description>Страницы сайта Тоже мне радио с пометкой «umonkey».</description>
-<link>http://www.tmradio.net/umonkey.html</link>
+<title>Тоже мне радио: dugwin</title>
+<description>Страницы сайта Тоже мне радио с пометкой «dugwin».</description>
+<link>http://www.tmradio.net/guests/dugwin/</link>
 <pubDate>Thu, 24 Mar 2011 20:00:00 -0000</pubDate>
 <lastBuildDate>Thu, 24 Mar 2011 20:00:00 -0000</lastBuildDate>
 <item>
@@ -160,20 +160,6 @@
 	<category>землетрясение</category>
 	<category>туберкулёз</category>
 	<author>info@tmradio.net (anonymous)</author>
-</item>
-<item>
-	<title>О фильме «Трон: наследие» [10/10]</title>
-	<link>http://www.tmradio.net/mcast/umonkey-20110317090000.html</link>
-	<description>&lt;p&gt;Подробное описание можно найти на &lt;a href="http://umonkey.net/tron-2-movie.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
-	<pubDate>Thu, 17 Mar 2011 06:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/mcast/umonkey-20110317090000.html</guid>
-	<enclosure url="http://files.umonkey.net/audio/mcast/movies/tron-legacy.mp3" type="audio/mpeg" length="3935853"/>
-	<category>mcast</category>
-	<category>movie-reviews</category>
-	<category>podcast</category>
-	<category>prokino</category>
-	<category>umonkey</category>
-	<author>info@tmradio.net (Хекс)</author>
 </item>
 <item>
 	<title>Эфир ТСН от 10.03.2011</title>
@@ -424,32 +410,6 @@
 	<category>образование</category>
 	<category>телевидение</category>
 	<author>info@tmradio.net (anonymous)</author>
-</item>
-<item>
-	<title>Пятиминутка ненависти: коммунизм</title>
-	<link>http://www.tmradio.net/mcast/umonkey-20110207090000.html</link>
-	<description>&lt;p&gt;О людях, которые критикуют коммунизм, ничего о нём не зная.&lt;/p&gt;</description>
-	<pubDate>Mon, 07 Feb 2011 06:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/mcast/umonkey-20110207090000.html</guid>
-	<enclosure url="http://files.umonkey.net/audio/mcast/hate/communism.mp3" type="audio/mpeg" length="1734692"/>
-	<category>mcast</category>
-	<category>movie-reviews</category>
-	<category>podcast</category>
-	<category>umonkey</category>
-	<author>info@tmradio.net (Хекс)</author>
-</item>
-<item>
-	<title>Обзор сериала «Теория большого взрыва»</title>
-	<link>http://www.tmradio.net/mcast/umonkey-20110206090000.html</link>
-	<description>&lt;p&gt;Рецензия на сериал «Теория большого взрыва», сравнение с «Друзьями».&lt;/p&gt;</description>
-	<pubDate>Sun, 06 Feb 2011 06:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/mcast/umonkey-20110206090000.html</guid>
-	<enclosure url="http://files.umonkey.net/audio/mcast/movies/big-bang-theory.mp3" type="audio/mpeg" length="2100616"/>
-	<category>mcast</category>
-	<category>movie-reviews</category>
-	<category>podcast</category>
-	<category>umonkey</category>
-	<author>info@tmradio.net (Хекс)</author>
 </item>
 <item>
 	<title>Эфир ТСН от 03.02.2011</title>
@@ -732,33 +692,6 @@
 	<author>info@tmradio.net (anonymous)</author>
 </item>
 <item>
-	<title>Новость дня за 15.12.2010</title>
-	<link>http://www.tmradio.net/programs/daily/20101215/index.html</link>
-	<description>&lt;p&gt;Ливийский лидер Муамар Каддафи высказался за создание в Африке единой армии и
-общего правительства.  Это позволит, &lt;a href="http://www.vz.ru/news/2010/12/15/454859.html"&gt;цитирую газету Взгляд&lt;/a&gt;, «сделать
-континент сплочённее и придать смысл битвам и жертвам, принесённым африканцами
-на протяжении их истории».  Каддафи заявил, что если Африка не объединится, она
-окажется в рабском или крепостном положении.  Армии отдельных африканских стран
-сами по себе не могут быть жизнеспособными, но единая африканская армия, в
-которую можно набрать до миллиона солдат, будет устрашающей силой.&lt;/p&gt;
-&lt;p&gt;Его поддержал президент Сенегала Абдулай Вад.  Он потребовал создания
-Соединённых Штатов Африки для превращения её в большое культурное,
-экономическое и политическое пространство, которое будут уважать.&lt;/p&gt;</description>
-	<pubDate>Wed, 15 Dec 2010 12:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/programs/daily/20101215/index.html</guid>
-	<enclosure url="http://files.tmradio.net/audio/news/20101215-kaddafi.mp3" type="audio/mpeg" length="750434"/>
-	<category>daily</category>
-	<category>mcast</category>
-	<category>podcast</category>
-	<category>umonkey</category>
-	<category>Африка</category>
-	<category>Каддафи</category>
-	<category>Сенегал</category>
-	<category>армия</category>
-	<category>объединение</category>
-	<author>hex@umonkey.net (Хекс)</author>
-</item>
-<item>
 	<title>Эфир ТСН от 09.12.2010</title>
 	<link>http://www.tmradio.net/sosonews-02.html</link>
 	<description>&lt;ul&gt;
@@ -818,20 +751,6 @@
 	<category>визовый режим</category>
 	<category>пенсионеры</category>
 	<author>info@tmradio.net (anonymous)</author>
-</item>
-<item>
-	<title>О фильме «Здравозахоронение» [8/10]</title>
-	<link>http://www.tmradio.net/mcast/umonkey-20100421080000.html</link>
-	<description>&lt;p&gt;Подробное описание можно найти на &lt;a href="http://umonkey.net/sicko-movie.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
-	<pubDate>Wed, 21 Apr 2010 04:00:00 -0000</pubDate>
-	<guid>http://www.tmradio.net/mcast/umonkey-20100421080000.html</guid>
-	<enclosure url="http://files.umonkey.net/audio/mcast/movies/sicko.mp3" type="audio/mpeg" length="4851336"/>
-	<category>mcast</category>
-	<category>movie-reviews</category>
-	<category>podcast</category>
-	<category>prokino</category>
-	<category>umonkey</category>
-	<author>info@tmradio.net (Хекс)</author>
 </item>
 </channel>
 </rss>

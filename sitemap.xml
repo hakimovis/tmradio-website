@@ -48,9 +48,6 @@
 	<loc>http://www.tmradio.net/collaborate.html</loc>
 </url>
 <url>
-	<loc>http://www.tmradio.net/dugwin.html</loc>
-</url>
-<url>
 	<loc>http://www.tmradio.net/english.html</loc>
 </url>
 <url>
@@ -64,7 +61,19 @@
 	<loc>http://www.tmradio.net/graph.html</loc>
 </url>
 <url>
-	<loc>http://www.tmradio.net/hakimovis.html</loc>
+	<loc>http://www.tmradio.net/guests/dugwin/index.html</loc>
+</url>
+<url>
+	<loc>http://www.tmradio.net/guests/hakimovis/index.html</loc>
+</url>
+<url>
+	<loc>http://www.tmradio.net/guests/nikonor/index.html</loc>
+</url>
+<url>
+	<loc>http://www.tmradio.net/guests/sckrat/index.html</loc>
+</url>
+<url>
+	<loc>http://www.tmradio.net/guests/umonkey/index.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/index.html</loc>
@@ -143,9 +152,6 @@
 	<loc>http://www.tmradio.net/news.html</loc>
 </url>
 <url>
-	<loc>http://www.tmradio.net/nikonor.html</loc>
-</url>
-<url>
 	<loc>http://www.tmradio.net/open.html</loc>
 </url>
 <url>
@@ -181,9 +187,6 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/schedule.html</loc>
-</url>
-<url>
-	<loc>http://www.tmradio.net/sckrat.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/setup.html</loc>
@@ -270,9 +273,6 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/tracker.html</loc>
-</url>
-<url>
-	<loc>http://www.tmradio.net/umonkey.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/voicemail.html</loc>
