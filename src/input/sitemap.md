@@ -12,7 +12,7 @@ title: Карта сайта
     - [Блог](/blog/)
     - [Обратная связь](feedback.html)
         - [Книга жалоб и предложений](tracker.html)
-- [Программы](schedule.html):
+- [Программы](/programs/):
     - [Так себе новости](news.html)
     - [Про кино](programs/prokino/)
     - [Архив новостей](programs/daily/)

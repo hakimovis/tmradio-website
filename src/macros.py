@@ -15,7 +15,15 @@ import urlparse
 
 BASE_URL = 'http://www.tmradio.net'
 DISQUS_ID = 'tmradio'
-LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты', 'prokino': u'про кино', 'mcast': u'микроподкасты', 'daily': u'новость дня', 'guests': u'гости' }
+LABEL_NAMES = {
+    'daily': u'новость дня',
+    'guests': u'гости',
+    'mcast': u'микроподкасты',
+    'news': u'так себе новости',
+    'podcast': u'подкасты',
+    'programs': u'программы',
+    'prokino': u'про кино',
+    }
 LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md', 'input/guests/%s/index.md', 'input/%s/index.md')
 
 def get_page_labels(page):
@@ -154,7 +162,7 @@ def pagelist(pages, limit=None, label='blog', show_dates=True, order_by='date', 
 
     if output:
         output = u'<ul class="pagelist">\n' + output + u'</ul>\n'
-        if DISQUS_ID is not None:
+        if DISQUS_ID is not None and show_comments:
             output += u'<script type="text/javascript">var disqus_shortname = "'+ DISQUS_ID +'"; (function () { var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = "http://" + disqus_shortname + ".disqus.com/count.js"; (document.getElementsByTagName("HEAD")[0] || document.getElementsByTagName("BODY")[0]).appendChild(s); }());</script>\n'
         return output
 

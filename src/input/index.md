@@ -18,10 +18,7 @@ mpos: 1
 
 ## Специальные программы
 
-- [Так себе новости](/news.html)
-- [Про кино](/programs/prokino/)
-- [Архив новостей](/programs/daily/)
-- [Микроподкасты](/mcast.html)
+{{ pagelist(pages, label='programs', show_dates=False, show_comments=False, order_by='title', reverse_order=False) }}
 
 
 ## Статистика слушателей за неделю
