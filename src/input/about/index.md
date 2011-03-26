@@ -17,7 +17,7 @@ title: Наши принципы
 [feedback]: feedback.html
 [jabber]: /voting/
 [lstat]: http://files.tmradio.net/listeners/listeners.csv
-[site]: https://github.com/umonkey/tmradio
+[site]: /about/site/
 [soft]: http://ardj.googlecode.com/
 [sstat]: http://files.tmradio.net/listeners/totals.csv
 [music]: /music/
