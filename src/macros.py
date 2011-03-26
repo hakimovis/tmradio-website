@@ -16,7 +16,7 @@ import urlparse
 BASE_URL = 'http://www.tmradio.net'
 DISQUS_ID = 'tmradio'
 LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты', 'prokino': u'про кино', 'mcast': u'микроподкасты', 'daily': u'новость дня', 'guests': u'гости' }
-LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md', 'input/guests/%s/index.md')
+LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md', 'input/guests/%s/index.md', 'input/%s/index.md')
 
 def get_page_labels(page):
     labels = [l.strip() for l in page.get('labels', '').split(',') if l.strip()]
