@@ -13,5 +13,5 @@ SMS-рассылка, через которую мы предупреждаем 
 
 <a href="http://sms.ru/" title="СМС Рассылки"><img src="http://sms.ru/i/88x31-white.png" alt="СМС Рассылки"></a>
 
-[live]: /live.html
+[live]: /live/
 [twitter]: http://twitter.com/#search?q=%23tmradio

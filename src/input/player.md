@@ -20,7 +20,7 @@ stream.tmradio.net` (Windows, запускать в терминале (Win+R, c
 `tracepath stream.tmradio.net` (Linux).
 
 [cl]: http://app.tmradio.net/
-[li]: /live.html
+[li]: /live/
 [ch]: /chat.html
 [sm]: /sms.html
 [pc]: /podcast/

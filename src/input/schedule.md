@@ -60,7 +60,7 @@ mpos: 2
     <tr>
       <th>21:00</th>
       <td colspan="3"><a href="/programs/mcast/">Микроподкасты</a></td>
-      <td><a href="/live.html">Прямой эфир</a> <a href="/programs/tsn/">ТСН</a></td>
+      <td><a href="/live/">Прямой эфир</a> <a href="/programs/tsn/">ТСН</a></td>
       <td colspan="3"><a href="/programs/mcast/">Микроподкасты</a></td>
     </tr>
     <tr>

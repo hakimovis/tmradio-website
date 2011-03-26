@@ -12,7 +12,7 @@ labels: programs
 
 [Дуг]: /guests/dugwin/
 [Хекс]: /guests/umonkey
-[live]: /live.html
+[live]: /live/
 [podcast]: /podcast/
 
 
