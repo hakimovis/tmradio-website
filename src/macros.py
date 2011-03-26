@@ -159,7 +159,7 @@ def pagelist(pages, limit=None, label='blog', show_dates=True, order_by='date', 
             date = datetime.datetime.strptime(date[:16], '%Y-%m-%d %H:%M').strftime('%d.%m.%Y')
             output += u' <span class="date">%s</span>' % date
         if DISQUS_ID is not None and show_comments:
-            output += u' <a class="dcc" href="%s#disqus_thread">комментировать</a>' % (page.get('url'))
+            output += u' <a class="dcc" href="%s#disqus_thread">комментировать</a>' % (strip_index(page.get('url')))
             # output += u' <a class="dcc" href="%s#disqus_thread" data-disqus-identifier="%s">комментировать</a>' % (page.get('url'), get_disqus_page_id(page))
         output += u'</li>\n'
 
@@ -308,7 +308,7 @@ def write_json(filename, pages):
     for p in pages:
         item = {
             'title': p.get('title'),
-            'link': BASE_URL + '/' + p.get('url'),
+            'link': strip_index(BASE_URL + '/' + p.get('url')),
             'date': email.utils.formatdate(parse_date_time(p.get('date'))),
         }
         if p.has_key('author'):
