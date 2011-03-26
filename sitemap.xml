@@ -7,9 +7,6 @@
 	<loc>http://www.tmradio.net/artists.html</loc>
 </url>
 <url>
-	<loc>http://www.tmradio.net/blog.html</loc>
-</url>
-<url>
 	<loc>http://www.tmradio.net/blog/20110125-jerks.html</loc>
 	<lastmod>2011-01-24</lastmod>
 </url>
@@ -40,6 +37,9 @@
 <url>
 	<loc>http://www.tmradio.net/blog/20110311-voices.html</loc>
 	<lastmod>2011-03-11</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/blog/index.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/chat.html</loc>

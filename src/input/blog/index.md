@@ -9,4 +9,4 @@ mpos: 5
 
 {{ pagelist(pages, limit=None, label='blog', show_dates=True) }}
 
-[rss]: /blog.xml
+[rss]: /blog/index.xml

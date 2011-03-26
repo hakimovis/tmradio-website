@@ -9,7 +9,7 @@ title: Карта сайта
     - [Прямые эфиры](live.html)
     - [Гости](/guests/)
     - [Музыка](music.html)
-    - [Блог](blog.html)
+    - [Блог](/blog/)
     - [Обратная связь](feedback.html)
         - [Книга жалоб и предложений](tracker.html)
 - [Программы](schedule.html):
