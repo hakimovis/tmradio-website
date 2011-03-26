@@ -1,4 +1,5 @@
 title: Николаев Леонид
+rss: nikonor
 rsstitle: Гости: Николаев Леонид
 ---
 ![nikonor](nikonor.jpg)

@@ -6,18 +6,6 @@ mclass: group icon icon-rss
 У нас есть несколько средств, которые помогут вам гарантированно получить
 эксклюзивный материал, который не удалось застать в прямом эфире.
 
-## <a href="/subscription.html#sms" name="sms">SMS-напоминания</a>
-
-Оставьте свой номер и мы заранее сообщим о предстоящем прямом эфире.  (Номера
-добавляются вручную, подтверждения не будет.)
-
-<form method="post" action="https://dead-channel-news.appspot.com/feedback">
-<input type="hidden" name="back" value="http://www.tmradio.net/sms.html"/>
-<input type="hidden" name="site" value="tmradio.net/live"/>
-<input type="hidden" name="from" value="live@tmradio.net"/>
-<input type="text" name="text" placeholder="Номер телефона"/> <input type="submit" value="Подписаться"/>
-</form>
-
 
 ## <a href="/subscription.html#rss" name="rss">RSS-ленты и подкасты</a>
 

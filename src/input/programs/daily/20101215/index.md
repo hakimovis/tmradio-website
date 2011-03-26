@@ -1,4 +1,5 @@
 title: Новость дня за 15.12.2010
+date: 2010-12-15 15:00
 author: hex@umonkey.net (Хекс)
 labels: podcast, mcast, daily, umonkey, Каддафи, Африка, Сенегал, армия, объединение
 file: http://files.tmradio.net/audio/news/20101215-kaddafi.mp3

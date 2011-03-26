@@ -8,14 +8,15 @@ import glob
 import json
 import mimetypes
 import os.path
+import sys
 import time
 import urllib
 import urlparse
 
 BASE_URL = 'http://www.tmradio.net'
 DISQUS_ID = 'tmradio'
-LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты', 'prokino': u'про кино', 'mcast': u'микроподкасты' }
-
+LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты', 'prokino': u'про кино', 'mcast': u'микроподкасты', 'daily': u'новость дня' }
+LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md')
 
 def get_post_labels(post):
     if not post.has_key('labels'):
@@ -30,7 +31,10 @@ def get_post_labels(post):
 
 
 def get_label_url(label):
-    return '/' + label.strip().replace(' ', '_') + '.html'
+    for pattern in LABEL_PAGES:
+        fn = pattern % label
+        if os.path.exists(fn):
+            return '/' + os.path.splitext(fn)[0].split('/', 1)[1] + '.html'
 
 def get_label_link(label):
     text = label
@@ -48,8 +52,11 @@ def get_label_stats(posts):
                 labels[label] += 1
     # Удаляем метки, для которых нет страниц.
     for label in labels.keys():
-        fn = './input' + os.path.splitext(get_label_url(label))[0] + '.md'
-        if not os.path.exists(fn):
+        for pattern in LABEL_PAGES:
+            fn = pattern % label
+            if os.path.exists(fn):
+                label = None
+        if label is not None:
             del labels[label]
     return labels
 
@@ -216,20 +223,25 @@ def hook_preconvert_ccss():
 # generate rss feed
 # -----------------------------------------------------------------------------
 
-def write_rss(pages, title, description, label=None):
+def write_rss(pages, title, description, label=None, filename=None):
     base = BASE_URL
+
+    if filename is None:
+        if label is None:
+            filename = 'rss.xml'
+        else:
+            filename = label.replace(' ', '_') + '.xml'
 
     # leave only blog posts
     pages = [p for p in pages if p.has_key('title') and p.has_key('date') and '://' not in p.url and 'draft' not in get_post_labels(p)]
+
     # filter by label
     if label is not None:
         pages = [p for p in pages if label in get_post_labels(p)]
+    if not pages:
+        print 'WARNING: no data for', filename
     # sort by date
     pages.sort(key=lambda p: p.date, reverse=True)
-    feed_pub_date = email.utils.formatdate(parse_date_time(pages[0].date))
-
-    if label is None: filename = 'rss.xml'
-    else: filename = label.replace(' ', '_') + '.xml'
 
     xml = u'<?xml version="1.0"?>\n'
     xml += u'<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
@@ -244,8 +256,10 @@ def write_rss(pages, title, description, label=None):
         xml += u'<link>%s/</link>\n' % base
     else:
         xml += u'<link>%s%s</link>\n' % (base, get_label_url(label))
-    xml += u'<pubDate>%s</pubDate>\n' % feed_pub_date
-    xml += u'<lastBuildDate>%s</lastBuildDate>\n' % feed_pub_date
+    if pages:
+        feed_pub_date = email.utils.formatdate(parse_date_time(pages[0].date))
+        xml += u'<pubDate>%s</pubDate>\n' % feed_pub_date
+        xml += u'<lastBuildDate>%s</lastBuildDate>\n' % feed_pub_date
 
     # process first 10 items
     for p in pages:
@@ -298,8 +312,15 @@ def write_json(filename, pages):
 
 def hook_postconvert_rss():
     write_rss(pages, u'Тоже мне радио', u'Обновления сайта.')
-    for label in get_label_stats(pages).keys():
-        write_rss(pages, u'Тоже мне радио: ' + label, u'Страницы сайта Тоже мне радио с пометкой «%s».' % label, label)
+
+    feeds = [{
+        'url': os.path.splitext(page.get('url'))[0] + '.xml',
+        'label': page.get('rss'),
+        'title': page.get('rsstitle', page.get('title'))
+    } for page in pages if page.get('rss')]
+
+    for feed in feeds:
+        write_rss(pages, u'Тоже мне радио: ' + feed['label'], u'Страницы сайта Тоже мне радио с пометкой «%s».' % feed['label'], feed['label'], filename=feed['url'])
 
 def get_rss_table():
     labels = get_label_stats(pages).keys()

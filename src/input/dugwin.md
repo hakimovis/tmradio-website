@@ -1,4 +1,5 @@
 title: Dugwin J. Goines
+rss: dugwin
 rsstitle: Гости: Dugwin J. Goines
 ---
 Программный директор «Тоже мне радио», подкастер, системный аналитик. 

@@ -1,4 +1,5 @@
 title: Блог
+rss: blog
 rsstitle: Все записи в блоге
 mpos: 5
 ---
