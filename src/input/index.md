@@ -31,7 +31,7 @@ mpos: 1
 [listen]: http://stream.tmradio.net:8180/live.mp3.m3u
 [log]: http://files.tmradio.net/listeners.csv
 [news]: http://echo.msk.ru/news/
-[open]: open.html
+[open]: /about/
 [pc]: /podcast/
 [music]: /music/
 [robots]: robots.html

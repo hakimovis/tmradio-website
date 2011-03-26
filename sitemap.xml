@@ -4,6 +4,9 @@
 	<loc>http://www.tmradio.net/404.html</loc>
 </url>
 <url>
+	<loc>http://www.tmradio.net/about/</loc>
+</url>
+<url>
 	<loc>http://www.tmradio.net/artists.html</loc>
 </url>
 <url>
@@ -153,9 +156,6 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/music/</loc>
-</url>
-<url>
-	<loc>http://www.tmradio.net/open.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/player.html</loc>
