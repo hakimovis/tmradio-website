@@ -297,6 +297,9 @@
 	<loc>http://www.tmradio.net/support/donate/</loc>
 </url>
 <url>
+	<loc>http://www.tmradio.net/support/donate/yandex/</loc>
+</url>
+<url>
 	<loc>http://www.tmradio.net/support/</loc>
 </url>
 <url>
@@ -304,8 +307,5 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/voting/</loc>
-</url>
-<url>
-	<loc>http://www.tmradio.net/yandex-money.html</loc>
 </url>
 </urlset>

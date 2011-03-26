@@ -372,13 +372,13 @@ def init_flattr(page):
 
 
 def yandex_money_stats():
-    fn = 'input/yandex-money.json'
+    fn = 'input/support/donate/yandex/history.json'
     if os.path.exists(fn):
         data = json.load(open(fn, 'rb'))
-        return u'Яндекс.Деньгами собрано: %(income).2f, потрачено: %(outcome).2f, осталось: %(left).2f (информация обновляется примерно раз в неделю); доступен <a href="/yandex-money.html">полный список транзакций</a>.' % data
+        return u'Яндекс.Деньгами собрано: %(income).2f, потрачено: %(outcome).2f, осталось: %(left).2f (информация обновляется примерно раз в неделю); доступен <a href="/support/donate/yandex/">полный список транзакций</a>.' % data
 
 def yandex_money_table():
-    fn = 'input/yandex-money.json'
+    fn = 'input/support/donate/yandex/history.json'
     if os.path.exists(fn):
         data = json.load(open(fn, 'rb'))
         today = data['transactions'][-1][0]
