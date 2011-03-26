@@ -16,7 +16,7 @@ import urlparse
 BASE_URL = 'http://www.tmradio.net'
 DISQUS_ID = 'tmradio'
 LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты', 'prokino': u'про кино', 'mcast': u'микроподкасты', 'daily': u'новость дня' }
-LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md')
+LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md', 'input/guests/%s/index.md')
 
 def get_post_labels(post):
     if not post.has_key('labels'):
@@ -34,7 +34,10 @@ def get_label_url(label):
     for pattern in LABEL_PAGES:
         fn = pattern % label
         if os.path.exists(fn):
-            return '/' + os.path.splitext(fn)[0].split('/', 1)[1] + '.html'
+            url = '/' + os.path.splitext(fn)[0].split('/', 1)[1] + '.html'
+            if url.endswith('/index.html'):
+                url = url[:-10]
+            return url
 
 def get_label_link(label):
     text = label
