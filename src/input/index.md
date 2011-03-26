@@ -17,7 +17,8 @@ mpos: 1
 ## Специальные программы
 
 - [Так себе новости](/news.html)
-- [Про кино](/prokino.html)
+- [Про кино](/programs/prokino/)
+- [Архив новостей](/programs/daily/)
 - [Микроподкасты](/mcast.html)
 
 
