@@ -7,6 +7,9 @@
 	<loc>http://www.tmradio.net/about/</loc>
 </url>
 <url>
+	<loc>http://www.tmradio.net/about/setup/</loc>
+</url>
+<url>
 	<loc>http://www.tmradio.net/about/site/</loc>
 </url>
 <url>
@@ -270,9 +273,6 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/schedule.html</loc>
-</url>
-<url>
-	<loc>http://www.tmradio.net/setup.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/sitemap.html</loc>
