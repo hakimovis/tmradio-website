@@ -153,7 +153,9 @@ def pagelist(pages, limit=None, label='blog', show_dates=True, order_by='date', 
     for page in pages:
         output += u'<li><a href="%s">%s</a>' % (strip_index(page.get('url')), page.get('title'))
         if show_author:
-            output += u' (%s)' % get_page_author(page)[1]
+            author = get_page_author(page)[1]
+            if author != 'anonymous':
+                output += u' (%s)' % get_page_author(page)[1]
         if limit is None and show_dates:
             date = page.date + ' 00:00'
             date = datetime.datetime.strptime(date[:16], '%Y-%m-%d %H:%M').strftime('%d.%m.%Y')
