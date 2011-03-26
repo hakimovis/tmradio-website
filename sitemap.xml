@@ -158,9 +158,6 @@
 	<loc>http://www.tmradio.net/music/index.html</loc>
 </url>
 <url>
-	<loc>http://www.tmradio.net/news.html</loc>
-</url>
-<url>
 	<loc>http://www.tmradio.net/open.html</loc>
 </url>
 <url>
@@ -190,6 +187,9 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/programs/shitlist.html</loc>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/tsn/index.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/robots.html</loc>

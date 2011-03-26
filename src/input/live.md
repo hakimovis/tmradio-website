@@ -30,5 +30,5 @@ mpos: 3
 [offtopic]: http://offtopic.rpod.ru/
 [rasp]: /schedule.html
 [sms]: /sms.html
-[ssn]: /news.html
+[ssn]: /programs/tsn/
 [tms]: skype:tmradio.net?userinfo
