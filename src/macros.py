@@ -18,15 +18,10 @@ DISQUS_ID = 'tmradio'
 LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты', 'prokino': u'про кино', 'mcast': u'микроподкасты', 'daily': u'новость дня', 'guests': u'гости' }
 LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md', 'input/guests/%s/index.md')
 
-def get_post_labels(post):
-    if not post.has_key('labels'):
-        labels = []
-    else:
-        labels = [l.strip() for l in post['labels'].split(',')]
-    if post.has_key('file') and 'podcast' not in labels:
+def get_page_labels(page):
+    labels = [l.strip() for l in page.get('labels', '').split(',') if l.strip()]
+    if page.has_key('file') and 'podcast' not in labels:
         labels.append('podcast')
-    if post.url.startswith('blog.') and post.url != 'blog.html' and 'blog' not in labels:
-        labels.append('blog')
     return sorted(labels)
 
 
@@ -45,7 +40,7 @@ def get_label_link(label):
 def get_label_stats(posts):
     labels = {}
     for post in posts:
-        for label in get_post_labels(post):
+        for label in get_page_labels(post):
             if not labels.has_key(label):
                 labels[label] = 1
             else:
@@ -115,7 +110,7 @@ def page_meta(page):
     if page.get('labels'):
         stats = get_label_stats(pages)
         labels = []
-        for label in get_post_labels(page):
+        for label in get_page_labels(page):
             if stats.has_key(label):
                 labels.append(get_label_link(label))
         if labels:
@@ -129,7 +124,7 @@ def pagelist(pages, limit=None, label='blog', show_dates=True, order_by='date', 
     output = u''
 
     def is_ok(page):
-        labels = get_post_labels(page)
+        labels = get_page_labels(page)
         """
         if not page.get('date'):
             return False
@@ -196,7 +191,7 @@ def get_disqus_page_id(page):
 
 
 def add_comments(page):
-    labels = get_post_labels(page)
+    labels = get_page_labels(page)
     if page.get('file', '').split('?')[0].endswith('.mp3') or 'blog' in labels:
         settings = 'var disqus_identifier = "'+ page.url +'";'
         return u'<div id="disqus_thread"></div><script type="text/javascript">if (window.location.href.indexOf("http://localhost:") == 0) var disqus_developer = 1;'+ settings +' (function() { var dsq = document.createElement(\'script\'); dsq.type = \'text/javascript\'; dsq.async = true; dsq.src = \'http://tmradio.disqus.com/embed.js\'; (document.getElementsByTagName(\'head\')[0] || document.getElementsByTagName(\'body\')[0]).appendChild(dsq); })();</script><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=tmradio">comments powered by Disqus.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>'
@@ -241,11 +236,11 @@ def write_rss(pages, title, description, label=None, filename=None):
             filename = label.replace(' ', '_') + '.xml'
 
     # leave only blog posts
-    pages = [p for p in pages if p.has_key('title') and p.has_key('date') and '://' not in p.url and 'draft' not in get_post_labels(p)]
+    pages = [p for p in pages if p.has_key('title') and p.has_key('date') and '://' not in p.url and 'draft' not in get_page_labels(p)]
 
     # filter by label
     if label is not None:
-        pages = [p for p in pages if label in get_post_labels(p)]
+        pages = [p for p in pages if label in get_page_labels(p)]
     if not pages:
         print 'WARNING: no data for', filename
     # sort by date
@@ -282,7 +277,7 @@ def write_rss(pages, title, description, label=None, filename=None):
         if p.has_key('file'):
             mime_type = mimetypes.guess_type(urlparse.urlparse(p.file).path)[0]
             xml += u'\t<enclosure url="%s" type="%s" length="%s"/>\n' % (p.file, mime_type, p.get('filesize', 1))
-        for l in get_post_labels(p):
+        for l in get_page_labels(p):
             xml += u'\t<category>%s</category>\n' % l
         xml += u'\t<author>%s (%s)</author>\n' % get_page_author(p)
         xml += u'</item>\n'
@@ -394,7 +389,7 @@ def yandex_money_table():
 
 def XXX_once_dump_labels():
     for p in pages:
-        print p.get('url'), get_post_labels(p)
+        print p.get('url'), get_page_labels(p)
 
 def once_sitemap():
     """Generate Google sitemap.xml file."""
