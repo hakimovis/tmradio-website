@@ -143,6 +143,9 @@ def pagelist(pages, limit=None, label='blog', show_dates=True, order_by='date', 
             return False
         return True
 
+    # Удаляем страницы без нужного свойства.
+    pages = [page for page in pages if page.get(order_by) is not None]
+
     pages = sorted([page for page in pages if is_ok(page)], key=lambda p: p.get(order_by), reverse=reverse_order)[:limit]
     authors = list(set([p.get('author') for p in pages if p.get('author')]))
     show_author = len(authors) > 2
