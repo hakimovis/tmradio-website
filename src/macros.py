@@ -338,7 +338,7 @@ def hook_postconvert_rss():
 
 def get_rss_table():
     labels = get_label_stats(pages).keys()
-    pages_ = sorted([page for page in pages if os.path.splitext(page.url)[0] in labels or page.get('rsstitle')], key=lambda p: p.get('rsstitle', p.get('title')))
+    pages_ = sorted([page for page in pages if os.path.splitext(page.url)[0] in labels or page.get('rsstitle')], key=lambda p: p.get('rsstitle', p.get('title')).lower())
 
     html = u'<table class="skel" id="rsst"><tbody>\n'
     for page in pages_:
