@@ -25,5 +25,5 @@ title: Карта сайта
 - [Сотрудничество](collaborate.html)
     - [Музыкантам](artists.html)
     - [Подкастерам](podcasters.html)
-    - [Пожертвования](support.html)
+    - [Пожертвования](/support/)
 - [Ссылки](links.html)

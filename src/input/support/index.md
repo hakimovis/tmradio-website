@@ -12,7 +12,7 @@ title: Чем и как поддержать «Тоже мне радио»
 свой](feedback.html).
 
 
-## <a class="local" href="support.html#donate" name="donate">Пожертвования</a>
+## <a class="local" href="/support/#donate" name="donate">Пожертвования</a>
 
 Есть несколько способов поддержать нас финансово:
 
@@ -25,7 +25,7 @@ title: Чем и как поддержать «Тоже мне радио»
 
 {{ yandex_money_stats() }}
 
-## <a class="local" href="support.html#why" name="why">На что мы собираем деньги</a>
+## <a class="local" href="/support/#why" name="why">На что мы собираем деньги</a>
 
 - На оплату [SMS-рассылки](/live/sms/) (~20р в неделю).
 - На звонки по скайпу на телефоны во время [прямых эфиров](live/).
