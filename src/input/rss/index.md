@@ -22,5 +22,5 @@ mclass: group icon icon-rss
 ссылками на MP3-файлы).
 
 <form action="http://groups.google.com/group/sosonews/boxsubscribe">
-<input type="text" name="email" placeholder="Ваш email"/> <input type="submit" value="Подписаться"/>
+<input type="text" name="email" placeholder="Ваш email"/> <input type="submit" value="Подписаться"/> или <a href="http://groups.google.com/group/sosonews" target="_blank">см. архив рассылки</a>
 </form>
