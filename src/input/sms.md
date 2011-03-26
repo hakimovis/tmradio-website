@@ -4,7 +4,7 @@ title: Напоминания
 SMS-рассылка, через которую мы предупреждаем об эфирах за несколько часов и
 несколько минут до их начала.  Оставьте свой номер:
 
-<form id="feedback" method="post" action="https://dead-channel-news.appspot.com/feedback">
+<form method="post" action="https://dead-channel-news.appspot.com/feedback">
 <input type="hidden" name="back" value="http://www.tmradio.net/sms.html"/>
 <input type="hidden" name="site" value="tmradio.net/live"/>
 <input type="hidden" name="from" value="live@tmradio.net"/>
