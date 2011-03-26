@@ -20,4 +20,4 @@ title: Наши принципы
 [site]: https://github.com/umonkey/tmradio
 [soft]: http://ardj.googlecode.com/
 [sstat]: http://files.tmradio.net/listeners/totals.csv
-[music]: music.html
+[music]: /music/

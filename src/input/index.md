@@ -35,7 +35,7 @@ mpos: 1
 [news]: http://echo.msk.ru/news/
 [open]: open.html
 [pc]: podcast.html
-[music]: music.html
+[music]: /music/
 [robots]: robots.html
 [sub]: subscription.html
 [gc]: tracker.html
