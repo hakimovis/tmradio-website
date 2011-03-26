@@ -19,7 +19,7 @@ title: Карта сайта
     - [Микроподкасты](/programs/mcast/)
 - [Слушателям](listeners.html)
     - [Слушать радио](player.html)
-    - [Подписка на обновления](subscription.html)
+    - [Подписка на обновления](/rss/)
     - [SMS-рассылка](sms.html)
     - [Горячая линия](/hotline/)
 - [Сотрудничество](collaborate.html)

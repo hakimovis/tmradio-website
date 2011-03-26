@@ -260,6 +260,9 @@
 	<loc>http://www.tmradio.net/robots.html</loc>
 </url>
 <url>
+	<loc>http://www.tmradio.net/rss/</loc>
+</url>
+<url>
 	<loc>http://www.tmradio.net/schedule.html</loc>
 </url>
 <url>
@@ -270,9 +273,6 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/sms.html</loc>
-</url>
-<url>
-	<loc>http://www.tmradio.net/subscription.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/support.html</loc>

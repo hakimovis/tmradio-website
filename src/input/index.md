@@ -35,5 +35,5 @@ mpos: 1
 [pc]: /podcast/
 [music]: /music/
 [robots]: robots.html
-[sub]: subscription.html
+[sub]: rss/
 [gc]: tracker.html
