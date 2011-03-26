@@ -409,7 +409,7 @@ def once_sitemap():
     for p in pages:
         url = p.get('url')
         if '://' not in url: # skip external links
-            contents += '<url>\n\t<loc>%s</loc>\n' % (BASE_URL + '/' + url)
+            contents += '<url>\n\t<loc>%s</loc>\n' % (strip_index(BASE_URL + '/' + url))
             page_date = p.get('date')
             if page_date:
                 contents += '\t<lastmod>%s</lastmod>\n' % time.strftime('%Y-%m-%d', parse_date_time(page_date, as_float=False))
