@@ -1,7 +1,7 @@
 title: Гости и работники радиостанции
 ---
 
-- [dugwin](/dugwin.html)
-- [hakimovis](/hakimovis.html)
-- [nokonor](/nikonor.html)
-- [umonkey](/umonkey.html)
+- [dugwin](/guests/dugwin/)
+- [hakimovis](/guests/hakimovis/)
+- [nokonor](/guests/nikonor/)
+- [umonkey](/guests/umonkey/)

@@ -9,8 +9,8 @@ rsstitle: Программы: Так себе новости
 радиостанции и общение со слушателями.  Всё это можно слушать в записи в виде
 [подкастов][podcast].
 
-[Дуг]: /dugwin.html
-[Хекс]: /umonkey.html
+[Дуг]: /guests/dugwin/
+[Хекс]: /guests/umonkey
 [live]: /live.html
 [podcast]: /podcast.html
 

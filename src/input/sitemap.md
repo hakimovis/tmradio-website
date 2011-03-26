@@ -14,7 +14,8 @@ title: Карта сайта
         - [Книга жалоб и предложений](tracker.html)
 - [Программы](schedule.html):
     - [Так себе новости](news.html)
-    - [Про кино](prokino.html)
+    - [Про кино](programs/prokino/)
+    - [Архив новостей](programs/daily/)
     - [Микроподкасты](mcast.html)
 - [Слушателям](listeners.html)
     - [Слушать радио](player.html)
