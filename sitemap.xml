@@ -88,9 +88,6 @@
 	<loc>http://www.tmradio.net/index.html</loc>
 </url>
 <url>
-	<loc>http://www.tmradio.net/jabber.html</loc>
-</url>
-<url>
 	<loc>http://www.tmradio.net/links.html</loc>
 </url>
 <url>
@@ -282,6 +279,9 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/tracker.html</loc>
+</url>
+<url>
+	<loc>http://www.tmradio.net/voting/index.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/yandex-money.html</loc>

@@ -22,7 +22,7 @@ We are open for all kinds of collaboration.  Send your free music or ideas to
 
 
 [oss]: http://ardj.googlecode.com/
-[jab]: jabber.html
+[jab]: /voting/
 [con]: xmpp:tmradio@conference.jabber.ru
 [prg]: http://code.google.com/p/umonkey-tools/wiki/tmradio
 [eml]: mailto:info@tmradio.net

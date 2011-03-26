@@ -15,7 +15,7 @@ title: Наши принципы
 - Любой желающий может [сделать нашу станцию лучше](support.html).
 
 [feedback]: feedback.html
-[jabber]: jabber.html
+[jabber]: /voting/
 [lstat]: http://files.tmradio.net/listeners/listeners.csv
 [site]: https://github.com/umonkey/tmradio
 [soft]: http://ardj.googlecode.com/
