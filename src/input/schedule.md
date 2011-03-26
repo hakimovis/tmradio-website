@@ -30,7 +30,7 @@ mpos: 2
     <tr>
       <th>10:00</th>
       <td colspan="3">pop</td>
-      <td>Повтор <a href="news.html">ТСН</a></td>
+      <td>Повтор <a href="/programs/tsn/">ТСН</a></td>
       <td colspan="3">pop</td>
     </tr>
     <tr>
@@ -39,7 +39,7 @@ mpos: 2
     </tr>
     <tr>
       <th>12:00</th>
-      <td colspan="7"><a href="/mcast.html">Микроподкасты</a></td>
+      <td colspan="7"><a href="/programs/mcast/">Микроподкасты</a></td>
     </tr>
     <tr>
       <th>13:00</th>
@@ -59,9 +59,9 @@ mpos: 2
     </tr>
     <tr>
       <th>21:00</th>
-      <td colspan="3"><a href="/mcast.html">Микроподкасты</a></td>
-      <td><a href="/live.html">Прямой эфир</a> <a href="/news.html">ТСН</a></td>
-      <td colspan="3"><a href="/mcast.html">Микроподкасты</a></td>
+      <td colspan="3"><a href="/programs/mcast/">Микроподкасты</a></td>
+      <td><a href="/live/">Прямой эфир</a> <a href="/programs/tsn/">ТСН</a></td>
+      <td colspan="3"><a href="/programs/mcast/">Микроподкасты</a></td>
     </tr>
     <tr>
       <th>22:00</th>

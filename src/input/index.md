@@ -4,8 +4,9 @@ mpos: 1
 Добро пожаловать на сайт некоммерческой [открытой][open] сетевой радиостанции
 «Тоже мне радио».  Станция вещает круглые сутки [свободную музыку][music],
 [новости][news] и [подкасты][pc], иногда прерываясь на [прямые
-эфиры](/live.html) и специальные программы (всё доступно [в записи][sub]). 
-Работает в автономном режиме, управляется в основном [роботами][robots].
+эфиры](/live/) и [специальные программы](/programs/) (всё доступно [в
+записи][sub]).  Работает в автономном режиме, управляется в основном
+[роботами][robots].  Плейлист [составляется слушателями](/voting/).
 
 Работа над станцией координируется в [публичном трекере][gc], частично
 описывается в [блоге](/blog/), [финансируется](/support.html) слушателями.
@@ -18,10 +19,7 @@ mpos: 1
 
 ## Специальные программы
 
-- [Так себе новости](/news.html)
-- [Про кино](/programs/prokino/)
-- [Архив новостей](/programs/daily/)
-- [Микроподкасты](/mcast.html)
+{{ pagelist(pages, label='programs', show_dates=False, show_comments=False, order_by='title', reverse_order=False) }}
 
 
 ## Статистика слушателей за неделю
@@ -33,9 +31,9 @@ mpos: 1
 [listen]: http://stream.tmradio.net:8180/live.mp3.m3u
 [log]: http://files.tmradio.net/listeners.csv
 [news]: http://echo.msk.ru/news/
-[open]: open.html
-[pc]: podcast.html
+[open]: /about/
+[pc]: /podcast/
 [music]: /music/
 [robots]: robots.html
-[sub]: subscription.html
+[sub]: rss/
 [gc]: tracker.html

@@ -15,7 +15,15 @@ import urlparse
 
 BASE_URL = 'http://www.tmradio.net'
 DISQUS_ID = 'tmradio'
-LABEL_NAMES = { 'news': u'так себе новости', 'podcast': u'подкасты', 'prokino': u'про кино', 'mcast': u'микроподкасты', 'daily': u'новость дня', 'guests': u'гости' }
+LABEL_NAMES = {
+    'daily': u'новость дня',
+    'guests': u'гости',
+    'mcast': u'микроподкасты',
+    'podcast': u'подкасты',
+    'programs': u'программы',
+    'prokino': u'про кино',
+    'tsn': u'так себе новости',
+    }
 LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md', 'input/guests/%s/index.md', 'input/%s/index.md')
 
 def get_page_labels(page):
@@ -58,7 +66,7 @@ def get_label_stats(posts):
 
 def init_comments(page):
     if DISQUS_ID is not None:
-        return u'<script type="text/javascript">var disqus_url = "'+ BASE_URL + '/' + page.get('url') +'";</script>'
+        return u'<script type="text/javascript">var disqus_url = "'+ BASE_URL + strip_index('/' + page.get('url')) +'";</script>'
 
 def strip_index(url):
     if url.endswith('/index.html'):
@@ -135,6 +143,9 @@ def pagelist(pages, limit=None, label='blog', show_dates=True, order_by='date', 
             return False
         return True
 
+    # Удаляем страницы без нужного свойства.
+    pages = [page for page in pages if page.get(order_by) is not None]
+
     pages = sorted([page for page in pages if is_ok(page)], key=lambda p: p.get(order_by), reverse=reverse_order)[:limit]
     authors = list(set([p.get('author') for p in pages if p.get('author')]))
     show_author = len(authors) > 2
@@ -142,19 +153,21 @@ def pagelist(pages, limit=None, label='blog', show_dates=True, order_by='date', 
     for page in pages:
         output += u'<li><a href="%s">%s</a>' % (strip_index(page.get('url')), page.get('title'))
         if show_author:
-            output += u' (%s)' % get_page_author(page)[1]
+            author = get_page_author(page)[1]
+            if author != 'anonymous':
+                output += u' (%s)' % get_page_author(page)[1]
         if limit is None and show_dates:
             date = page.date + ' 00:00'
             date = datetime.datetime.strptime(date[:16], '%Y-%m-%d %H:%M').strftime('%d.%m.%Y')
             output += u' <span class="date">%s</span>' % date
         if DISQUS_ID is not None and show_comments:
-            output += u' <a class="dcc" href="%s#disqus_thread">комментировать</a>' % (page.get('url'))
+            output += u' <a class="dcc" href="%s#disqus_thread">комментировать</a>' % (strip_index(page.get('url')))
             # output += u' <a class="dcc" href="%s#disqus_thread" data-disqus-identifier="%s">комментировать</a>' % (page.get('url'), get_disqus_page_id(page))
         output += u'</li>\n'
 
     if output:
         output = u'<ul class="pagelist">\n' + output + u'</ul>\n'
-        if DISQUS_ID is not None:
+        if DISQUS_ID is not None and show_comments:
             output += u'<script type="text/javascript">var disqus_shortname = "'+ DISQUS_ID +'"; (function () { var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = "http://" + disqus_shortname + ".disqus.com/count.js"; (document.getElementsByTagName("HEAD")[0] || document.getElementsByTagName("BODY")[0]).appendChild(s); }());</script>\n'
         return output
 
@@ -297,7 +310,7 @@ def write_json(filename, pages):
     for p in pages:
         item = {
             'title': p.get('title'),
-            'link': BASE_URL + '/' + p.get('url'),
+            'link': strip_index(BASE_URL + '/' + p.get('url')),
             'date': email.utils.formatdate(parse_date_time(p.get('date'))),
         }
         if p.has_key('author'):
@@ -327,7 +340,7 @@ def hook_postconvert_rss():
 
 def get_rss_table():
     labels = get_label_stats(pages).keys()
-    pages_ = sorted([page for page in pages if os.path.splitext(page.url)[0] in labels or page.get('rsstitle')], key=lambda p: p.get('rsstitle', p.get('title')))
+    pages_ = sorted([page for page in pages if os.path.splitext(page.url)[0] in labels or page.get('rsstitle')], key=lambda p: p.get('rsstitle', p.get('title')).lower())
 
     html = u'<table class="skel" id="rsst"><tbody>\n'
     for page in pages_:
@@ -398,7 +411,7 @@ def once_sitemap():
     for p in pages:
         url = p.get('url')
         if '://' not in url: # skip external links
-            contents += '<url>\n\t<loc>%s</loc>\n' % (BASE_URL + '/' + url)
+            contents += '<url>\n\t<loc>%s</loc>\n' % (strip_index(BASE_URL + '/' + url))
             page_date = p.get('date')
             if page_date:
                 contents += '\t<lastmod>%s</lastmod>\n' % time.strftime('%Y-%m-%d', parse_date_time(page_date, as_float=False))

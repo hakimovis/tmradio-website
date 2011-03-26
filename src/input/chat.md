@@ -12,6 +12,6 @@ PS: раньше использовался [веб-чат][old] на основ
 он же.  В обозримом будущем возможно появление веб-интерфейса к новому чату.
 
 [old]: http://widget.mibbit.com/?settings=a7caefd291afb73c4d533f392cc6bb2b&server=irc.zeronode.net&channel=%23tmradio&nick=vegetable_%3F%3F%3F%3F
-[voting]: /jabber.html
+[voting]: /voting/
 [cli]: http://app.tmradio.net/
 [ins]: http://jabberworld.info/Категория:Вход_в_конференцию

@@ -49,7 +49,7 @@ title: Интересные ссылки
 [nas]: http://www.noagendashow.com/
 [nal]: http://noagendastream.com/
 [ftl]: http://www.freetalklive.com/
-[tsn]: /news.html
+[tsn]: /programs/tsn/
 [syn]: http://en.wikipedia.org/wiki/Broadcast_syndication
 [fsp]: http://www.freestateproject.org/
 [dcn]: http://www.democracynow.org/

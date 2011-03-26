@@ -23,7 +23,7 @@ mpos: 12
 [несколько способов сделать это](/support.html).
 
 [chat]: /chat.html
-[jabber]: /jabber.html
+[jabber]: /voting/
 [last]: http://www.lastfm.ru/user/tmradiobot
 [sub]: /subscribe.html
 [client]: http://app.tmradio.net/
