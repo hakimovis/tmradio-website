@@ -79,6 +79,9 @@
 	<loc>http://www.tmradio.net/guests/umonkey/index.html</loc>
 </url>
 <url>
+	<loc>http://www.tmradio.net/hotline/index.html</loc>
+</url>
+<url>
 	<loc>http://www.tmradio.net/index.html</loc>
 </url>
 <url>
@@ -276,9 +279,6 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/tracker.html</loc>
-</url>
-<url>
-	<loc>http://www.tmradio.net/voicemail.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/yandex-money.html</loc>

@@ -21,7 +21,7 @@ title: Карта сайта
     - [Слушать радио](player.html)
     - [Подписка на обновления](subscription.html)
     - [SMS-рассылка](sms.html)
-    - [Горячая линия](voicemail.html)
+    - [Горячая линия](hotline/)
 - [Сотрудничество](collaborate.html)
     - [Музыкантам](artists.html)
     - [Подкастерам](podcasters.html)
