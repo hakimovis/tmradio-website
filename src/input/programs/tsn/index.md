@@ -1,5 +1,5 @@
 title: Так себе новости
-rss: news
+rss: tsn
 rsstitle: Программы: Так себе новости
 labels: programs
 ---
@@ -18,4 +18,4 @@ labels: programs
 
 ## Архив выпусков
 
-{{ pagelist(pages, limit=None, label='news', show_dates=False) }}
+{{ pagelist(pages, limit=None, label='tsn', show_dates=False) }}

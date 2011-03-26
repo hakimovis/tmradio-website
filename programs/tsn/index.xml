@@ -5,9 +5,9 @@
 <language>ru-RU</language>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>Poole</generator>
-<title>Тоже мне радио: news</title>
-<description>Страницы сайта Тоже мне радио с пометкой «news».</description>
-<link>http://www.tmradio.netNone</link>
+<title>Тоже мне радио: tsn</title>
+<description>Страницы сайта Тоже мне радио с пометкой «tsn».</description>
+<link>http://www.tmradio.net/programs/tsn/</link>
 <pubDate>Thu, 24 Mar 2011 18:00:00 -0000</pubDate>
 <lastBuildDate>Thu, 24 Mar 2011 18:00:00 -0000</lastBuildDate>
 <item>
@@ -48,8 +48,8 @@
 	<category>Qiwi</category>
 	<category>Warner Bros</category>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>АЭС</category>
 	<category>Африка</category>
@@ -79,6 +79,7 @@
 	<category>интернет</category>
 	<category>кино</category>
 	<category>коррупция</category>
+	<category>новости</category>
 	<category>пиратство</category>
 	<category>пошлины</category>
 	<category>права</category>
@@ -122,8 +123,8 @@
 	<category>Skype</category>
 	<category>dugwin</category>
 	<category>hakimovis</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>Ведомости</category>
 	<category>Германия</category>
@@ -146,6 +147,7 @@
 	<category>антибиотики</category>
 	<category>дума</category>
 	<category>землетрясение</category>
+	<category>новости</category>
 	<category>туберкулёз</category>
 	<author>info@tmradio.net (anonymous)</author>
 </item>
@@ -180,8 +182,8 @@
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-15.mp3" type="audio/mpeg" length="54164537"/>
 	<category>Free Talk Live</category>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>Афганистан</category>
 	<category>Госдума</category>
@@ -204,6 +206,7 @@
 	<category>коррупция</category>
 	<category>либерализация</category>
 	<category>лицензирование</category>
+	<category>новости</category>
 	<category>регистрация</category>
 	<category>счётная палата</category>
 	<category>транспорт</category>
@@ -239,9 +242,9 @@
 	<guid>http://www.tmradio.net/programs/tsn/14/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-14.mp3" type="audio/mpeg" length="91030839"/>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
 	<category>steeker</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>ГУВД</category>
 	<category>Генштаб</category>
@@ -255,6 +258,7 @@
 	<category>США</category>
 	<category>Собянин</category>
 	<category>казаки</category>
+	<category>новости</category>
 	<category>терроризм</category>
 	<author>info@tmradio.net (anonymous)</author>
 </item>
@@ -287,8 +291,8 @@
 	<guid>http://www.tmradio.net/programs/tsn/13/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-13.mp3" type="audio/mpeg" length="59512778"/>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>КБР</category>
 	<category>Каддафи</category>
@@ -307,6 +311,7 @@
 	<category>Чёрное море</category>
 	<category>Япония</category>
 	<category>нефть</category>
+	<category>новости</category>
 	<category>протест</category>
 	<category>терроризм</category>
 	<category>химическое оружие</category>
@@ -336,8 +341,8 @@
 	<guid>http://www.tmradio.net/programs/tsn/12/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-12.mp3" type="audio/mpeg" length="54657867"/>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>Батурина</category>
 	<category>ГНК</category>
@@ -347,6 +352,7 @@
 	<category>запрет</category>
 	<category>курение</category>
 	<category>лекарства</category>
+	<category>новости</category>
 	<category>полиция</category>
 	<category>такси</category>
 	<category>эвакуация</category>
@@ -381,8 +387,8 @@
 	<guid>http://www.tmradio.net/programs/tsn/11/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-11.mp3" type="audio/mpeg" length="70703182"/>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>ГИБДД</category>
 	<category>ГУВД</category>
@@ -395,6 +401,7 @@
 	<category>Сколково</category>
 	<category>Фурсенко</category>
 	<category>время</category>
+	<category>новости</category>
 	<category>образование</category>
 	<category>телевидение</category>
 	<author>info@tmradio.net (anonymous)</author>
@@ -426,8 +433,8 @@
 	<guid>http://www.tmradio.net/programs/tsn/10/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-10.mp3" type="audio/mpeg" length="40467527"/>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>Волочкова</category>
 	<category>Египет</category>
@@ -446,6 +453,7 @@
 	<category>Яндекс.Деньги</category>
 	<category>армия</category>
 	<category>коррупция</category>
+	<category>новости</category>
 	<category>протест</category>
 	<category>эвакуация</category>
 	<author>info@tmradio.net (anonymous)</author>
@@ -473,8 +481,8 @@
 	<guid>http://www.tmradio.net/programs/tsn/09/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-09.mp3" type="audio/mpeg" length="42900030"/>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>Давос</category>
 	<category>Дворкович</category>
@@ -487,6 +495,7 @@
 	<category>Хлопонин</category>
 	<category>Чичваркин</category>
 	<category>биологическое оружие</category>
+	<category>новости</category>
 	<category>переселение</category>
 	<author>info@tmradio.net (anonymous)</author>
 </item>
@@ -509,8 +518,8 @@
 	<guid>http://www.tmradio.net/programs/tsn/08/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-08.mp3" type="audio/mpeg" length="42230837"/>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>Авдеев</category>
 	<category>Венедиктов</category>
@@ -518,6 +527,7 @@
 	<category>Сечин</category>
 	<category>Сурков</category>
 	<category>в контакте</category>
+	<category>новости</category>
 	<category>пиратство</category>
 	<category>революция</category>
 	<category>тунис</category>
@@ -544,8 +554,8 @@
 	<guid>http://www.tmradio.net/programs/tsn/07/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-07.mp3" type="audio/mpeg" length="42230837"/>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>Алексеева</category>
 	<category>Гиффордс</category>
@@ -556,6 +566,7 @@
 	<category>Тусон</category>
 	<category>Хазин</category>
 	<category>налоги</category>
+	<category>новости</category>
 	<author>info@tmradio.net (anonymous)</author>
 </item>
 <item>
@@ -578,12 +589,13 @@
 	<guid>http://www.tmradio.net/programs/tsn/06/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-06.mp3" type="audio/mpeg" length="50361437"/>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>Онищенко</category>
 	<category>ТУ-154</category>
 	<category>гибель животных</category>
+	<category>новости</category>
 	<author>info@tmradio.net (anonymous)</author>
 </item>
 <item>
@@ -605,8 +617,8 @@
 	<guid>http://www.tmradio.net/programs/tsn/05/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-05.mp3" type="audio/mpeg" length="27759130"/>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>Домодедово</category>
 	<category>МЧС</category>
@@ -614,6 +626,7 @@
 	<category>Медведев</category>
 	<category>Соколов</category>
 	<category>Ходорковский</category>
+	<category>новости</category>
 	<author>info@tmradio.net (anonymous)</author>
 </item>
 <item>
@@ -631,12 +644,13 @@
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-04.mp3" type="audio/mpeg" length="28092452"/>
 	<category>WikiLeaks</category>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>Манежная площадь</category>
 	<category>Медведев</category>
 	<category>ЦРУ</category>
+	<category>новости</category>
 	<category>протесты</category>
 	<category>травматическое оружие</category>
 	<author>info@tmradio.net (anonymous)</author>
@@ -663,9 +677,9 @@
 	<guid>http://www.tmradio.net/programs/tsn/03/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-03.mp3" type="audio/mpeg" length="38192982"/>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
 	<category>podcast Путин</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>Варламов</category>
 	<category>Иванов</category>
@@ -676,6 +690,7 @@
 	<category>Ходорковский</category>
 	<category>золото</category>
 	<category>космос</category>
+	<category>новости</category>
 	<category>образование</category>
 	<author>info@tmradio.net (anonymous)</author>
 </item>
@@ -702,8 +717,8 @@
 	<category>PayPal</category>
 	<category>WikiLeaks</category>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>ГЛОНАСС</category>
 	<category>Делягин</category>
@@ -712,6 +727,7 @@
 	<category>Путин</category>
 	<category>Сердюков</category>
 	<category>Торшин</category>
+	<category>новости</category>
 	<author>info@tmradio.net (anonymous)</author>
 </item>
 <item>
@@ -728,8 +744,8 @@
 	<guid>http://www.tmradio.net/programs/tsn/01/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/sosonews/sosonews-01.mp3" type="audio/mpeg" length="56453333"/>
 	<category>dugwin</category>
-	<category>news</category>
 	<category>podcast</category>
+	<category>tsn</category>
 	<category>umonkey</category>
 	<category>Кинг</category>
 	<category>Лукашенко</category>
@@ -737,6 +753,7 @@
 	<category>Сколково</category>
 	<category>Собянин</category>
 	<category>визовый режим</category>
+	<category>новости</category>
 	<category>пенсионеры</category>
 	<author>info@tmradio.net (anonymous)</author>
 </item>

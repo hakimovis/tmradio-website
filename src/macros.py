@@ -19,10 +19,10 @@ LABEL_NAMES = {
     'daily': u'новость дня',
     'guests': u'гости',
     'mcast': u'микроподкасты',
-    'news': u'так себе новости',
     'podcast': u'подкасты',
     'programs': u'программы',
     'prokino': u'про кино',
+    'tsn': u'так себе новости',
     }
 LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md', 'input/guests/%s/index.md', 'input/%s/index.md')
 
@@ -66,7 +66,7 @@ def get_label_stats(posts):
 
 def init_comments(page):
     if DISQUS_ID is not None:
-        return u'<script type="text/javascript">var disqus_url = "'+ BASE_URL + '/' + page.get('url') +'";</script>'
+        return u'<script type="text/javascript">var disqus_url = "'+ BASE_URL + strip_index('/' + page.get('url')) +'";</script>'
 
 def strip_index(url):
     if url.endswith('/index.html'):

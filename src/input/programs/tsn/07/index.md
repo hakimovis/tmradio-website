@@ -2,7 +2,7 @@ title: Эфир ТСН от 13.01.2011
 date: 2011-01-13 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-07.mp3
 filesize: 42230837
-labels: umonkey, dugwin, news, podcast, Мавроди, МММ, Хазин, Алексеева, Китай, Сарычев, налоги, Гиффордс, Тусон
+labels: umonkey, dugwin, tsn, новости, podcast, Мавроди, МММ, Хазин, Алексеева, Китай, Сарычев, налоги, Гиффордс, Тусон
 ---
 Основные новости:
 

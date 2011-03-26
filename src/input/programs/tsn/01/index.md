@@ -2,7 +2,7 @@ title: Эфир ТСН от 02.12.2010
 date: 2010-12-02 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-01.mp3
 filesize: 56453333
-labels: umonkey, dugwin, news, podcast, Путин, Кинг, визовый режим, Собянин, пенсионеры, Лукашенко, Сколково
+labels: umonkey, dugwin, tsn, новости, podcast, Путин, Кинг, визовый режим, Собянин, пенсионеры, Лукашенко, Сколково
 ---
 Основные новости:
 
