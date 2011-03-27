@@ -14,6 +14,7 @@ import urllib
 import urlparse
 
 BASE_URL = 'http://www.tmradio.net'
+ADMIN_EMAIL = 'info@tmradio.net'
 DISQUS_ID = 'tmradio'
 LABEL_NAMES = {
     'daily': u'новость дня',
@@ -68,9 +69,9 @@ def init_comments(page):
     if DISQUS_ID is not None:
         return u'<script type="text/javascript">var disqus_url = "'+ BASE_URL + strip_index('/' + page.get('url')) +'";</script>'
 
-def strip_index(url):
-    if url.endswith('/index.html'):
-        url = url[:-10]
+def strip_index(url, suffix='index.html'):
+    if url.endswith('/' + suffix):
+        url = url[:-len(suffix)]
     return url
 
 def parse_date_time(text, as_float=True):
@@ -260,18 +261,18 @@ def write_rss(pages, title, description, label=None, filename=None):
     pages.sort(key=lambda p: p.date, reverse=True)
 
     xml = u'<?xml version="1.0"?>\n'
-    xml += u'<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
+    xml += u'<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">\n'
     xml += u'<channel>\n'
     xml += u'<atom:link href="%(base)s/%(filename)s" rel="self" type="application/rss+xml"/>\n' % { 'base': base, 'filename': filename }
     xml += u'<language>ru-RU</language>\n'
     xml += u'<docs>http://blogs.law.harvard.edu/tech/rss</docs>\n'
+    xml += u'<itunes:owner><itunes:email>%s</itunes:email></itunes:owner>\n' % page.get('podcast_owner_email', ADMIN_EMAIL)
+    xml += u'<itunes:explicit>%s</itunes:explicit>\n' % page.get('explicit', 'No')
+    xml += u'<itunes:category>%s</itunes:category>\n' % page.get('itunes_category', 'News')
     xml += u'<generator>Poole</generator>\n'
     xml += u'<title>%s</title>\n' % escape(title)
     xml += u'<description>%s</description>\n' % escape(description)
-    if label is None:
-        xml += u'<link>%s/</link>\n' % base
-    else:
-        xml += u'<link>%s%s</link>\n' % (base, get_label_url(label))
+    xml += u'<link>%s/%s</link>\n' % (BASE_URL.rstrip('/'), strip_index(filename, suffix='index.xml'))
     if pages:
         feed_pub_date = email.utils.formatdate(parse_date_time(pages[0].date))
         xml += u'<pubDate>%s</pubDate>\n' % feed_pub_date
@@ -332,11 +333,12 @@ def hook_postconvert_rss():
     feeds = [{
         'url': os.path.splitext(page.get('url'))[0] + '.xml',
         'label': page.get('rss'),
-        'title': page.get('rsstitle', page.get('title'))
+        'title': page.get('rsstitle', page.get('title')),
+        'description': page.get('rssdescription', u'Страницы с меткой «%s»' % page.get('rss')),
     } for page in pages if page.get('rss')]
 
     for feed in feeds:
-        write_rss(pages, u'Тоже мне радио: ' + feed['label'], u'Страницы сайта Тоже мне радио с пометкой «%s».' % feed['label'], feed['label'], filename=feed['url'])
+        write_rss(pages, feed['title'], feed['description'], feed['label'], filename=feed['url'])
 
 def get_rss_table():
     labels = get_label_stats(pages).keys()

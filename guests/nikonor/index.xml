@@ -1,12 +1,15 @@
 <?xml version="1.0"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <atom:link href="http://www.tmradio.net/guests/nikonor/index.xml" rel="self" type="application/rss+xml"/>
 <language>ru-RU</language>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<itunes:owner><itunes:email>info@tmradio.net</itunes:email></itunes:owner>
+<itunes:explicit>No</itunes:explicit>
+<itunes:category>News</itunes:category>
 <generator>Poole</generator>
-<title>Тоже мне радио: nikonor</title>
-<description>Страницы сайта Тоже мне радио с пометкой «nikonor».</description>
+<title>Гости: Николаев Леонид</title>
+<description>Страницы с меткой «nikonor»</description>
 <link>http://www.tmradio.net/guests/nikonor/</link>
 <pubDate>Fri, 04 Mar 2011 12:35:00 -0000</pubDate>
 <lastBuildDate>Fri, 04 Mar 2011 12:35:00 -0000</lastBuildDate>
