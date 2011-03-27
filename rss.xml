@@ -376,6 +376,7 @@
 	<guid>http://www.tmradio.net/mcast/nikonor-20110304153512.html</guid>
 	<enclosure url="http://audioboo.fm/boos/284719-500.mp3?source=rss" type="audio/mpeg" length="1812608"/>
 	<category>mcast</category>
+	<category>movie-reviews</category>
 	<category>nikonor</category>
 	<category>podcast</category>
 	<author>info@tmradio.net (nikonor)</author>
@@ -388,6 +389,7 @@
 	<guid>http://www.tmradio.net/mcast/nikonor-20110304153459.html</guid>
 	<enclosure url="http://audioboo.fm/boos/273840-the-big-c.mp3?source=rss" type="audio/mpeg" length="989312"/>
 	<category>mcast</category>
+	<category>movie-reviews</category>
 	<category>nikonor</category>
 	<category>podcast</category>
 	<author>info@tmradio.net (nikonor)</author>
