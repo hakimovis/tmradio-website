@@ -17,7 +17,7 @@ title: Карта сайта
     - [Про кино](/programs/prokino/)
     - [Архив новостей](/programs/daily/)
     - [Микроподкасты](/programs/mcast/)
-- [Слушателям](listeners.html)
+- [Слушателям](/listeners/)
     - [Слушать радио](player.html)
     - [Подписка на обновления](/rss/)
     - [SMS-рассылка](/live/sms/)
