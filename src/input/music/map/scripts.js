@@ -1,3 +1,5 @@
+var imgroot = '/music/map/';
+
 function show_map() {
 	try {
 		var sw = new google.maps.LatLng(map_data.bounds[0], map_data.bounds[2]);
@@ -11,27 +13,27 @@ function show_map() {
 		});
 		map.panToBounds(bounds);
 
-		var shadow = new google.maps.MarkerImage('shadow.png',
+		var shadow = new google.maps.MarkerImage(imgroot + 'shadow.png',
 			new google.maps.Size(59, 32),
 			new google.maps.Point(0, 0),
 			new google.maps.Point(15, 31));
 
-		var green = new google.maps.MarkerImage('green.png',
+		var green = new google.maps.MarkerImage(imgroot + 'green.png',
 			new google.maps.Size(32, 32),
 			new google.maps.Point(0, 0),
 			new google.maps.Point(15, 31));
 
-		var green_dot = new google.maps.MarkerImage('green-dot.png',
+		var green_dot = new google.maps.MarkerImage(imgroot + 'green-dot.png',
 			new google.maps.Size(32, 32),
 			new google.maps.Point(0, 0),
 			new google.maps.Point(15, 31));
 
-		var red = new google.maps.MarkerImage('red.png',
+		var red = new google.maps.MarkerImage(imgroot + 'red.png',
 			new google.maps.Size(32, 32),
 			new google.maps.Point(0, 0),
 			new google.maps.Point(15, 31));
 
-		var red_dot = new google.maps.MarkerImage('red-dot.png',
+		var red_dot = new google.maps.MarkerImage(imgroot + 'red-dot.png',
 			new google.maps.Size(32, 32),
 			new google.maps.Point(0, 0),
 			new google.maps.Point(15, 31));
