@@ -57,6 +57,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    41.146002000000003, 
+    -8.6095459999999999
+   ], 
+   "html": "<p><strong>Caribou</strong><br/>Gare, Porto<br/>22.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1889031+Caribou+at+Gare+on+22+April+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     37.986936, 
     -1.1156889999999999
    ], 
