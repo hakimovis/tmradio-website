@@ -268,7 +268,7 @@ def write_rss(pages, title, description, label=None, filename=None):
     xml += u'<docs>http://blogs.law.harvard.edu/tech/rss</docs>\n'
     xml += u'<itunes:owner><itunes:email>%s</itunes:email></itunes:owner>\n' % page.get('podcast_owner_email', ADMIN_EMAIL)
     xml += u'<itunes:explicit>%s</itunes:explicit>\n' % page.get('explicit', 'No')
-    for cat in page.get('itunes_categories', 'Society & Culture/Personal Journals').split(','):
+    for cat in page.get('itunes_categories', 'Society & Culture').split(','):
         xml += u'<itunes:category text="%s"/>\n' % escape(cat.strip())
     xml += u'<generator>Poole</generator>\n'
     xml += u'<title>%s</title>\n' % escape(title)
