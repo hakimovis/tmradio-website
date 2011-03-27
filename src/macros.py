@@ -260,7 +260,7 @@ def write_rss(pages, title, description, label=None, filename=None):
     # sort by date
     pages.sort(key=lambda p: p.date, reverse=True)
 
-    xml = u'<?xml version="1.0"?>\n'
+    xml = u'<?xml version="1.0" encoding="UTF-8"?>\n'
     xml += u'<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">\n'
     xml += u'<channel>\n'
     xml += u'<atom:link href="%(base)s/%(filename)s" rel="self" type="application/rss+xml"/>\n' % { 'base': base, 'filename': filename }
