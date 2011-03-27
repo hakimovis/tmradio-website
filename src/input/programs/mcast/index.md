@@ -1,6 +1,7 @@
 title: Микроподкасты
 rss: mcast
 rsstitle: Все микроподкасты
+itunes_categories: Society & Culture/Personal Journals
 labels: programs
 ---
 Микроподкасты — это [подкасты](/podcast/) со средней продолжительностью

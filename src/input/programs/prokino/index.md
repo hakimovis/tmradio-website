@@ -1,6 +1,7 @@
 title: Программа про кино
 rss: prokino
 rsstitle: Программы: про кино
+itunes_categories: TV & Film
 labels: programs
 ---
 Программа «Про кино» — это [микроподкасты](/programs/mcast/) с рецензиями на

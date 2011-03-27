@@ -1,6 +1,7 @@
 title: Архив новостей
 rss: daily
 rsstitle: Программы: Архив новостей
+itunes_categories: News & Politics
 labels: programs
 ---
 В этом [микроподкасте](programs/mcast/) озвучивается новость дня.  Это самая
