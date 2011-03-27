@@ -213,7 +213,7 @@ def add_comments(page):
 
 def print_player(link, extras=True):
     extra = u''
-    if link.endswith('.mp3'):
+    if link.split('?')[0].endswith('.mp3'):
         if extras:
             extra += u'<p>Выпуск можно <a href="%s">скачать</a> или прослушать прямо здесь:</p>' % escape(link)
         extra += u'<div id="player"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="37" id="swf"><param name="movie" value="/niftyplayer.swf?file='+ urllib.quote(link) +'"><param name="quality" value="high"/><param name="bgcolor" value="#FFFFFF"/><embed src="/niftyplayer.swf?file='+ urllib.quote(link) +'" quality="high" bgcolor="#FFFFFF" width="165" height="37" name="swf" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object></div>'
