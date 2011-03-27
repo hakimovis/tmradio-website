@@ -6,7 +6,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <itunes:owner><itunes:email>info@tmradio.net</itunes:email></itunes:owner>
 <itunes:explicit>No</itunes:explicit>
-<itunes:category>News</itunes:category>
+<itunes:category text="News"/>
 <generator>Poole</generator>
 <title>Все подкасты</title>
 <description>Страницы с меткой «podcast»</description>
