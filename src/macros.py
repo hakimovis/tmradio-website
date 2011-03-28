@@ -201,13 +201,13 @@ def get_page_classes(page):
 
 
 def get_disqus_page_id(page):
-    return page.get('disqus_id', page.get('url'))
+    return page.get('disqus_id', strip_index(page.get('url')))
 
 
 def add_comments(page):
     labels = get_page_labels(page)
     if page.get('file', '').split('?')[0].endswith('.mp3') or 'blog' in labels:
-        settings = 'var disqus_identifier = "'+ page.url +'";'
+        settings = 'var disqus_identifier = "'+ strip_index(page.url) +'";'
         return u'<div id="disqus_thread"></div><script type="text/javascript">if (window.location.href.indexOf("http://localhost:") == 0) var disqus_developer = 1;'+ settings +' (function() { var dsq = document.createElement(\'script\'); dsq.type = \'text/javascript\'; dsq.async = true; dsq.src = \'http://tmradio.disqus.com/embed.js\'; (document.getElementsByTagName(\'head\')[0] || document.getElementsByTagName(\'body\')[0]).appendChild(dsq); })();</script><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=tmradio">comments powered by Disqus.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>'
     return ''
 
