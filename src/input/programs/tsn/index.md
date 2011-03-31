@@ -10,7 +10,7 @@ labels: programs
 основные новости недели, второй час выделяется на обсуждение внутренней кухни
 радиостанции и общение со слушателями.
 
-Подписка: [RSS][], [iTunes][], [JSON][].
+Подписка: [RSS][], [iTunes][], [JSON][], [email][].
 
 [1]: /guests/dugwin/
 [2]: /guests/umonkey/
@@ -19,6 +19,7 @@ labels: programs
 [RSS]: http://www.tmradio.net/programs/tsn/index.xml
 [iTunes]: itpc://www.tmradio.net/programs/tsn/index.xml
 [JSON]: http://www.tmradio.net/programs/tsn/index.json
+[email]: /rss/#mail
 
 
 ## Архив выпусков
