@@ -31,3 +31,6 @@ fetch:
 
 serve:
 	poole.py --serve
+
+tsn:
+	$(EDITOR) `ls input/programs/tsn/*/index.md | sort | tail -1`
