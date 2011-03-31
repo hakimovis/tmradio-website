@@ -73,6 +73,9 @@
 	<loc>http://www.tmradio.net/graph.html</loc>
 </url>
 <url>
+	<loc>http://www.tmradio.net/guests/asp_id/</loc>
+</url>
+<url>
 	<loc>http://www.tmradio.net/guests/dugwin/</loc>
 </url>
 <url>
@@ -264,6 +267,10 @@
 <url>
 	<loc>http://www.tmradio.net/programs/tsn/17/</loc>
 	<lastmod>2011-03-24</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/tsn/18/</loc>
+	<lastmod>2011-03-31</lastmod>
 </url>
 <url>
 	<loc>http://www.tmradio.net/programs/tsn/</loc>
