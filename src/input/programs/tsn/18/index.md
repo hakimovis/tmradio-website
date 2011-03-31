@@ -22,4 +22,4 @@ labels: umonkey, dugwin, asp_id, tsn, новости, podcast, оппозици�
 <li><a href="http://www.dni.ru/society/2011/3/30/209796.html">Онищенко предложил запретить россиянам курить на остановках</a></li>
 </ul>
 
-![статистика](http://files.tmradio.net/audio/sosonews/sosonews-17.png)
+![статистика](http://files.tmradio.net/audio/sosonews/sosonews-18.png)
