@@ -8,12 +8,16 @@ labels: programs
 обсуждают новости прошедшей недели.  Покдаст записывается в [прямом эфире][live]
 по четвергам в 21:00 МСК, выпуски длятся 120 минут: первый час обсуждаются
 основные новости недели, второй час выделяется на обсуждение внутренней кухни
-радиостанции и общение со слушателями.
+радиостанции и общение со слушателями по Скайпу (абонент tmradio.net).
 
 Подписка: [RSS][], [iTunes][], [JSON][], [email][].
 
+Статистика: [слушатели][3], [скачивания][4].
+
 [1]: /guests/dugwin/
 [2]: /guests/umonkey/
+[3]: /programs/tsn/listeners.txt
+[4]: http://files.tmradio.net/audio/sosonews/stats.txt
 [live]: /live/
 [podcast]: /podcast/
 [RSS]: http://www.tmradio.net/programs/tsn/index.xml
