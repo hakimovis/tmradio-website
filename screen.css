@@ -45,6 +45,13 @@ em {
   background-color: #ffff80;
 }
 
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.25em;
+  margin: .67em 0;
+}
+
 h2 {
   margin: 1.5em 0 .5em;
 }
