@@ -71,13 +71,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    50.854692, 
-    4.3663059999999998
-   ], 
-   "html": "<p><strong>Caribou</strong><br/>Botanique, <br/>21.05.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1806538+Les+Nuits+Botanique+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     64.147357, 
     -21.940556000000001
    ], 
@@ -526,13 +519,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.763537999999997, 
-    37.624462000000001
-   ], 
-   "html": "<p><strong>Kirov</strong><br/>Squat Cafe, <br/>30.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1886990+%D0%9B%D0%B5%D1%82%D0%BD%D1%8F%D1%8F+%D1%82%D0%B5%D1%80%D1%80%D0%B0%D1%81%D0%B0+SQUAT+CAFE\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     52.404406999999999, 
     16.933506999999999
    ], 
@@ -544,13 +530,6 @@ var map_data = {
     60.610779999999998
    ], 
    "html": "<p><strong>nobody.one</strong><br/>\u0410\u0420\u0442\u0425\u0430\u0443\u0441, \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433<br/>12.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1782784+nobody.one\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    53.116666700000003, 
-    54.866666700000003
-   ], 
-   "html": "<p><strong>nobody.one</strong><br/>Machine Head, \u0421\u0430\u0440\u0430\u0442\u043e\u0432, <br/>22.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1820175+2011+Addictive+Tour+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -600,13 +579,6 @@ var map_data = {
     105.6833333
    ], 
    "html": "<p><strong>\u0411\u0438-2</strong><br/>\u0414\u041a \u0438\u043c. \u0421\u043e\u043b\u0434\u0430\u0442\u043e\u0432\u0430, \u041f\u0435\u0440\u043c\u044c<br/>16.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1836507+%D0%91%D0%B8-2+%D1%81+%D1%81%D0%B8%D0%BC%D1%84%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%BC+%D0%BE%D1%80%D0%BA%D0%B5%D1%81%D1%82%D1%80%D0%BE%D0%BC\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    56.837910000000001, 
-    60.580666000000001
-   ], 
-   "html": "<p><strong>\u0411\u0438-2</strong><br/>\u0414\u0432\u043e\u0440\u0435\u0446 \u041c\u043e\u043b\u043e\u0434\u0435\u0436\u0438, <br/>17.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1806311+%D0%91%D0%B8-2+%D0%B2+%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8+%D0%A1%D0%B8%D0%BC%D1%84%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%BE%D1%80%D0%BA%D0%B5%D1%81%D1%82%D1%80%D0%B0\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
