@@ -1,4 +1,4 @@
-title: Эфир ТСН от 07.04.2011
+title: ТСН №19 от 07.04.2011
 date: 2011-04-07 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-19.mp3
 filesize: 1024

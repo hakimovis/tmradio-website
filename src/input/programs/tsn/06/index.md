@@ -1,4 +1,4 @@
-title: Эфир ТСН от 06.01.2011
+title: ТСН №6 от 06.01.2011
 date: 2011-01-06 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-06.mp3
 filesize: 50361437

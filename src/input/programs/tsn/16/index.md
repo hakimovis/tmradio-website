@@ -1,4 +1,4 @@
-title: Эфир ТСН от 17.03.2011
+title: ТСН №16 от 17.03.2011
 date: 2011-03-17 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-16.mp3
 filesize: 59093565

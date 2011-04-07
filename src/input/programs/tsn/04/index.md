@@ -1,4 +1,4 @@
-title: Эфир ТСН от 23.12.2010
+title: ТСН №4 от 23.12.2010
 date: 2010-12-23 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-04.mp3
 filesize: 28092452

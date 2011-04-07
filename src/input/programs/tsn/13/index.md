@@ -1,4 +1,4 @@
-title: Эфир ТСН от 24.02.2011
+title: ТСН №13 от 24.02.2011
 date: 2011-02-24 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-13.mp3
 filesize: 59512778

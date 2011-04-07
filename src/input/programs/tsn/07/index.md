@@ -1,4 +1,4 @@
-title: Эфир ТСН от 13.01.2011
+title: ТСН №7 от 13.01.2011
 date: 2011-01-13 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-07.mp3
 filesize: 42230837

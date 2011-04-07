@@ -1,4 +1,4 @@
-title: Эфир ТСН от 10.03.2011
+title: ТСН №15 от 10.03.2011
 date: 2011-03-10 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-15.mp3
 filesize: 54164537

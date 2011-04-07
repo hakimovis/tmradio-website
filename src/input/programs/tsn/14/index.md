@@ -1,4 +1,4 @@
-title: Эфир ТСН от 03.03.2011
+title: ТСН №14 от 03.03.2011
 date: 2011-03-03 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-14.mp3
 filesize: 91030839

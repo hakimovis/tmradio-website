@@ -1,4 +1,4 @@
-title: Эфир ТСН от 17.02.2011
+title: ТСН №12 от 17.02.2011
 date: 2011-02-17 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-12.mp3
 filesize: 54657867

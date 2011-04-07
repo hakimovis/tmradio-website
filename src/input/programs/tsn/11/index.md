@@ -1,4 +1,4 @@
-title: Эфир ТСН от 10.02.2011
+title: ТСН №11 от 10.02.2011
 date: 2011-02-10 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-11.mp3
 filesize: 70703182

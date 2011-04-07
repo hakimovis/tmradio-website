@@ -1,4 +1,4 @@
-title: Эфир ТСН от 24.03.2011
+title: ТСН №17 от 24.03.2011
 date: 2011-03-24 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-17.mp3
 filesize: 53193862

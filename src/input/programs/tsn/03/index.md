@@ -1,4 +1,4 @@
-title: Эфир ТСН от 16.12.2010
+title: ТСН №3 от 16.12.2010
 date: 2010-12-16 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-03.mp3
 filesize: 38192982

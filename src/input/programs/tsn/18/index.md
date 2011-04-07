@@ -1,4 +1,4 @@
-title: Эфир ТСН от 31.03.2011
+title: ТСН №18 от 31.03.2011
 date: 2011-03-31 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-18.mp3
 filesize: 100729719
