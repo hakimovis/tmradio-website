@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<atom:link href="http://www.tmradio.net/guests/paskal/index.xml" rel="self" type="application/rss+xml"/>
+<language>ru-RU</language>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<itunes:owner><itunes:email>info@tmradio.net</itunes:email></itunes:owner>
+<itunes:explicit>No</itunes:explicit>
+<itunes:category text="Society &amp; Culture"/>
+<generator>Poole</generator>
+<title>Гости: Паскаль Дмитрий</title>
+<description>Страницы с меткой «paskal»</description>
+<link>http://www.tmradio.net/guests/paskal/</link>
+</channel>
+</rss>
