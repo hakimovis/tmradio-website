@@ -437,7 +437,7 @@ def monthly_stats(date):
         return u'Нет данных за указанный период.'
 
     columns = [
-        ('connection_count', u'Количество <a href="/listen/">подключений</a>', str),
+        ('connection_count', u'Количество <a href="/player.html">подключений</a>', str),
         ('connection_avg', u'Среднее время прослушивания, мин.', lambda x: str(x / 60)),
         ('connection_max', u'Максимальное число одновременных подключений', str),
         ('unique_ips', u'<a href="/listeners/#map">Уникальных IP-адресов</a>', str),
