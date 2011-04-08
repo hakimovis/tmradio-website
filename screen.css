@@ -165,8 +165,25 @@ h2 a:hover {
   padding: 2em 0;
 }
 
-table.skel {
+table {
   border-collapse: collapse;
+}
+
+table.mstat td,
+table.mstat th {
+  padding: 2px 6px;
+  border: solid 1px #cccccc;
+}
+
+table.mstat th {
+  text-align: left;
+}
+
+table.mstat td {
+  text-align: right;
+}
+
+table.skel {
   width: 100%;
 }
 

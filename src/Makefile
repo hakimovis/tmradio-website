@@ -34,3 +34,6 @@ serve:
 
 tsn:
 	$(EDITOR) `ls input/programs/tsn/*/index.md | sort | tail -1`
+
+new-blog:
+	python macro.py new-blog

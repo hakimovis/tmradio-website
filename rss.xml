@@ -89,6 +89,32 @@
 	<author>info@tmradio.net (anonymous)</author>
 </item>
 <item>
+	<title>Статистика за март 2011</title>
+	<link>http://www.tmradio.net/blog/9/index.html</link>
+	<description>&lt;table class="mstat"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th&gt;Количество &lt;a href="/listen/"&gt;подключений&lt;/a&gt;:&lt;/th&gt;&lt;td&gt;2540&lt;/td&gt;&lt;/th&gt;
+&lt;tr&gt;&lt;th&gt;Среднее время прослушивания, мин.:&lt;/th&gt;&lt;td&gt;50&lt;/td&gt;&lt;/th&gt;
+&lt;tr&gt;&lt;th&gt;Максимальное число одновременных подключений:&lt;/th&gt;&lt;td&gt;22&lt;/td&gt;&lt;/th&gt;
+&lt;tr&gt;&lt;th&gt;&lt;a href="/listeners/#map"&gt;Уникальных IP-адресов&lt;/a&gt;:&lt;/th&gt;&lt;td&gt;419&lt;/td&gt;&lt;/th&gt;
+&lt;tr&gt;&lt;th&gt;Количество дорожек в медиатеке:&lt;/th&gt;&lt;td&gt;1497&lt;/td&gt;&lt;/th&gt;
+&lt;tr&gt;&lt;th&gt;Общая продолжительность медиатеки, ч.:&lt;/th&gt;&lt;td&gt;104&lt;/td&gt;&lt;/th&gt;
+&lt;tr&gt;&lt;th&gt;Трафик от прослушивания, Гб:&lt;/th&gt;&lt;td&gt;80.51&lt;/td&gt;&lt;/th&gt;
+&lt;tr&gt;&lt;th&gt;&lt;a href="http://stream.tmradio.net/"&gt;Общий трафик&lt;/a&gt;, Гб:&lt;/th&gt;&lt;td&gt;163.51&lt;/td&gt;&lt;/th&gt;
+&lt;tr&gt;&lt;th&gt;Пришло &lt;a href="/support/donate/"&gt;пожертвований&lt;/a&gt;, р.:&lt;/th&gt;&lt;td&gt;251.73&lt;/td&gt;&lt;/th&gt;
+&lt;tr&gt;&lt;th&gt;Потрачено пожертвований, р.:&lt;/th&gt;&lt;td&gt;990.0&lt;/td&gt;&lt;/th&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Эти данные доступны также &lt;a href="/blog/monthly.json"&gt;в формате JSON&lt;/a&gt; (для машинной обработки).&lt;/p&gt;</description>
+	<pubDate>Fri, 01 Apr 2011 11:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/blog/9/index.html</guid>
+	<category>blog</category>
+	<category>stats</category>
+	<category>tech</category>
+	<author>hex@umonkey.net (umonkey)</author>
+</item>
+<item>
 	<title>ТСН №18 от 31.03.2011</title>
 	<link>http://www.tmradio.net/programs/tsn/18/index.html</link>
 	<description>&lt;p&gt;Основные новости:&lt;/p&gt;

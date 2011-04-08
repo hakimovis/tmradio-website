@@ -429,3 +429,50 @@ def once_sitemap():
     fp = open(fname, 'w')
     fp.write(contents)
     fp.close()
+
+
+def monthly_stats(date):
+    data = json.load(open('input/blog/montly.json', 'rb'))
+    if date not in data:
+        return u'Нет данных за указанный период.'
+
+    columns = [
+        ('connection_count', u'Количество <a href="/listen/">подключений</a>', str),
+        ('connection_avg', u'Среднее время прослушивания, мин.', lambda x: str(x / 60)),
+        ('connection_max', u'Максимальное число одновременных подключений', str),
+        ('unique_ips', u'<a href="/listeners/#map">Уникальных IP-адресов</a>', str),
+        ('track_count', u'Количество дорожек в медиатеке', str),
+        ('track_length', u'Общая продолжительность медиатеки, ч.', lambda x: str(x / 3600)),
+        ('traffic_stream', u'Трафик от прослушивания, Гб', str),
+        ('traffic_total', u'<a href="http://stream.tmradio.net/">Общий трафик</a>, Гб', str),
+        ('money_in', u'Пришло <a href="/support/donate/">пожертвований</a>, р.', str),
+        ('money_out', u'Потрачено пожертвований, р.', str),
+    ]
+
+    output = u'<table class="mstat">\n<tbody>\n'
+    for k, h, conv in columns:
+        if k in data[date]:
+            output += u'<tr><th>%s:</th><td>%s</td></th>\n' % (h, conv(data[date][k]))
+    output += u'</tbody>\n</table>\n<p>Эти данные доступны также <a href="/blog/monthly.json">в формате JSON</a> (для машинной обработки).</p>'
+    return output
+
+def run(args):
+    import subprocess
+    subprocess.Popen(args).wait()
+
+if __name__ == '__main__':
+    if len(sys.argv) < 2:
+        print >>sys.stderr, 'Usage: python macro.py command'
+        sys.exit(1)
+
+    if sys.argv[1] == 'new-blog':
+        last_id = int([fn.split(os.sep)[-2] for fn in glob.glob(os.path.join('input', 'blog', '*', 'index.md'))][-1])
+        filename = os.path.join('input', 'blog', str(last_id + 1), 'index.md')
+        dirname = os.path.dirname(filename)
+        if not os.path.exists(dirname):
+            os.mkdir(os.path.dirname(filename))
+
+        contents = u"title: ...\ndate: %(date)s\nlabels: draft, blog\nauthor: hex@umonkey.net (umonkey)\n---\n..."
+        open(filename, 'wb').write(contents.encode('utf-8'))
+
+        run(['vim', filename])
