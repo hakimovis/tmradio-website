@@ -432,7 +432,7 @@ def once_sitemap():
 
 
 def monthly_stats(date):
-    data = json.load(open('input/blog/montly.json', 'rb'))
+    data = json.load(open('input/blog/monthly.json', 'rb'))
     if date not in data:
         return u'Нет данных за указанный период.'
 
