@@ -11,8 +11,22 @@
 <title>Программы: про кино</title>
 <description>Страницы с меткой «prokino»</description>
 <link>http://www.tmradio.net/programs/prokino/</link>
-<pubDate>Wed, 30 Mar 2011 20:00:00 -0000</pubDate>
-<lastBuildDate>Wed, 30 Mar 2011 20:00:00 -0000</lastBuildDate>
+<pubDate>Sat, 09 Apr 2011 15:24:00 -0000</pubDate>
+<lastBuildDate>Sat, 09 Apr 2011 15:24:00 -0000</lastBuildDate>
+<item>
+	<title>О фильме «Быть Джоном Малковичем» [8/10]</title>
+	<link>http://www.tmradio.net/programs/mcast/16/index.html</link>
+	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/movies/malkovich/index.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Sat, 09 Apr 2011 15:24:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/programs/mcast/16/index.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/malkovich.mp3" type="audio/mpeg" length="1773906"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<category>umonkey</category>
+	<author>info@tmradio.net (Хекс)</author>
+</item>
 <item>
 	<title>О фильме «Изобретение лжи»</title>
 	<link>http://www.tmradio.net/programs/mcast/2/index.html</link>
@@ -126,6 +140,20 @@
 	<pubDate>Sat, 05 Feb 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/13/index.html</guid>
 	<enclosure url="http://files.umonkey.net/audio/mcast/movies/big-bang-theory.mp3" type="audio/mpeg" length="1"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<category>umonkey</category>
+	<author>info@tmradio.net (Хекс)</author>
+</item>
+<item>
+	<title>Рецензия на сериал «Визитёры»</title>
+	<link>http://www.tmradio.net/programs/mcast/19/index.html</link>
+	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/visitors-series-review.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Sat, 05 Feb 2011 18:00:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/programs/mcast/19/index.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/visitors.mp3" type="audio/mpeg" length="1"/>
 	<category>mcast</category>
 	<category>movie-reviews</category>
 	<category>podcast</category>

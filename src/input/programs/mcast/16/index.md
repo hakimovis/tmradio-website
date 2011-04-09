@@ -3,7 +3,7 @@ author: Хекс
 file: http://files.umonkey.net/audio/mcast/movies/malkovich.mp3
 file_backup: http://files.tmradio.net/audio/incoming/mcasts/umonkey-20110409192400.mp3
 filesize: 1773906
-labels: podcast, mcast, movie-reviews, umonkey
+labels: podcast, mcast, movie-reviews, umonkey, prokino
 date: 2011-04-09 19:24
 ---
 <p>Полное описание можно найти на <a href="http://umonkey.net/movies/malkovich/index.html">сайте автора</a>.</p>
