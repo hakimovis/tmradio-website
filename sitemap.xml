@@ -122,70 +122,6 @@
 	<loc>http://www.tmradio.net/live/sms/</loc>
 </url>
 <url>
-	<loc>http://www.tmradio.net/mcast/hakimovis-20110211000000.html</loc>
-	<lastmod>2011-02-11</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/hakimovis-iol.html</loc>
-	<lastmod>2011-03-31</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/hakimovis-thunder.html</loc>
-	<lastmod>2011-03-31</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/nikonor-20090725083403.html</loc>
-	<lastmod>2009-07-25</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/nikonor-20110211204426.html</loc>
-	<lastmod>2011-02-11</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/nikonor-20110216161329.html</loc>
-	<lastmod>2011-02-16</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/nikonor-20110304153459.html</loc>
-	<lastmod>2011-03-04</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/nikonor-20110304153512.html</loc>
-	<lastmod>2011-03-04</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/rustray-20110304205700.html</loc>
-	<lastmod>2011-03-04</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/sckrat-nerves.html</loc>
-	<lastmod>2011-03-15</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/sckrat-shield.html</loc>
-	<lastmod>2011-03-15</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/umonkey-20100420200000.html</loc>
-	<lastmod>2010-04-20</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/umonkey-20110205210000.html</loc>
-	<lastmod>2011-02-05</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/umonkey-20110206210000.html</loc>
-	<lastmod>2011-02-06</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/umonkey-20110316210000.html</loc>
-	<lastmod>2011-03-16</lastmod>
-</url>
-<url>
-	<loc>http://www.tmradio.net/mcast/umonkey-20110409192400.html</loc>
-	<lastmod>2011-04-09</lastmod>
-</url>
-<url>
 	<loc>http://www.tmradio.net/music/</loc>
 </url>
 <url>
@@ -217,6 +153,70 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/programs/</loc>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/1/</loc>
+	<lastmod>2011-02-11</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/10/</loc>
+	<lastmod>2011-03-15</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/11/</loc>
+	<lastmod>2011-03-15</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/12/</loc>
+	<lastmod>2010-04-20</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/13/</loc>
+	<lastmod>2011-02-05</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/14/</loc>
+	<lastmod>2011-02-06</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/15/</loc>
+	<lastmod>2011-03-16</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/16/</loc>
+	<lastmod>2011-04-09</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/2/</loc>
+	<lastmod>2011-03-31</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/3/</loc>
+	<lastmod>2011-03-31</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/4/</loc>
+	<lastmod>2009-07-25</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/5/</loc>
+	<lastmod>2011-02-11</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/6/</loc>
+	<lastmod>2011-02-16</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/7/</loc>
+	<lastmod>2011-03-04</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/8/</loc>
+	<lastmod>2011-03-04</lastmod>
+</url>
+<url>
+	<loc>http://www.tmradio.net/programs/mcast/9/</loc>
+	<lastmod>2011-03-04</lastmod>
 </url>
 <url>
 	<loc>http://www.tmradio.net/programs/mcast/</loc>
