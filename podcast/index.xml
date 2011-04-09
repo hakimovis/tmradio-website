@@ -11,8 +11,21 @@
 <title>Все подкасты</title>
 <description>Страницы с меткой «podcast»</description>
 <link>http://www.tmradio.net/podcast/</link>
-<pubDate>Thu, 07 Apr 2011 17:00:00 -0000</pubDate>
-<lastBuildDate>Thu, 07 Apr 2011 17:00:00 -0000</lastBuildDate>
+<pubDate>Sat, 09 Apr 2011 15:24:00 -0000</pubDate>
+<lastBuildDate>Sat, 09 Apr 2011 15:24:00 -0000</lastBuildDate>
+<item>
+	<title>О фильме «Быть Джоном Малковичем» [8/10]</title>
+	<link>http://www.tmradio.net/mcast/umonkey-20110409192400.html</link>
+	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/movies/malkovich/index.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Sat, 09 Apr 2011 15:24:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/mcast/umonkey-20110409192400.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/malkovich.mp3" type="audio/mpeg" length="1773906"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>umonkey</category>
+	<author>info@tmradio.net (Хекс)</author>
+</item>
 <item>
 	<title>ТСН №19 от 07.04.2011</title>
 	<link>http://www.tmradio.net/programs/tsn/19/index.html</link>
