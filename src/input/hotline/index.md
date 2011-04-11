@@ -57,3 +57,8 @@ mpos: 91
 
 О том, как реализована голосовая почта и горячая линия, [рассказано в
 документации](http://code.google.com/p/ardj/wiki/Voicemail).
+
+
+## Архив сообщений
+
+{{ pagelist(pages, limit=None, label='hotline', show_dates=False) }}
