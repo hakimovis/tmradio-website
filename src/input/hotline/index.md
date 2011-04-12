@@ -61,4 +61,4 @@ mpos: 91
 
 ## Архив сообщений
 
-{{ pagelist(pages, limit=None, label='hotline', show_dates=False) }}
+{{ pagelist(pages, limit=None, label='hotline', show_dates=True) }}

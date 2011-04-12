@@ -11,8 +11,21 @@
 <title>Все микроподкасты</title>
 <description>Страницы с меткой «mcast»</description>
 <link>http://www.tmradio.net/programs/mcast/</link>
-<pubDate>Sat, 09 Apr 2011 15:24:00 -0000</pubDate>
-<lastBuildDate>Sat, 09 Apr 2011 15:24:00 -0000</lastBuildDate>
+<pubDate>Tue, 12 Apr 2011 09:09:02 -0000</pubDate>
+<lastBuildDate>Tue, 12 Apr 2011 09:09:02 -0000</lastBuildDate>
+<item>
+	<title>Сообщение от Alex Frolov</title>
+	<link>http://www.tmradio.net/hotline/67/index.html</link>
+	<description>&lt;p&gt;Сообщение получено по почте.&lt;/p&gt;</description>
+	<pubDate>Tue, 12 Apr 2011 09:09:02 -0000</pubDate>
+	<guid>http://www.tmradio.net/hotline/67/index.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/hotline/20110412-130902.mp3" type="audio/mpeg" length="1803301"/>
+	<category>hotline</category>
+	<category>mcast</category>
+	<category>podcast</category>
+	<category>sckrat</category>
+	<author>info@tmradio.net (anonymous)</author>
+</item>
 <item>
 	<title>О фильме «Быть Джоном Малковичем» [8/10]</title>
 	<link>http://www.tmradio.net/programs/mcast/16/index.html</link>

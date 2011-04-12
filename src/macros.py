@@ -24,6 +24,7 @@ LABEL_NAMES = {
     'programs': u'программы',
     'prokino': u'про кино',
     'tsn': u'так себе новости',
+    'hotline': u'горячая линия',
     }
 LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md', 'input/guests/%s/index.md', 'input/%s/index.md')
 
