@@ -11,8 +11,21 @@
 <title>Программы: про кино</title>
 <description>Страницы с меткой «prokino»</description>
 <link>http://www.tmradio.net/programs/prokino/</link>
-<pubDate>Sat, 09 Apr 2011 15:24:00 -0000</pubDate>
-<lastBuildDate>Sat, 09 Apr 2011 15:24:00 -0000</lastBuildDate>
+<pubDate>Wed, 13 Apr 2011 13:15:00 -0000</pubDate>
+<lastBuildDate>Wed, 13 Apr 2011 13:15:00 -0000</lastBuildDate>
+<item>
+	<title>О фильме «Теория заговора»</title>
+	<link>http://www.tmradio.net/programs/mcast/25/index.html</link>
+	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/movies/conspiracy-theory/"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Wed, 13 Apr 2011 13:15:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/programs/mcast/25/index.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/conspiracy-theory.mp3" type="audio/mpeg" length="1765233"/>
+	<category>mcast</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<category>umonkey</category>
+	<author>info@tmradio.net (Хекс)</author>
+</item>
 <item>
 	<title>О фильме «Быть Джоном Малковичем» [8/10]</title>
 	<link>http://www.tmradio.net/programs/mcast/16/index.html</link>
