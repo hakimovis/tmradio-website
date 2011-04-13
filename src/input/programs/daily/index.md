@@ -1,6 +1,6 @@
 title: Архив новостей
 rss: daily
-rsstitle: Программы: Архив новостей
+rsstitle: Программы: архив новостей
 itunes_categories: News & Politics
 labels: programs
 ---

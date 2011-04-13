@@ -1,6 +1,6 @@
 title: Так себе новости
 rss: tsn
-rsstitle: Программы: Так себе новости
+rsstitle: Программы: так себе новости
 itunes_categories: News & Politics
 labels: programs
 ---

@@ -1,6 +1,6 @@
 title: Горячая линия
-rsslink: http://files.tmradio.net/voicemail/rss.xml
-jsonlink:
+rss: hotline
+rsstitle: Все сообщения с горячей линии
 mpos: 91
 ---
 Если вам есть что сообщить слушателям, звоните с любого телефона на
