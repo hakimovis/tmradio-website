@@ -25,13 +25,10 @@
     <div id="wrapper">
       <div id="content">
         <h1>{{ page.get('title') }}</h1>
-        <!--
         <div id="banners">
           <a href="/hotline/"><img src="/images/banners/hotline.png" alt="hotline"/></a>
           <a href="http://wiki.tmradio.net/" target="_blank"><img src="/images/banners/wiki.png" alt="hotline"/></a>
-          <a href="http://code.google.com/p/ardj/issues/detail?id=69" target="_blank">Нам нужны художники. ;)</a>
         </div>
-        -->
         {{ page_meta(page) }}
         {{ __content__ }}
         {{ print_player(page.get('file', '')) }}

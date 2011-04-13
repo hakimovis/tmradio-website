@@ -251,20 +251,16 @@ form .text {
 
 #banners {
   float: right;
-  width: 125px;
-  margin: 0 0 .25em 1em;
-  text-align: center;
-  font-size: 80%;
+  width: 122px;
+  margin: 0 0 10px 20px;
 }
 
-#banners2 {
-  display: block;
-  position: absolute;
-  top: 0px;
-  left: 677px;
-  width: 125px;
+#banners img {
+  width: 120px;
+  height: 60px;
+  border: solid 1px #419fb8;
 }
 
-#banners2 img {
-  border: none;
+#banners img:hover {
+  border: solid 1px #245887;
 }
