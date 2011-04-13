@@ -36,4 +36,4 @@ mpos: 1
 [music]: /music/
 [robots]: robots.html
 [sub]: rss/
-[gc]: tracker.html
+[gc]: /tracker/
