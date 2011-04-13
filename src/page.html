@@ -29,10 +29,12 @@
           <a href="/hotline/"><img src="/images/banners/hotline.png" alt="hotline"/></a>
           <a href="http://wiki.tmradio.net/" target="_blank"><img src="/images/banners/wiki.png" alt="hotline"/></a>
         </div>
-        {{ page_meta(page) }}
-        {{ __content__ }}
-        {{ print_player(page.get('file', '')) }}
-        {{ add_comments(page) }}
+        <div id="inner">
+          {{ page_meta(page) }}
+          {{ __content__ }}
+          {{ print_player(page.get('file', '')) }}
+          {{ add_comments(page) }}
+        </div>
         <div id="footer">
           <div id="columns">
             <ul>

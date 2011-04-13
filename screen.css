@@ -144,6 +144,10 @@ h2 a:hover {
   color: inherit;
 }
 
+#content #inner {
+  min-height: 120px;
+}
+
 #footer {
   margin: 5em 0 0 0;
   border-top: solid 1px #cccccc;
