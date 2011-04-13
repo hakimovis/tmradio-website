@@ -146,6 +146,9 @@
 	<loc>http://www.tmradio.net/live/sms/</loc>
 </url>
 <url>
+	<loc>http://www.tmradio.net/map/</loc>
+</url>
+<url>
 	<loc>http://www.tmradio.net/music/</loc>
 </url>
 <url>
@@ -378,9 +381,6 @@
 </url>
 <url>
 	<loc>http://www.tmradio.net/schedule.html</loc>
-</url>
-<url>
-	<loc>http://www.tmradio.net/sitemap.html</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/steeker/</loc>
