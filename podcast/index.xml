@@ -11,8 +11,34 @@
 <title>Все подкасты</title>
 <description>Страницы с меткой «podcast»</description>
 <link>http://www.tmradio.net/podcast/</link>
-<pubDate>Tue, 12 Apr 2011 09:09:02 -0000</pubDate>
-<lastBuildDate>Tue, 12 Apr 2011 09:09:02 -0000</lastBuildDate>
+<pubDate>Wed, 13 Apr 2011 13:15:00 -0000</pubDate>
+<lastBuildDate>Wed, 13 Apr 2011 13:15:00 -0000</lastBuildDate>
+<item>
+	<title>О фильме «Теория заговора»</title>
+	<link>http://www.tmradio.net/programs/mcast/25/index.html</link>
+	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/movies/conspiracy-theory/index.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Wed, 13 Apr 2011 13:15:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/programs/mcast/25/index.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/conspiracy-theory.mp3" type="audio/mpeg" length="1765233"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>umonkey</category>
+	<author>info@tmradio.net (Хекс)</author>
+</item>
+<item>
+	<title>О рассказе «Билет на планету Транай»</title>
+	<link>http://www.tmradio.net/programs/mcast/26/index.html</link>
+	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/books/tranai/index.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Wed, 13 Apr 2011 11:49:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/programs/mcast/26/index.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/books/tranai.mp3" type="audio/mpeg" length="3673568"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>umonkey</category>
+	<author>info@tmradio.net (Хекс)</author>
+</item>
 <item>
 	<title>Сообщение от Alex Frolov</title>
 	<link>http://www.tmradio.net/hotline/67/index.html</link>
