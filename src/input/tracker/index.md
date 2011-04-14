@@ -20,7 +20,7 @@ title: Публичный трекер
 <input type="text" name="email" placeholder="Ваш email"/> <input type="submit" value="Подписаться"/>
 </form>
 
-В рассылку можно писа́́ть; сообщения проходят модерацию, поэтому появляются не
+В рассылку можно писать; сообщения проходят модерацию, поэтому появляются не
 сразу.
 
 [add]: http://code.google.com/p/ardj/issues/entry
