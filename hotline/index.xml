@@ -14,7 +14,7 @@
 <pubDate>Thu, 14 Apr 2011 08:41:05 -0000</pubDate>
 <lastBuildDate>Thu, 14 Apr 2011 08:41:05 -0000</lastBuildDate>
 <item>
-	<title>Сообщение от</title>
+	<title>Сообщение от Alex Frolov</title>
 	<link>http://www.tmradio.net/hotline/68/index.html</link>
 	<description>&lt;p&gt;Сообщение получено по почте.&lt;/p&gt;</description>
 	<pubDate>Thu, 14 Apr 2011 08:41:05 -0000</pubDate>
@@ -22,6 +22,7 @@
 	<enclosure url="http://files.tmradio.net/audio/incoming/hotline/20110414-124105.mp3" type="audio/mpeg" length="534041"/>
 	<category>hotline</category>
 	<category>podcast</category>
+	<category>sckrat</category>
 	<author>info@tmradio.net (anonymous)</author>
 </item>
 <item>
@@ -32,7 +33,6 @@
 	<guid>http://www.tmradio.net/hotline/67/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/incoming/hotline/20110412-130902.mp3" type="audio/mpeg" length="1803301"/>
 	<category>hotline</category>
-	<category>mcast</category>
 	<category>podcast</category>
 	<category>sckrat</category>
 	<author>info@tmradio.net (anonymous)</author>
