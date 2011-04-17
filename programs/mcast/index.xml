@@ -11,8 +11,21 @@
 <title>Все микроподкасты</title>
 <description>Страницы с меткой «mcast»</description>
 <link>http://www.tmradio.net/programs/mcast/</link>
-<pubDate>Sun, 17 Apr 2011 13:28:00 -0000</pubDate>
-<lastBuildDate>Sun, 17 Apr 2011 13:28:00 -0000</lastBuildDate>
+<pubDate>Sun, 17 Apr 2011 15:28:00 -0000</pubDate>
+<lastBuildDate>Sun, 17 Apr 2011 15:28:00 -0000</lastBuildDate>
+<item>
+	<title>О фильме «Исходный код»</title>
+	<link>http://www.tmradio.net/programs/mcast/28/index.html</link>
+	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/movies/source-code/"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Sun, 17 Apr 2011 15:28:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/programs/mcast/28/index.html</guid>
+	<enclosure url="http://files.umonkey.net/audio/mcast/movies/source-code.mp3" type="audio/mpeg" length="3326006"/>
+	<category>mcast</category>
+	<category>movie-reviews</category>
+	<category>podcast</category>
+	<category>umonkey</category>
+	<author>info@tmradio.net (Хекс)</author>
+</item>
 <item>
 	<title>О фильме «В ловушке времени»</title>
 	<link>http://www.tmradio.net/programs/mcast/27/index.html</link>
