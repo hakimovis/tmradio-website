@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<atom:link href="http://www.tmradio.net/programs/about/index.xml" rel="self" type="application/rss+xml"/>
+<language>ru-RU</language>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<itunes:owner><itunes:email>info@tmradio.net</itunes:email></itunes:owner>
+<itunes:explicit>No</itunes:explicit>
+<itunes:category text="Society &amp; Culture"/>
+<generator>Poole</generator>
+<title>Программы: о группах</title>
+<description>Страницы с меткой «about»</description>
+<link>http://www.tmradio.net/programs/about/</link>
+<pubDate>Sun, 17 Apr 2011 10:41:00 -0000</pubDate>
+<lastBuildDate>Sun, 17 Apr 2011 10:41:00 -0000</lastBuildDate>
+<item>
+	<title>О группе Severed Fifth</title>
+	<link>http://www.tmradio.net/programs/about/severed-fifth/index.html</link>
+	<description>&lt;p&gt;Группа &lt;a href="http://www.severedfifth.com/"&gt;Severed Fifth&lt;/a&gt; появилась в 2008 году как эксперимент по созданию
+музыкальной группы, которая руководствуется принципами Creative Commons: вся
+музыка группы, все видеозаписи распространяются свободно, а основным источником
+финансов являются пожертвования слушателей.  Целью этого проекта является
+обнаружение всех подводных камней и получение достоверных ответов на вопросы о
+том, как свободное распространение материала может помочь музыкантам.&lt;/p&gt;
+&lt;p&gt;Основал группу, поёт и играет на ритм-гитаре в ней &lt;a href="http://www.jonobacon.org/"&gt;Джоно Бэйкон&lt;/a&gt;,
+профессиональный журналист, активист опен-сорса, по состоянию на 2011 год
+управляющий сообществом пользователей Ubuntu; до этого у него уже были группы
+Seraphidian и Conspiracy, но за ними не было такой идеи и из них ничего не
+получилось.&lt;/p&gt;
+&lt;p&gt;Название «Severed Fifth» дословно переводится как «разъединённое пятое» и
+связано с пятой поправкой к конституции США, которая гарантирует право на
+надлежащее судебное разбирательство и охрану частной собственности.  Официальное
+толкование этого названия отсутствует; известно только, что было желание
+придумать клёвое имя и идея о том, чтобы порвать пятую поправку на части.&lt;/p&gt;
+&lt;p&gt;Музыку для двух выпущенных на данный момент альбомов Бэйкон писал сам, в своей
+домашней студии; первый альбом был выдержан в стиле death metal, а второй
+считается уже скорее трэшевым.  Своей любимой группой называет Iron Mained, а из
+так называемой «большой четвёрки» — Slayer, Megadeth, Metallica и Anthrax —
+предпочтение отдаёт Metadeth.&lt;/p&gt;
+&lt;p&gt;Однажды — ближе к концу работы над вторым альбомом — Бэйкон встретил в аэропорту
+Криса Контоса, участника групп Machine Head и Testament.  Контосу стоящая за
+Severed Fifth идея поравилась, и он своими связями помог сколотить настоящую
+группу.  Уже через три месяца — в октябре 2010 года — эта группа дала свой
+первый настоящий концерт в Калифорнии.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="http://upload.wikimedia.org/wikipedia/commons/5/51/Severed_Fifth_%40_Cafe_Cocomo.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;Источники информации&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.doseofmetal.com/2010/10/interview-jono-bacon-severed-fifth/"&gt;Интервью журналу Dose Of Metal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://secure.wikimedia.org/wikipedia/en/wiki/Severed_Fifth"&gt;Wikipedia о Severed Fifth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://secure.wikimedia.org/wikipedia/en/wiki/Jono_Bacon"&gt;Wikipedia о Jono Bacon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://twit.tv/floss145"&gt;FLOSS Weekly №145: Jono Bacon and Severed Fifth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+	<pubDate>Sun, 17 Apr 2011 10:41:00 -0000</pubDate>
+	<guid>http://www.tmradio.net/programs/about/severed-fifth/index.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/about/severed-fifth/severed-fifth.mp3" type="audio/mpeg" length="13009416"/>
+	<category>about</category>
+	<category>podcast</category>
+	<author>info@tmradio.net (anonymous)</author>
+</item>
+</channel>
+</rss>
