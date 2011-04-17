@@ -11,8 +11,20 @@
 <title>Все подкасты</title>
 <description>Страницы с меткой «podcast»</description>
 <link>http://www.tmradio.net/podcast/</link>
-<pubDate>Thu, 14 Apr 2011 17:00:00 -0000</pubDate>
-<lastBuildDate>Thu, 14 Apr 2011 17:00:00 -0000</lastBuildDate>
+<pubDate>Fri, 15 Apr 2011 13:25:43 -0000</pubDate>
+<lastBuildDate>Fri, 15 Apr 2011 13:25:43 -0000</lastBuildDate>
+<item>
+	<title>Сообщение от asp_id</title>
+	<link>http://www.tmradio.net/hotline/69/index.html</link>
+	<description>&lt;p&gt;Сообщение получено по телефону.&lt;/p&gt;</description>
+	<pubDate>Fri, 15 Apr 2011 13:25:43 -0000</pubDate>
+	<guid>http://www.tmradio.net/hotline/69/index.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/hotline/20110415-172543.mp3" type="audio/mpeg" length="1165368"/>
+	<category>asp_id</category>
+	<category>hotline</category>
+	<category>podcast</category>
+	<author>info@tmradio.net (anonymous)</author>
+</item>
 <item>
 	<title>ТСН №20 от 14.04.2011</title>
 	<link>http://www.tmradio.net/programs/tsn/20/index.html</link>
