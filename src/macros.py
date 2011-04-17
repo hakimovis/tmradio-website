@@ -17,14 +17,15 @@ BASE_URL = 'http://www.tmradio.net'
 ADMIN_EMAIL = 'info@tmradio.net'
 DISQUS_ID = 'tmradio'
 LABEL_NAMES = {
+    'about': u'о группах',
     'daily': u'новость дня',
     'guests': u'гости',
+    'hotline': u'горячая линия',
     'mcast': u'микроподкасты',
     'podcast': u'подкасты',
     'programs': u'программы',
     'prokino': u'про кино',
     'tsn': u'так себе новости',
-    'hotline': u'горячая линия',
     }
 LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md', 'input/guests/%s/index.md', 'input/%s/index.md')
 
