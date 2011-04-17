@@ -44,9 +44,15 @@ Severed Fifth идея поравилась, и он своими связями
 - [Wikipedia о Jono Bacon][5]
 - [FLOSS Weekly №145: Jono Bacon and Severed Fifth][6]
 
+
+## Дополнительный материал
+
+- [Комментарии с фактами о группе][7]
+
 [1]: http://www.severedfifth.com/
 [2]: http://www.jonobacon.org/
 [3]: http://www.doseofmetal.com/2010/10/interview-jono-bacon-severed-fifth/
 [4]: https://secure.wikimedia.org/wikipedia/en/wiki/Severed_Fifth
 [5]: https://secure.wikimedia.org/wikipedia/en/wiki/Jono_Bacon
 [6]: http://twit.tv/floss145
+[7]: http://files.tmradio.net/audio/about/severed-fifth/
