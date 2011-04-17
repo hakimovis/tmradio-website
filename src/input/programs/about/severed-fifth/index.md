@@ -1,6 +1,6 @@
 title: О группе Severed Fifth
 date: 2011-04-17 14:41
-labels: about, podcast
+labels: about, podcast, mcast
 file: http://files.tmradio.net/audio/about/severed-fifth/severed-fifth.mp3
 filesize: 13009416
 ---

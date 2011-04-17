@@ -58,6 +58,7 @@ Severed Fifth идея поравилась, и он своими связями
 	<guid>http://www.tmradio.net/programs/about/severed-fifth/index.html</guid>
 	<enclosure url="http://files.tmradio.net/audio/about/severed-fifth/severed-fifth.mp3" type="audio/mpeg" length="13009416"/>
 	<category>about</category>
+	<category>mcast</category>
 	<category>podcast</category>
 	<author>info@tmradio.net (anonymous)</author>
 </item>
