@@ -10,3 +10,6 @@ labels: programs
 ## Архив выпусков
 
 {{ pagelist(pages, limit=None, label='about', show_dates=False) }}
+
+
+[1]: /programs/mcast/
