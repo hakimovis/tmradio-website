@@ -10,12 +10,12 @@
 <generator>Poole</generator>
 <title>Все записи в блоге</title>
 <description>Страницы с меткой «blog»</description>
-<link>http://www.tmradio.net/blog/</link>
+<link>http://www.tmradio.net/blog/index.xml</link>
 <pubDate>Fri, 01 Apr 2011 11:00:00 -0000</pubDate>
 <lastBuildDate>Fri, 01 Apr 2011 11:00:00 -0000</lastBuildDate>
 <item>
 	<title>Статистика за март 2011</title>
-	<link>http://www.tmradio.net/blog/9/index.html</link>
+	<link>http://www.tmradio.net/blog/9/</link>
 	<description>&lt;table class="mstat"&gt;
 &lt;tbody&gt;
 &lt;tr&gt;&lt;th&gt;Количество &lt;a href="/player.html"&gt;подключений&lt;/a&gt;:&lt;/th&gt;&lt;td&gt;2540&lt;/td&gt;&lt;/th&gt;

@@ -10,12 +10,12 @@
 <generator>Poole</generator>
 <title>Все микроподкасты</title>
 <description>Страницы с меткой «mcast»</description>
-<link>http://www.tmradio.net/programs/mcast/</link>
+<link>http://www.tmradio.net/programs/mcast/index.xml</link>
 <pubDate>Sun, 17 Apr 2011 15:28:00 -0000</pubDate>
 <lastBuildDate>Sun, 17 Apr 2011 15:28:00 -0000</lastBuildDate>
 <item>
 	<title>О фильме «Исходный код»</title>
-	<link>http://www.tmradio.net/programs/mcast/28/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/28/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/movies/source-code/"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Sun, 17 Apr 2011 15:28:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/28/index.html</guid>
@@ -29,7 +29,7 @@
 </item>
 <item>
 	<title>О фильме «В ловушке времени»</title>
-	<link>http://www.tmradio.net/programs/mcast/27/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/27/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/movies/timeline/"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Sun, 17 Apr 2011 13:28:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/27/index.html</guid>
@@ -43,7 +43,7 @@
 </item>
 <item>
 	<title>О группе Severed Fifth</title>
-	<link>http://www.tmradio.net/programs/about/severed-fifth/index.html</link>
+	<link>http://www.tmradio.net/programs/about/severed-fifth/</link>
 	<description>&lt;p&gt;Группа &lt;a href="http://www.severedfifth.com/"&gt;Severed Fifth&lt;/a&gt; появилась в 2008 году как эксперимент по созданию
 музыкальной группы, которая руководствуется принципами Creative Commons: вся
 музыка группы, все видеозаписи распространяются свободно, а основным источником
@@ -92,7 +92,7 @@ Severed Fifth идея поравилась, и он своими связями
 </item>
 <item>
 	<title>О фильме «Теория заговора»</title>
-	<link>http://www.tmradio.net/programs/mcast/25/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/25/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/movies/conspiracy-theory/"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Wed, 13 Apr 2011 13:15:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/25/index.html</guid>
@@ -105,7 +105,7 @@ Severed Fifth идея поравилась, и он своими связями
 </item>
 <item>
 	<title>О рассказе «Билет на планету Транай»</title>
-	<link>http://www.tmradio.net/programs/mcast/26/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/26/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/books/tranai/"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Wed, 13 Apr 2011 11:49:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/26/index.html</guid>
@@ -117,7 +117,7 @@ Severed Fifth идея поравилась, и он своими связями
 </item>
 <item>
 	<title>О фильме «Быть Джоном Малковичем» [8/10]</title>
-	<link>http://www.tmradio.net/programs/mcast/16/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/16/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/movies/malkovich/index.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Sat, 09 Apr 2011 15:24:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/16/index.html</guid>
@@ -131,7 +131,7 @@ Severed Fifth идея поравилась, и он своими связями
 </item>
 <item>
 	<title>О фильме «Изобретение лжи»</title>
-	<link>http://www.tmradio.net/programs/mcast/2/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/2/</link>
 	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
 	<pubDate>Wed, 30 Mar 2011 20:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/2/index.html</guid>
@@ -144,7 +144,7 @@ Severed Fifth идея поравилась, и он своими связями
 </item>
 <item>
 	<title>О фильме «И грянул гром»</title>
-	<link>http://www.tmradio.net/programs/mcast/3/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/3/</link>
 	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
 	<pubDate>Wed, 30 Mar 2011 20:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/3/index.html</guid>
@@ -157,7 +157,7 @@ Severed Fifth идея поравилась, и он своими связями
 </item>
 <item>
 	<title>Новость дня за 25.03.2011: штрафы за неправильную парковку</title>
-	<link>http://www.tmradio.net/programs/daily/20110325/index.html</link>
+	<link>http://www.tmradio.net/programs/daily/20110325/</link>
 	<description>&lt;p&gt;«Единая Россия» подготовила ко второму чтению поправки в административный
 кодекс, которые значительно увеличивают штрафы за нарушения, провоцирующие
 транспортные заторы.  Это неправильный проезд перекрёстков, движение на красный
@@ -186,7 +186,7 @@ Severed Fifth идея поравилась, и он своими связями
 </item>
 <item>
 	<title>О фильме «Трон: наследие» [10/10]</title>
-	<link>http://www.tmradio.net/programs/mcast/15/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/15/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/tron-2-movie.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Wed, 16 Mar 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/15/index.html</guid>
@@ -200,7 +200,7 @@ Severed Fifth идея поравилась, и он своими связями
 </item>
 <item>
 	<title>Рецензия на сериал «Щит»</title>
-	<link>http://www.tmradio.net/programs/mcast/11/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/11/</link>
 	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
 	<pubDate>Tue, 15 Mar 2011 16:38:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/11/index.html</guid>
@@ -213,7 +213,7 @@ Severed Fifth идея поравилась, и он своими связями
 </item>
 <item>
 	<title>Рецензия на фильм «Нервы на пределе»</title>
-	<link>http://www.tmradio.net/programs/mcast/10/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/10/</link>
 	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
 	<pubDate>Tue, 15 Mar 2011 16:35:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/10/index.html</guid>
@@ -226,7 +226,7 @@ Severed Fifth идея поравилась, и он своими связями
 </item>
 <item>
 	<title>Новость дня за 14.03.2011: транстихоокеанское соглашение о партнёрстве</title>
-	<link>http://www.tmradio.net/programs/daily/20110314/index.html</link>
+	<link>http://www.tmradio.net/programs/daily/20110314/</link>
 	<description>&lt;p&gt;На сайте американской некоммерческой организации &lt;a href="http://keionline.org/"&gt;Knowledge Ecology
 International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp-10feb2011-us-text-ipr-chapter.pdf"&gt;опубликован черновик&lt;/a&gt; раздела о правах интеллектуальной
 собственности «Транстихоокеанского соглашения о партнерстве».  Этот документ
@@ -259,7 +259,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>Бегущий по лезвию, 1981</title>
-	<link>http://www.tmradio.net/programs/mcast/20/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/20/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://www.dugwin.net/rss/podcast/blog/00132.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Wed, 09 Mar 2011 09:46:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/20/index.html</guid>
@@ -273,7 +273,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>500 дней лета</title>
-	<link>http://www.tmradio.net/programs/mcast/8/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/8/</link>
 	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
 	<pubDate>Fri, 04 Mar 2011 12:35:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/8/index.html</guid>
@@ -286,7 +286,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>О сериале "The Big C"</title>
-	<link>http://www.tmradio.net/programs/mcast/7/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/7/</link>
 	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
 	<pubDate>Fri, 04 Mar 2011 12:34:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/7/index.html</guid>
@@ -299,7 +299,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>Опенсорсное кино</title>
-	<link>http://www.tmradio.net/programs/mcast/9/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/9/</link>
 	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
 	<pubDate>Thu, 03 Mar 2011 21:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/9/index.html</guid>
@@ -312,7 +312,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>Американский психопат, 2000</title>
-	<link>http://www.tmradio.net/programs/mcast/21/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/21/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://www.dugwin.net/rss/podcast/blog/00121.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Fri, 25 Feb 2011 05:54:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/21/index.html</guid>
@@ -326,7 +326,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>День Святого Валентина</title>
-	<link>http://www.tmradio.net/programs/mcast/6/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/6/</link>
 	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
 	<pubDate>Wed, 16 Feb 2011 13:13:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/6/index.html</guid>
@@ -338,7 +338,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>Чёрный лебедь (2010)</title>
-	<link>http://www.tmradio.net/programs/mcast/22/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/22/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://www.dugwin.net/rss/podcast/blog/00118.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Tue, 15 Feb 2011 09:36:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/22/index.html</guid>
@@ -352,7 +352,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>утопические мысли о вреде запретов и ограничений</title>
-	<link>http://www.tmradio.net/programs/mcast/5/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/5/</link>
 	<description>&lt;p&gt;A boo by nikonor&lt;/p&gt;</description>
 	<pubDate>Fri, 11 Feb 2011 17:44:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/5/index.html</guid>
@@ -364,7 +364,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>О бедном гусаре замолвите слово</title>
-	<link>http://www.tmradio.net/programs/mcast/1/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/1/</link>
 	<description>&lt;p&gt;Описание отсутствует.&lt;/p&gt;</description>
 	<pubDate>Thu, 10 Feb 2011 21:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/1/index.html</guid>
@@ -377,7 +377,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>Burlesque и This Is It, два в одном</title>
-	<link>http://www.tmradio.net/programs/mcast/23/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/23/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://www.dugwin.net/rss/podcast/blog/00115.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Mon, 07 Feb 2011 09:45:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/23/index.html</guid>
@@ -391,7 +391,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>Пятиминутка ненависти: коммунизм</title>
-	<link>http://www.tmradio.net/programs/mcast/14/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/14/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/hate-communism.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Sun, 06 Feb 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/14/index.html</guid>
@@ -405,7 +405,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>Обзор сериала «Теория большого взрыва»</title>
-	<link>http://www.tmradio.net/programs/mcast/13/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/13/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/bbt-sitcom-review.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Sat, 05 Feb 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/13/index.html</guid>
@@ -419,7 +419,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>Пятиминутка ненависти: парковка</title>
-	<link>http://www.tmradio.net/programs/mcast/18/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/18/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/hate-parking.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Sat, 05 Feb 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/18/index.html</guid>
@@ -432,7 +432,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>Рецензия на сериал «Визитёры»</title>
-	<link>http://www.tmradio.net/programs/mcast/19/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/19/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/visitors-series-review.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Sat, 05 Feb 2011 18:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/19/index.html</guid>
@@ -446,7 +446,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>Tron: legacy</title>
-	<link>http://www.tmradio.net/programs/mcast/24/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/24/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://www.dugwin.net/rss/podcast/blog/00113.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Mon, 31 Jan 2011 17:51:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/24/index.html</guid>
@@ -460,7 +460,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>Новость дня за 15.12.2010</title>
-	<link>http://www.tmradio.net/programs/daily/20101215/index.html</link>
+	<link>http://www.tmradio.net/programs/daily/20101215/</link>
 	<description>&lt;p&gt;Ливийский лидер Муамар Каддафи высказался за создание в Африке единой армии и
 общего правительства.  Это позволит, &lt;a href="http://www.vz.ru/news/2010/12/15/454859.html"&gt;цитирую газету Взгляд&lt;/a&gt;, «сделать
 континент сплочённее и придать смысл битвам и жертвам, принесённым африканцами
@@ -487,7 +487,7 @@ International&lt;/a&gt; &lt;a href="http://keionline.org/sites/default/files/tpp
 </item>
 <item>
 	<title>О фильме «Здравозахоронение» [8/10]</title>
-	<link>http://www.tmradio.net/programs/mcast/12/index.html</link>
+	<link>http://www.tmradio.net/programs/mcast/12/</link>
 	<description>&lt;p&gt;Полное описание можно найти на &lt;a href="http://umonkey.net/sicko-movie.html"&gt;сайте автора&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Tue, 20 Apr 2010 16:00:00 -0000</pubDate>
 	<guid>http://www.tmradio.net/programs/mcast/12/index.html</guid>

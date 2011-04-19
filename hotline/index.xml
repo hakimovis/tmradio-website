@@ -10,12 +10,12 @@
 <generator>Poole</generator>
 <title>Все сообщения с горячей линии</title>
 <description>Страницы с меткой «hotline»</description>
-<link>http://www.tmradio.net/hotline/</link>
+<link>http://www.tmradio.net/hotline/index.xml</link>
 <pubDate>Fri, 15 Apr 2011 13:25:43 -0000</pubDate>
 <lastBuildDate>Fri, 15 Apr 2011 13:25:43 -0000</lastBuildDate>
 <item>
 	<title>Сообщение от asp_id</title>
-	<link>http://www.tmradio.net/hotline/69/index.html</link>
+	<link>http://www.tmradio.net/hotline/69/</link>
 	<description>&lt;p&gt;Сообщение получено по телефону.&lt;/p&gt;</description>
 	<pubDate>Fri, 15 Apr 2011 13:25:43 -0000</pubDate>
 	<guid>http://www.tmradio.net/hotline/69/index.html</guid>
@@ -27,7 +27,7 @@
 </item>
 <item>
 	<title>Сообщение от Alex Frolov</title>
-	<link>http://www.tmradio.net/hotline/68/index.html</link>
+	<link>http://www.tmradio.net/hotline/68/</link>
 	<description>&lt;p&gt;Сообщение получено по почте.&lt;/p&gt;</description>
 	<pubDate>Thu, 14 Apr 2011 08:41:05 -0000</pubDate>
 	<guid>http://www.tmradio.net/hotline/68/index.html</guid>
@@ -39,7 +39,7 @@
 </item>
 <item>
 	<title>Сообщение от Alex Frolov</title>
-	<link>http://www.tmradio.net/hotline/67/index.html</link>
+	<link>http://www.tmradio.net/hotline/67/</link>
 	<description>&lt;p&gt;Сообщение получено по почте.&lt;/p&gt;</description>
 	<pubDate>Tue, 12 Apr 2011 09:09:02 -0000</pubDate>
 	<guid>http://www.tmradio.net/hotline/67/index.html</guid>
@@ -51,7 +51,7 @@
 </item>
 <item>
 	<title>Сообщение от +7905XXX7164</title>
-	<link>http://www.tmradio.net/hotline/5/index.html</link>
+	<link>http://www.tmradio.net/hotline/5/</link>
 	<description>&lt;p&gt;Сообщение получено по GSM.&lt;/p&gt;</description>
 	<pubDate>Thu, 03 Mar 2011 12:25:04 -0000</pubDate>
 	<guid>http://www.tmradio.net/hotline/5/index.html</guid>
@@ -63,7 +63,7 @@
 </item>
 <item>
 	<title>Сообщение от +7905XXX7164</title>
-	<link>http://www.tmradio.net/hotline/4/index.html</link>
+	<link>http://www.tmradio.net/hotline/4/</link>
 	<description>&lt;p&gt;Сообщение получено по GSM.&lt;/p&gt;</description>
 	<pubDate>Tue, 25 Jan 2011 09:08:02 -0000</pubDate>
 	<guid>http://www.tmradio.net/hotline/4/index.html</guid>
@@ -75,7 +75,7 @@
 </item>
 <item>
 	<title>Сообщение от Semeon Boboshko</title>
-	<link>http://www.tmradio.net/hotline/3/index.html</link>
+	<link>http://www.tmradio.net/hotline/3/</link>
 	<description>&lt;p&gt;Сообщение получено по электронной почте.&lt;/p&gt;</description>
 	<pubDate>Tue, 18 Jan 2011 12:55:34 -0000</pubDate>
 	<guid>http://www.tmradio.net/hotline/3/index.html</guid>
@@ -87,7 +87,7 @@
 </item>
 <item>
 	<title>Сообщение от Semeon Boboshko</title>
-	<link>http://www.tmradio.net/hotline/2/index.html</link>
+	<link>http://www.tmradio.net/hotline/2/</link>
 	<description>&lt;p&gt;Сообщение получено по электронной почте.&lt;/p&gt;</description>
 	<pubDate>Mon, 17 Jan 2011 11:31:54 -0000</pubDate>
 	<guid>http://www.tmradio.net/hotline/2/index.html</guid>
@@ -99,7 +99,7 @@
 </item>
 <item>
 	<title>Сообщение от +7905XXX7164</title>
-	<link>http://www.tmradio.net/hotline/1/index.html</link>
+	<link>http://www.tmradio.net/hotline/1/</link>
 	<description>&lt;p&gt;Сообщение получено по GSM.&lt;/p&gt;</description>
 	<pubDate>Sun, 09 Jan 2011 14:54:49 -0000</pubDate>
 	<guid>http://www.tmradio.net/hotline/1/index.html</guid>

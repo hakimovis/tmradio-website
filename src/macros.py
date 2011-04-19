@@ -275,7 +275,7 @@ def write_rss(pages, title, description, label=None, filename=None):
     xml += u'<generator>Poole</generator>\n'
     xml += u'<title>%s</title>\n' % escape(title)
     xml += u'<description>%s</description>\n' % escape(description)
-    xml += u'<link>%s/%s</link>\n' % (BASE_URL.rstrip('/'), strip_index(filename, suffix='index.xml'))
+    xml += u'<link>%s/%s</link>\n' % (BASE_URL.rstrip('/'), strip_index(filename, suffix='index.html'))
     if pages:
         feed_pub_date = email.utils.formatdate(parse_date_time(pages[0].date))
         xml += u'<pubDate>%s</pubDate>\n' % feed_pub_date
@@ -286,7 +286,7 @@ def write_rss(pages, title, description, label=None, filename=None):
         xml += u'<item>\n'
         xml += u'\t<title>%s</title>\n' % escape(p.title)
         link = u"%s/%s" % (BASE_URL, p.url)
-        xml += u'\t<link>%s</link>\n' % link
+        xml += u'\t<link>%s</link>\n' % strip_index(link)
         xml += u'\t<description>%s</description>\n' % escape(p.html)
         date = parse_date_time(p.date)
         xml += u'\t<pubDate>%s</pubDate>\n' % email.utils.formatdate(date)
