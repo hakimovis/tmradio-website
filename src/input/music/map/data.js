@@ -1,9 +1,9 @@
 var map_data = {
  "bounds": [
-  18.25, 
+  29.761341000000002, 
   64.147357, 
   -122.437757, 
-  105.6833333
+  61.399461000000002
  ], 
  "markers": [
   {
@@ -19,6 +19,13 @@ var map_data = {
     -76.122127000000006
    ], 
    "html": "<p><strong>Brad Sucks</strong><br/>The Mansion, Kingston, ON<br/>14.05.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1880712+Brad+Sucks\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    45.403028999999997, 
+    -75.725280999999995
+   ], 
+   "html": "<p><strong>Brad Sucks</strong><br/>The Elmdale Tavern, Ottawa<br/>11.06.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1907992+Brad+Sucks+at+The+Elmdale+Tavern+on+11+June+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -68,6 +75,13 @@ var map_data = {
     -0.76666670000000003
    ], 
    "html": "<p><strong>Caribou</strong><br/>Salle Polyvalente, Laval<br/>20.05.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1897829+Les+3+elephants\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.854692, 
+    4.3663059999999998
+   ], 
+   "html": "<p><strong>Caribou</strong><br/>Botanique, <br/>21.05.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1806538+Les+Nuits+Botanique+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -190,13 +204,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    40.720274000000003, 
-    -73.993455999999995
-   ], 
-   "html": "<p><strong>Cat's Eyes</strong><br/>Bowery Ballroom, New York<br/>03.05.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1815896+Cat%27s+Eyes+at+Bowery+Ballroom+on+3+May+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     34.017757000000003, 
     -118.290504
    ], 
@@ -253,17 +260,17 @@ var map_data = {
   }, 
   {
    "ll": [
-    33.678229999999999, 
-    -116.237796
+    45.461635999999999, 
+    9.2175720000000005
    ], 
-   "html": "<p><strong>Chromeo</strong><br/>Empire Polo Grounds, Indio, CA<br/>15.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1728065+Coachella+Valley+Music+and+Arts+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Cat's Eyes</strong><br/>Plastic, Milano<br/>27.05.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1911596+Cat%27s+Eyes+at+Plastic+on+27+May+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
-    51.465373, 
-    -0.115206
+    40.780720000000002, 
+    -73.973404000000002
    ], 
-   "html": "<p><strong>Chromeo</strong><br/>O2 Academy Brixton, London<br/>29.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1736660+Chromeo+at+O2+Academy+Brixton+on+29+April+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Chromeo</strong><br/>American Museum of Natural History, New York, NY<br/>22.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1910917+One+Step+Beyond\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -323,17 +330,31 @@ var map_data = {
   }, 
   {
    "ll": [
-    50.507092999999998, 
-    3.693743
-   ], 
-   "html": "<p><strong>Chromeo</strong><br/>Dour Sports, Dour<br/>14.07.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1775961+Dour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     46.9166667, 
     7.4666667000000002
    ], 
    "html": "<p><strong>Chromeo</strong><br/>Gurten, Bern<br/>14.07.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1742578+Gurtenfestival+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    60.156399, 
+    24.950050999999998
+   ], 
+   "html": "<p><strong>Chromeo</strong><br/>The Circus, Helsinki<br/>17.07.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1915054+Chromeo+at+The+Circus+on+17+July+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    34.063806, 
+    -118.235646
+   ], 
+   "html": "<p><strong>Chromeo</strong><br/>Los Angeles State Historic Park, Los Angeles, CA<br/>06.08.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1859133+HARD+Summer+Festival+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.952226000000003, 
+    5.3483200000000002
+   ], 
+   "html": "<p><strong>Chromeo</strong><br/>Kiewit, Hasselt<br/>18.08.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1645076+Pukkelpop+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -344,31 +365,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    53.335559000000003, 
-    -6.2565109999999997
+    51.552028, 
+    -0.14191699999999999
    ], 
-   "html": "<p><strong>Clare Maguire</strong><br/>The Sugar Club, Dublin<br/>10.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1827122+Clare+Maguire+at+The+Sugar+Club+on+10+April+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.877706000000003, 
-    -4.2898820000000004
-   ], 
-   "html": "<p><strong>Clare Maguire</strong><br/>Oran Mor, Glasgow<br/>15.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1865254+Clare+Maguire+at+Oran+Mor+on+15+April+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    53.485171999999999, 
-    -2.2342580000000001
-   ], 
-   "html": "<p><strong>Clare Maguire</strong><br/>Band on the Wall, Manchester<br/>16.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1827537+Clare+Maguire\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    53.794277999999998, 
-    -1.543471
-   ], 
-   "html": "<p><strong>Clare Maguire</strong><br/>The Cockpit, Leeds<br/>17.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1881400+Clare+Maguire+at+The+Cockpit+on+17+April+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Chromeo</strong><br/>HMV Forum, London<br/>25.11.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1904704+HMV+London+Forum+%28Rescheduled+Brixton+gig%29\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -376,6 +376,13 @@ var map_data = {
     -0.102822
    ], 
    "html": "<p><strong>Clare Maguire</strong><br/>Union Chapel, London<br/>05.05.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1892878+Paloma+Faith%3A+Charity+Show\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.159843000000002, 
+    -2.5856210000000002
+   ], 
+   "html": "<p><strong>Clare Maguire</strong><br/>Worthy Farm, Shepton Mallet<br/>22.06.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1626411+Glastonbury+Festival+of+Contemporary+Performing+Arts+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -400,17 +407,17 @@ var map_data = {
   }, 
   {
    "ll": [
+    48.766523999999997, 
+    8.2323850000000007
+   ], 
+   "html": "<p><strong>Clare Maguire</strong><br/>Festspielhaus, Baden-Baden<br/>15.09.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1907243+SWR3+New+Pop+Festival+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     51.316666699999999, 
     18.6333333
    ], 
    "html": "<p><strong>Controlled Collapse</strong><br/>Zamek, Bolk\u00f3w<br/>21.07.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1624373+Castle+Party+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    50.941960999999999, 
-    6.9591089999999998
-   ], 
-   "html": "<p><strong>David Rovics</strong><br/>Alter Wartesaal, K\u00f6ln<br/>10.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1859728+David+Rovics%3A+Power+to+the+People%21\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -425,13 +432,6 @@ var map_data = {
     -0.14068800000000001
    ], 
    "html": "<p><strong>David's Lyre</strong><br/>Prince Albert, Brighton<br/>13.05.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1902108+13+Artists+Showcase+at+The+Great+Escape\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    50.108182999999997, 
-    14.443186000000001
-   ], 
-   "html": "<p><strong>DiscoBalls</strong><br/>Cross Club, Praha<br/>19.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1888151+The+Toasters+at+Cross+Club+on+19+April+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -466,7 +466,7 @@ var map_data = {
     50.108182999999997, 
     14.443186000000001
    ], 
-   "html": "<p><strong>DiscoBalls</strong><br/>Cross Club, Praha<br/>15.06.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1853636+5+let+s+DiscoBalls+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>DiscoBalls</strong><br/>Cross Club, Praha<br/>15.06.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1853636+%225+Years+with+DiscoBalls%22\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -484,10 +484,24 @@ var map_data = {
   }, 
   {
    "ll": [
-    50.820120000000003, 
-    -0.13247500000000001
+    53.964733000000003, 
+    27.643682999999999
    ], 
-   "html": "<p><strong>I'm from Barcelona</strong><br/>Concorde 2, Brighton<br/>10.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1866550+I%27m+from+Barcelona+at+Concorde+2+on+10+April+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Gorky Park</strong><br/>\u0411\u043e\u0440\u043e\u0432\u0430\u044f, Minsk<br/>04.06.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1914098+%D0%A0%D0%BE%D0%BA+%D0%B7%D0%B0+%D0%91%D0%BE%D0%B1%D1%80%D0%BE%D0%B2\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    57.711964999999999, 
+    11.948252999999999
+   ], 
+   "html": "<p><strong>I'm from Barcelona</strong><br/>Sveriges Radio, G\u00f6teborg<br/>20.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1904094+P3+Session+med+I%27m+From+Barcelona+-+Det+Vackra+Livet\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    57.783659999999998, 
+    14.263609000000001
+   ], 
+   "html": "<p><strong>I'm from Barcelona</strong><br/>Folkets Park, Huskvarna<br/>07.05.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1748437+Popadelica+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -515,21 +529,42 @@ var map_data = {
     59.906886, 
     30.307623
    ], 
-   "html": "<p><strong>Kirov</strong><br/>\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>27.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1885776+%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0+KIROV.+%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+DVD.\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Kirov</strong><br/>\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>27.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1885776+Kirov+-+%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+DVD\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
-    56.838194000000001, 
-    60.610779999999998
+    55.763537999999997, 
+    37.624462000000001
    ], 
-   "html": "<p><strong>nobody.one</strong><br/>\u0410\u0420\u0442\u0425\u0430\u0443\u0441, \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433<br/>12.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1782784+nobody.one\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Kirov</strong><br/>Squat Cafe, <br/>30.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1886990+%D0%9B%D0%B5%D1%82%D0%BD%D1%8F%D1%8F+%D1%82%D0%B5%D1%80%D1%80%D0%B0%D1%81%D0%B0+SQUAT+CAFE\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
-    53.276693000000002, 
-    50.267299000000001
+    59.934010999999998, 
+    30.366228
    ], 
-   "html": "<p><strong>nobody.one</strong><br/>\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u00ab\u0422\u0438\u043d\u044c\u043a\u043e\u0444\u0444\u00bb, \u0421\u0430\u043c\u0430\u0440\u0430<br/>17.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1903125+nobody.one+at+%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD+%C2%AB%D0%A2%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84%C2%BB+on+17+April+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Kirov</strong><br/>\u0426\u043e\u043a\u043e\u043b\u044c, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>20.05.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1914241+B-DAY+ROCK+PARTY\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.763537999999997, 
+    37.624462000000001
+   ], 
+   "html": "<p><strong>KOSMOPOP2</strong><br/>Squat Cafe, <br/>30.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1911478+SWElectronica\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    59.934010999999998, 
+    30.366228
+   ], 
+   "html": "<p><strong>KOSMOPOP2</strong><br/>\u0426\u043e\u043a\u043e\u043b\u044c, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>01.05.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1905491+SWElectronica+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.116666700000003, 
+    54.866666700000003
+   ], 
+   "html": "<p><strong>nobody.one</strong><br/>Machine Head, \u0421\u0430\u0440\u0430\u0442\u043e\u0432, <br/>22.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1820175+2011+Addictive+Tour+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -540,27 +575,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    41.949917999999997, 
-    -87.658831000000006
-   ], 
-   "html": "<p><strong>Pig</strong><br/>Metro, Chicago<br/>15.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1841836+WAX+TRAX%21+RECORDS+RETROSPECTACLE%3A+33+1-3+YEAR+ANNIVERSARY\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    53.421948999999998, 
-    14.552135
-   ], 
-   "html": "<p><strong>Reactor7x</strong><br/>Alter Ego, Szczecin<br/>09.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1845409+SOUND+CLINIQUM\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    51.316666699999999, 
-    18.6333333
-   ], 
-   "html": "<p><strong>Reactor7x</strong><br/>Zamek, Bolk\u00f3w<br/>21.07.2011</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1624373+Castle+Party+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     44.833399, 
     11.618448000000001
    ], 
@@ -568,17 +582,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    59.959054999999999, 
-    30.319551000000001
+    54.68524, 
+    25.267958
    ], 
-   "html": "<p><strong>\u0411\u0438-2</strong><br/>\u041b\u0435\u043dConcert, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>08.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1890199+%D0%91%D0%B8-2+at+%D0%9B%D0%B5%D0%BDConcert+on+8+April+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    18.25, 
-    105.6833333
-   ], 
-   "html": "<p><strong>\u0411\u0438-2</strong><br/>\u0414\u041a \u0438\u043c. \u0421\u043e\u043b\u0434\u0430\u0442\u043e\u0432\u0430, \u041f\u0435\u0440\u043c\u044c<br/>16.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1836507+%D0%91%D0%B8-2+%D1%81+%D1%81%D0%B8%D0%BC%D1%84%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%BC+%D0%BE%D1%80%D0%BA%D0%B5%D1%81%D1%82%D1%80%D0%BE%D0%BC\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Theodor Bastard</strong><br/>Propaganda, Vilnius<br/>09.06.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1908594+Theodor+Bastard+at+Propaganda+on+9+June+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -610,17 +617,17 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.727179999999997, 
-    37.606941999999997
-   ], 
-   "html": "<p><strong>\u041a\u0438\u0440\u043f\u0438\u0447\u0438</strong><br/>\u0422\u043e\u0447\u043a\u0430, \u041c\u043e\u0441\u043a\u0432\u0430<br/>16.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1886474+%D0%9A%D0%B8%D1%80%D0%BF%D0%B8%D1%87%D0%B8+-+%D0%94%D0%B5%D0%BD%D1%8C+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B+-+16+%D0%BB%D0%B5%D1%82%21\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     55.155788000000001, 
     61.376511000000001
    ], 
    "html": "<p><strong>\u041a\u0438\u0440\u043f\u0438\u0447\u0438</strong><br/>Garage Underground, \u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a<br/>29.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1896194+%D0%9A%D0%B8%D1%80%D0%BF%D0%B8%D1%87%D0%B8\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    56.845823000000003, 
+    60.560139999999997
+   ], 
+   "html": "<p><strong>\u041a\u0438\u0440\u043f\u0438\u0447\u0438</strong><br/>\u041a\u043b\u0443\u0431 \"\u041d\u0438\u0440\u0432\u0430\u043d\u0430\", \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433<br/>30.04.2011</p><p class=\"more\"><a href=\"http://www.last.fm/event/1911375+%D0%9A%D0%B8%D1%80%D0%BF%D0%B8%D1%87%D0%B8+at+%D0%9A%D0%BB%D1%83%D0%B1+%22%D0%9D%D0%B8%D1%80%D0%B2%D0%B0%D0%BD%D0%B0%22+on+30+April+2011\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }
  ]
 };
