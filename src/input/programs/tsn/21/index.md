@@ -16,6 +16,7 @@ labels: umonkey, dugwin, asp_id, indeyets, tsn, новости, podcast, бан�
 <li><a href="http://torrentfreak.com/file-sharers-await-official-recognition-of-new-religion-110410/">Swedish File-Sharers File For Religious Status</a></li>
 <li><a href="http://echo.msk.ru/news/766234-echo.html">Одна голова орла на гербе России должна быть увенчана полумесяцем – верховный муфтий</a></li>
 <li><a href="http://amstd.spb.ru/Library/sources/f_10.htm">Джеймс Мэдисон о демократии и республике</a></li>
+<li><a href="http://velopiter.spb.ru/club/open_2011.htm">Открытие велосезона-2011 в Питере</a></li>
 </ul>
 
 ![статистика](http://files.tmradio.net/audio/sosonews/sosonews-21.png)
