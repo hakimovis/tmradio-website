@@ -11,8 +11,19 @@
 <title>Все подкасты</title>
 <description>Страницы с меткой «podcast»</description>
 <link>http://www.tmradio.net/podcast/index.xml</link>
-<pubDate>Fri, 22 Apr 2011 17:00:00 -0000</pubDate>
-<lastBuildDate>Fri, 22 Apr 2011 17:00:00 -0000</lastBuildDate>
+<pubDate>Fri, 22 Apr 2011 17:56:03 -0000</pubDate>
+<lastBuildDate>Fri, 22 Apr 2011 17:56:03 -0000</lastBuildDate>
+<item>
+	<title>Сообщение от Asterisk PBX</title>
+	<link>http://www.tmradio.net/hotline/70/</link>
+	<description>&lt;p&gt;Сообщение получено по телефону.&lt;/p&gt;</description>
+	<pubDate>Fri, 22 Apr 2011 17:56:03 -0000</pubDate>
+	<guid>http://www.tmradio.net/hotline/70/index.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/hotline/20110422-215603.mp3" type="audio/mpeg" length="70942"/>
+	<category>hotline</category>
+	<category>podcast</category>
+	<author>info@tmradio.net (anonymous)</author>
+</item>
 <item>
 	<title>Эфир ТСН от 22.04.2011</title>
 	<link>http://www.tmradio.net/programs/tsn/21/</link>
