@@ -1,4 +1,4 @@
-title: Эфир ТСН от 22.04.2011
+title: ТСН №21 от 22.04.2011
 date: 2011-04-22 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-21.mp3
 filesize: 96204963
