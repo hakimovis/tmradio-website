@@ -1,5 +1,5 @@
-title: ТСН №21 от 22.04.2011
-date: 2011-04-22 21:00
+title: ТСН №21 от 21.04.2011
+date: 2011-04-21 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-21.mp3
 filesize: 96204963
 labels: umonkey, dugwin, asp_id, indeyets, tsn, новости, podcast, банки, ответственность, рубль, монеты, Египет, Рошаль, Каддафи, Google, музыкальная индустрия, религия, гербы, гимны, символика, демократия, республика, оружие, Мэдисон
