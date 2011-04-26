@@ -12,3 +12,12 @@ title: Магазин
 <a href="http://files.tmradio.net/pictures/tmshirt/1/tmshirt-1.zip">
   <img src="http://files.tmradio.net/pictures/tmshirt/1/tmshirt-1.jpg" alt="Футболка №1"/>
 </a>
+
+
+## Где и как печатать
+
+Некоторые проверенные места, где можно быстро и просто распечатать футболку:
+
+- СПб: [яМайка](http://i-maika.ru/)
+
+Можете [порекомендовать другие места](/feedback.html).
