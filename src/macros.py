@@ -8,6 +8,7 @@ import glob
 import json
 import mimetypes
 import os.path
+import re
 import sys
 import time
 import urllib
@@ -441,7 +442,7 @@ def monthly_stats(date):
     columns = [
         ('connection_count', u'Количество <a href="/player.html">подключений</a>', str),
         ('connection_avg', u'Среднее время прослушивания, мин.', lambda x: str(x / 60)),
-        ('connection_max', u'Максимальное число одновременных подключений', str),
+        ('connection_max', u'<a href="http://files.tmradio.net/pictures/stats/max-listeners/%s.png">Максимальное число одновременных подключений</a>' % re.sub('[^0-9]', '', date), str),
         ('unique_ips', u'<a href="/listeners/#map">Уникальных IP-адресов</a>', str),
         ('track_count', u'Количество дорожек в медиатеке', str),
         ('track_length', u'Общая продолжительность медиатеки, ч.', lambda x: str(x / 3600)),
