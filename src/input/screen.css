@@ -1,0 +1,270 @@
+body {
+  background-color: white;
+  color: black;
+  font: 10pt Ubuntu, sans-serif;
+  line-height: 15pt;
+  margin: 0;
+  padding: 10px;
+}
+
+body.draft {
+  background: white url(images/draft.png);
+}
+
+img {
+  border: none;
+}
+
+a {
+  color: #245887;
+  text-decoration: underline;
+}
+
+a.local {
+  color: inherit;
+  text-decoration: none;
+}
+
+a.local:hover {
+  text-decoration: underline;
+}
+
+a.rss {
+  background: url(images/rss.png) no-repeat top left;
+  padding-left: 18px;
+}
+
+a.dcc {
+  margin-left: 1em;
+  font-size: 80%;
+  color: gray;
+}
+
+em {
+  font-style: normal;
+  background-color: #ffff80;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.25em;
+  margin: .67em 0;
+}
+
+h2 {
+  margin: 1.5em 0 .5em;
+}
+
+h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h2 a:hover {
+  text-decoration: underline;
+}
+
+.pagelist .date {
+  color: gray;
+  font-size: 80%;
+  margin-left: 1.5em;
+}
+
+.icon a {
+  background-position: center left;
+  background-repeat: no-repeat;
+  margin-left: 0 !important;
+  padding-left: 18px;
+}
+
+.icon-rss a {
+  background-image: url(images/rss.png);
+}
+
+#wrapper {
+  width: 800px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#header {
+  position: absolute;
+  top: 10px;
+  width: 100%;
+}
+
+#header h2 {
+  display: inline;
+  background-color: #cccccc;
+  padding: 2px 4px;
+}
+
+#header ul {
+  margin: 0;
+  padding: 0;
+  display: inline;
+  list-style-type: none;
+}
+
+#header ul li {
+  display: inline;
+  text-transform: lowercase;
+  margin-left: 1em;
+}
+
+#header #buttons {
+  float: right;
+}
+
+#content {
+  position: absolute;
+  top: 40px;
+  width: 100%;
+}
+
+#content ul {
+  padding-left: 2em;
+}
+
+#content li {
+  margin: .5em 0;
+}
+
+#content h2 {
+  font-weight: normal;
+}
+
+#content .meta {
+  color: gray;
+  font-size: 8pt;
+}
+
+#content .meta a {
+  color: inherit;
+}
+
+#content #inner {
+  min-height: 120px;
+}
+
+#footer {
+  margin: 5em 0 0 0;
+  border-top: solid 1px #cccccc;
+  padding-top: .5em;
+  font-size: 90%;
+}
+
+#columns ul {
+  width: 25%;
+  float: left;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  color: gray;
+}
+
+#copy {
+  clear: both;
+  padding: 2em 0;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table.mstat td,
+table.mstat th {
+  padding: 2px 6px;
+  border: solid 1px #cccccc;
+}
+
+table.mstat th {
+  text-align: left;
+}
+
+table.mstat td {
+  text-align: right;
+}
+
+table.skel {
+  width: 100%;
+}
+
+table.skel td,
+table.skel th {
+  border: solid 1px #cccccc;
+  padding: 2px 6px;
+}
+
+table.skel.sched td {
+  text-align: center;
+}
+
+table.skel#rsst {
+  width: auto;
+}
+
+table#yamoney td:nth-child(1) {
+  white-space: nowrap;
+}
+
+table#yamoney td:nth-child(2) {
+  text-align: right;
+  white-space: nowrap;
+}
+
+table#yamoney td:nth-child(3) {
+  width: 100%;
+}
+
+table#yamoney tfoot {
+  background-color: #eeeeee;
+}
+
+iframe#cmap {
+  border: solid gray 1px;
+}
+
+iframe.flattr {
+  float: left;
+  margin-right: 40px;
+}
+
+form div {
+  margin-bottom: 1em;
+}
+
+form label {
+  display: block;
+}
+
+form .text {
+  width: 80%;
+  font-family: arial, sans-serif;
+  font-size: 12pt;
+  border: 1px solid #bbbbbb;
+  padding: 4px 6px;
+}
+
+#feedback {
+  width: 640px;
+  height: 450px;
+  border: none;
+}
+
+#banners {
+  float: right;
+  width: 122px;
+  margin: 0 0 10px 20px;
+}
+
+#banners img {
+  width: 120px;
+  height: 60px;
+  border: solid 1px #419fb8;
+}
+
+#banners img:hover {
+  border: solid 1px #245887;
+}
