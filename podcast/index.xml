@@ -11,8 +11,34 @@
 <title>Все подкасты</title>
 <description>Страницы с меткой «podcast»</description>
 <link>http://www.tmradio.net/podcast/index.xml</link>
-<pubDate>Thu, 28 Apr 2011 17:00:00 -0000</pubDate>
-<lastBuildDate>Thu, 28 Apr 2011 17:00:00 -0000</lastBuildDate>
+<pubDate>Wed, 04 May 2011 07:12:21 -0000</pubDate>
+<lastBuildDate>Wed, 04 May 2011 07:12:21 -0000</lastBuildDate>
+<item>
+	<title>О фильме «Телесеть»</title>
+	<link>http://www.tmradio.net/hotline/73/</link>
+	<description>&lt;p&gt;Сообщение получено по почте.&lt;/p&gt;</description>
+	<pubDate>Wed, 04 May 2011 07:12:21 -0000</pubDate>
+	<guid>http://www.tmradio.net/hotline/73/index.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/hotline/20110504-111221.mp3" type="audio/mpeg" length="2092075"/>
+	<category>argbrontsterop</category>
+	<category>mcast</category>
+	<category>podcast</category>
+	<category>prokino</category>
+	<author>info@tmradio.net (Хасан Атаман)</author>
+</item>
+<item>
+	<title>Пятиминутка ненависти: сбор милостыни онлайн</title>
+	<link>http://www.tmradio.net/hotline/72/</link>
+	<description>&lt;p&gt;Сообщение получено по почте.&lt;/p&gt;</description>
+	<pubDate>Tue, 03 May 2011 14:42:51 -0000</pubDate>
+	<guid>http://www.tmradio.net/hotline/72/index.html</guid>
+	<enclosure url="http://files.tmradio.net/audio/incoming/hotline/20110503-184251.mp3" type="audio/mpeg" length="5116688"/>
+	<category>hate</category>
+	<category>mcast</category>
+	<category>partyzan</category>
+	<category>podcast</category>
+	<author>info@tmradio.net (Партизан)</author>
+</item>
 <item>
 	<title>ТСН №22 от 28.04.2011</title>
 	<link>http://www.tmradio.net/programs/tsn/22/</link>
