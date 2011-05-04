@@ -83,7 +83,7 @@ h2 a:hover {
 }
 
 #wrapper {
-  width: 800px;
+  width: 980px;
   margin: 0 auto;
   position: relative;
 }
@@ -121,6 +121,7 @@ h2 a:hover {
   position: absolute;
   top: 40px;
   width: 100%;
+  margin-right: 100%;
 }
 
 #content ul {
@@ -146,13 +147,34 @@ h2 a:hover {
 
 #content #inner {
   min-height: 120px;
+  width: 780px;
 }
 
 #footer {
   margin: 5em 0 0 0;
-  border-top: solid 1px #cccccc;
   padding-top: .5em;
   font-size: 90%;
+}
+
+#navblocks {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 800px;
+	width: 180px;
+}
+.navblock {
+	margin-bottom: 15px;
+	font: normal 10pt ubuntu, sans-serif;
+}
+#navblocks h2 {
+	font: normal 10pt ubuntu, sans-serif;
+	color: gray;
+}
+#navblocks ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
 }
 
 #columns ul {

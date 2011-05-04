@@ -19,14 +19,15 @@ mpos: 3
 ## Записи
 
 Все прямые эфиры автоматически записываются и [доступны для скачивания][dump]. 
-Для максимального удобства есть [специальная RSS-лента][dump-rss] (подкаст).
+Для максимального удобства есть [специальная RSS-лента][dump-rss] (подкаст) с
+необработанными записями.
 
 [dump]: http://stream.tmradio.net/dump/
 [dump-rss]: http://stream.tmradio.net/dump/live.xml
 
 
 [Skype]: http://www.skype.com/
-[chat]: /chat.html
+[chat]: /chat/
 [offtopic]: http://offtopic.rpod.ru/
 [rasp]: /schedule.html
 [sms]: /live/sms/

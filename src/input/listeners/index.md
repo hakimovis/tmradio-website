@@ -22,15 +22,8 @@ mpos: 12
 Если вам интересно принять участие в развитии нашей радиостанции, есть
 [несколько способов сделать это](/support/).
 
-[chat]: /chat.html
+[chat]: /chat/
 [jabber]: /voting/
 [last]: http://www.lastfm.ru/user/tmradiobot
 [sub]: /subscribe.html
 [client]: http://app.tmradio.net/
-
-
-## <a class="local" href="/listeners/#map" name="map">Карта слушателей за последий месяц</a>
-
-<iframe id="cmap" src="/listeners/map/" width="800" height="300"></iframe>
-
-[Развернуть на весь экран](/listeners/map/)

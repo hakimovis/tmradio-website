@@ -29,9 +29,7 @@ mpos: 2
     </tr>
     <tr>
       <th>10:00</th>
-      <td colspan="3">pop</td>
-      <td>Повтор <a href="/programs/tsn/">ТСН</a></td>
-      <td colspan="3">pop</td>
+      <td colspan="7">pop</td>
     </tr>
     <tr>
       <th>11:00</th>
@@ -43,7 +41,7 @@ mpos: 2
     </tr>
     <tr>
       <th>13:00</th>
-      <td colspan="7">Хорошая музыка (одобрено слушателями)</td>
+      <td colspan="7">Хорошая музыка (<a href="/voting/">одобрено слушателями</a>)</td>
     </tr>
     <tr>
       <th>18:00</th>

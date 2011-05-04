@@ -19,6 +19,7 @@ ADMIN_EMAIL = 'info@tmradio.net'
 DISQUS_ID = 'tmradio'
 LABEL_NAMES = {
     'about': u'о группах',
+    'blog': u'блог',
     'daily': u'новость дня',
     'guests': u'гости',
     'hotline': u'горячая линия',
@@ -26,9 +27,16 @@ LABEL_NAMES = {
     'podcast': u'подкасты',
     'programs': u'программы',
     'prokino': u'про кино',
+    'stats': u'статистика',
     'tsn': u'так себе новости',
     }
-LABEL_PAGES = ('input/%s.md', 'input/programs/%s/index.md', 'input/guests/%s/index.md', 'input/%s/index.md')
+LABEL_PAGES = (
+    'input/%s.md',
+    'input/programs/%s/index.md',
+    'input/guests/%s/index.md',
+    'input/%s/index.md',
+    'input/about/%s/index.md',
+)
 
 def get_page_labels(page):
     labels = [l.strip() for l in page.get('labels', '').split(',') if l.strip()]
@@ -214,7 +222,7 @@ def add_comments(page):
         return u'<div id="disqus_thread"></div><script type="text/javascript">if (window.location.href.indexOf("http://localhost:") == 0) var disqus_developer = 1;'+ settings +' (function() { var dsq = document.createElement(\'script\'); dsq.type = \'text/javascript\'; dsq.async = true; dsq.src = \'http://tmradio.disqus.com/embed.js\'; (document.getElementsByTagName(\'head\')[0] || document.getElementsByTagName(\'body\')[0]).appendChild(dsq); })();</script><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=tmradio">comments powered by Disqus.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>'
     return ''
 
-def print_player(link, extras=True):
+def printplayer(link, extras=True):
     extra = u''
     if link.split('?')[0].endswith('.mp3'):
         if extras:

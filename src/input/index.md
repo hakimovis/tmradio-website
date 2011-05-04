@@ -9,7 +9,7 @@ mpos: 1
 на плейлист [голосуя за песни](/voting/) и напрямую [запрашивая их](/blog/10/).
 
 Работа над станцией координируется в [публичном трекере][gc], частично
-описывается в [блоге](/blog/), [финансируется](/support/) слушателями.
+описывается в [блоге](/blog/), [финансируется](/support/donate/) слушателями.
 
 [Горячая линия](hotline/): **+7 911 700 3831**.
 
@@ -20,13 +20,6 @@ mpos: 1
 ## Специальные программы
 
 {{ pagelist(pages, label='programs', show_dates=False, show_comments=False, order_by='title', reverse_order=False) }}
-
-
-## Статистика слушателей за неделю
-
-<a target="_blank" href="http://stream.tmradio.net/"><img src="http://stream.tmradio.net/listeners-site.png" alt="график"/></a>
-
-График обновляется раз в час.
 
 [listen]: http://stream.tmradio.net:8180/live.mp3.m3u
 [log]: http://files.tmradio.net/listeners.csv

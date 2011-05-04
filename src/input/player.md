@@ -1,7 +1,7 @@
 title: Как слушать?
 ---
 
-{{ print_player('http://stream.tmradio.net:8180/live.mp3', False) }}
+{{ printplayer('http://stream.tmradio.net:8180/live.mp3', False) }}
 
 Если проигрыватель «заикается», попробуйте использовать системный проигрыватель:
 
@@ -21,7 +21,7 @@ stream.tmradio.net` (Windows, запускать в терминале (Win+R, c
 
 [cl]: http://app.tmradio.net/
 [li]: /live/
-[ch]: /chat.html
+[ch]: /chat/
 [sm]: /live/sms/
 [pc]: /podcast/
 [zz]: http://files.tmradio.net/test.dat

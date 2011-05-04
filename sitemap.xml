@@ -13,6 +13,9 @@
 	<loc>http://www.tmradio.net/about/site/</loc>
 </url>
 <url>
+	<loc>http://www.tmradio.net/about/stats/</loc>
+</url>
+<url>
 	<loc>http://www.tmradio.net/artists.html</loc>
 </url>
 <url>
@@ -63,7 +66,7 @@
 	<loc>http://www.tmradio.net/blog/</loc>
 </url>
 <url>
-	<loc>http://www.tmradio.net/chat.html</loc>
+	<loc>http://www.tmradio.net/chat/</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/collaborate.html</loc>
@@ -161,7 +164,7 @@
 	<loc>http://www.tmradio.net/</loc>
 </url>
 <url>
-	<loc>http://www.tmradio.net/links.html</loc>
+	<loc>http://www.tmradio.net/links/</loc>
 </url>
 <url>
 	<loc>http://www.tmradio.net/listeners/</loc>
