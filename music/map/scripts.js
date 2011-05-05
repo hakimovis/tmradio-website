@@ -46,24 +46,24 @@ function show_map() {
 			var s = map_data.markers[idx], z = 1, icon = green_dot;
 			add_marker(map, new google.maps.LatLng(s.ll[0], s.ll[1]), icon, shadow, z, s);
 		}
-
-		function add_marker(map, position, icon, shadow, z, s)
-		{
-			var marker = new google.maps.Marker({
-				map: map,
-				position: position,
-				icon: icon,
-				shadow: shadow,
-				zIndex: z,
-				title: s.artist
-			});
-
-			google.maps.event.addListener(marker, 'click', function() {
-				iw.setContent("<div class='pos'>"+ s.html +"</div>");
-				iw.open(map, marker);
-			});
-		}
 	} catch (e) {
 		alert('Error: ' + e);
 	}
+}
+
+function add_marker(map, position, icon, shadow, z, s)
+{
+	var marker = new google.maps.Marker({
+		map: map,
+		position: position,
+		icon: icon,
+		shadow: shadow,
+		zIndex: z,
+		title: s.artist
+	});
+
+	google.maps.event.addListener(marker, 'click', function() {
+		iw.setContent("<div class='pos'>"+ s.html +"</div>");
+		iw.open(map, marker);
+	});
 }
