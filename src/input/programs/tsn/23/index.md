@@ -1,4 +1,4 @@
-title: Эфир ТСН от 05.05.2011
+title: ТСН №23 от 05.05.2011
 date: 2011-05-05 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-23.mp3
 filesize: 79358003
