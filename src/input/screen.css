@@ -149,6 +149,9 @@ h2 a:hover {
   min-height: 120px;
   width: 780px;
 }
+#content #inner img {
+  max-width: 780px;
+}
 
 #footer {
   margin: 5em 0 0 0;
