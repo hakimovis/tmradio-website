@@ -46,8 +46,8 @@ function somefunction(){
 			result+=' до <a href="/live/">прямого эфира</a>';
 			//если эфир уже идет, результат должен быть другой
 			if (lDays==0 && lHours==0 && lMinutes==0) result='<a href="/live/">Прямой эфир</a> начался!';
-			if (lDays==0 && lHours==0) result='<a href="/live/">Прямой эфир</a> прямо сейчас!';
-			if (lDays==0 && lHours==1) result='<a href="/live/">Прямой эфир</a> еще идет!';
+			if (lDays==6 && lHours==23) result='<a href="/live/">Прямой эфир</a> прямо сейчас!';
+			if (lDays==6 && lHours==22) result='<a href="/live/">Прямой эфир</a> еще идет!';
 			//заносим результат на баннер
 			document.getElementById('timerBanner').innerHTML=result;
 			//меняем режим
